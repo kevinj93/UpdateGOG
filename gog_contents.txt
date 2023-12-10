@@ -1,5 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 09-12-23
+    Updated as of 10-12-23
 
     - Executables + BIN files are all checked for authenticity
     - Game + DLC contents are generated automatically by a script. They may contain some missing information.
@@ -838,14 +838,17 @@ Goodies:
 slug: age_of_wonders_4
 
 Game + DLC: 
-|---> setup_age_of_wonders_4_86447_(64bit)_(69011)-1.bin
-|---> setup_age_of_wonders_4_86447_(64bit)_(69011)-2.bin
-|---> setup_age_of_wonders_4_86447_(64bit)_(69011)-3.bin
-|---> setup_age_of_wonders_4_86447_(64bit)_(69011).exe
-|---> setup_age_of_wonders_4_dragon_dawn_86447_(64bit)_(69011).exe
-|---> setup_age_of_wonders_4_empires__ashes_86447_(64bit)_(69011).exe
-|---> setup_age_of_wonders_4_pre-order_content_pack_86447_(64bit)_(69011).exe
-|---> setup_age_of_wonders_4_sign-up_content_86447_(64bit)_(69011).exe
+|---> setup_age_of_wonders_4_87048_(64bit)_(69358)-1.bin
+|---> setup_age_of_wonders_4_87048_(64bit)_(69358)-2.bin
+|---> setup_age_of_wonders_4_87048_(64bit)_(69358)-3.bin
+|---> setup_age_of_wonders_4_87048_(64bit)_(69358).exe
+|---> setup_age_of_wonders_4_dragon_dawn_87048_(64bit)_(69358).exe
+|---> setup_age_of_wonders_4_empires__ashes_87048_(64bit)_(69358).exe
+|---> setup_age_of_wonders_4_pre-order_content_pack_87048_(64bit)_(69358).exe
+|---> setup_age_of_wonders_4_sign-up_content_87048_(64bit)_(69358).exe
+
+Goodies: 
+|---> New folder
 
 
 
@@ -981,8 +984,8 @@ Goodies:
 slug: airships_conquer_the_skies
 
 Game + DLC: 
-|---> setup_airships_conquer_the_skies_1.2.4_(68650).exe
-|---> setup_airships_heroes_and_villains_1.2.4_(68650).exe
+|---> setup_airships_conquer_the_skies_1.2.5_(69490).exe
+|---> setup_airships_heroes_and_villains_1.2.5_(69490).exe
 
 Goodies: 
 |---> airships_soundtrack.zip
@@ -992,11 +995,14 @@ Goodies:
 slug: ai_war_2
 
 Game + DLC: 
-|---> setup_ai_war_2_5.574_(64bit)_(68943)-1.bin
-|---> setup_ai_war_2_5.574_(64bit)_(68943).exe
-|---> setup_ai_war_2_the_neinzul_abyss_5.574_(68943).exe
-|---> setup_ai_war_2_the_spire_rises_5.574_(68943).exe
-|---> setup_ai_war_2_zenith_onslaught_5.574_(68943).exe
+|---> setup_ai_war_2_5.579_(64bit)_(69542)-1.bin
+|---> setup_ai_war_2_5.579_(64bit)_(69542).exe
+|---> setup_ai_war_2_the_neinzul_abyss_5.579_(69542).exe
+|---> setup_ai_war_2_the_spire_rises_5.579_(69542).exe
+|---> setup_ai_war_2_zenith_onslaught_5.579_(69542).exe
+
+Goodies: 
+|---> New folder
 
 
 
@@ -2972,10 +2978,10 @@ Goodies:
 slug: atari_50_the_anniversary_celebration
 
 Game + DLC: 
-|---> setup_atari_50_the_anniversary_celebration_1.03_(64bit)_(61963)-1.bin
-|---> setup_atari_50_the_anniversary_celebration_1.03_(64bit)_(61963)-2.bin
-|---> setup_atari_50_the_anniversary_celebration_1.03_(64bit)_(61963)-3.bin
-|---> setup_atari_50_the_anniversary_celebration_1.03_(64bit)_(61963).exe
+|---> setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-1.bin
+|---> setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-2.bin
+|---> setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046)-3.bin
+|---> setup_atari_50_the_anniversary_celebration_1.04_(64bit)_(69046).exe
 
 
 
@@ -3866,38 +3872,39 @@ Goodies:
 slug: baldurs_gate_iii
 
 Game + DLC: 
-|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4079877_(64bit)_(69402)-1.bin
-|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4079877_(64bit)_(69402).exe
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-1.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-10.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-11.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-12.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-13.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-14.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-15.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-16.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-17.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-18.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-19.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-2.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-20.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-21.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-22.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-23.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-24.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-25.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-26.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-27.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-28.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-29.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-3.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-4.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-5.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-6.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-7.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-8.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402)-9.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4079877_(64bit)_(69402).exe
+|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-1.bin
+|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542).exe
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-1.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-10.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-11.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-12.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-13.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-14.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-15.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-16.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-17.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-18.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-19.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-2.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-20.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-21.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-22.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-23.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-24.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-25.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-26.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-27.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-28.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-29.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-3.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-30.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-4.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-5.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-6.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-7.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-8.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542)-9.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.4145012_-_patch_patch5_hotfix2__(64bit)_(69542).exe
 
 Goodies: 
 |---> baldurs_gate_3_artbook.zip
@@ -4034,9 +4041,9 @@ Goodies:
 slug: barony
 
 Game + DLC: 
-|---> setup_barony_legends__pariahs_v4.1.0-212023-1_(64bit)_(68402).exe
-|---> setup_barony_myths__outcasts_v4.1.0-212023-1_(64bit)_(68402).exe
-|---> setup_barony_v4.1.0-212023-1_(64bit)_(68402).exe
+|---> setup_barony_legends__pariahs_v4.1.1-181123-2_(64bit)_(69095).exe
+|---> setup_barony_myths__outcasts_v4.1.1-181123-2_(64bit)_(69095).exe
+|---> setup_barony_v4.1.1-181123-2_(64bit)_(69095).exe
 
 Goodies: 
 |---> barony_extended_ost_mp3.zip
@@ -4838,7 +4845,7 @@ Game + DLC:
 slug: below_the_stone
 
 Game + DLC: 
-|---> setup_below_the_stone_below_the_stone_press_build_-_alpha_0.1_(64bit)_(69093).exe
+|---> setup_below_the_stone_below_the_stone_press_build_-_alpha_0.1.1_(64bit)_(69385).exe
 
 
 
@@ -5685,10 +5692,10 @@ Game + DLC:
 slug: bleak_faith_forsaken
 
 Game + DLC: 
-|---> setup_bleak_faith_forsaken_4026645_(64bit)_(68563)-1.bin
-|---> setup_bleak_faith_forsaken_4026645_(64bit)_(68563)-2.bin
-|---> setup_bleak_faith_forsaken_4026645_(64bit)_(68563)-3.bin
-|---> setup_bleak_faith_forsaken_4026645_(64bit)_(68563).exe
+|---> setup_bleak_faith_forsaken_4026675_(64bit)_(69526)-1.bin
+|---> setup_bleak_faith_forsaken_4026675_(64bit)_(69526)-2.bin
+|---> setup_bleak_faith_forsaken_4026675_(64bit)_(69526)-3.bin
+|---> setup_bleak_faith_forsaken_4026675_(64bit)_(69526).exe
 
 
 
@@ -6136,8 +6143,8 @@ Goodies:
 slug: book_of_hours
 
 Game + DLC: 
-|---> setup_book_of_hours_2023.11.d.4_(69207).exe
-|---> setup_book_of_hours_perpetual_edition_content_2023.11.d.4_(69207).exe
+|---> setup_book_of_hours_2023.12.d.12_(69518).exe
+|---> setup_book_of_hours_perpetual_edition_content_2023.12.d.12_(69518).exe
 
 Goodies: 
 |---> book_of_hours_wallpapers.zip
@@ -6647,9 +6654,9 @@ Goodies:
 slug: brok_the_investigator
 
 Game + DLC: 
-|---> setup_brok_the_investigator_-_soundtrack_1.4.5.1_(69062).exe
-|---> setup_brok_the_investigator_1.4.5.1_(69062)-1.bin
-|---> setup_brok_the_investigator_1.4.5.1_(69062).exe
+|---> setup_brok_the_investigator_-_soundtrack_1.4.6.1_(69490).exe
+|---> setup_brok_the_investigator_1.4.6.1_(69490)-1.bin
+|---> setup_brok_the_investigator_1.4.6.1_(69490).exe
 
 Goodies: 
 |---> brok_artbook.zip
@@ -7342,7 +7349,7 @@ Game + DLC:
 slug: catizens
 
 Game + DLC: 
-|---> setup_catizens_0.22.r104_(69200).exe
+|---> setup_catizens_0.21.r80_(65340).exe
 
 
 
@@ -7387,14 +7394,14 @@ Game + DLC:
 slug: caves_of_lore
 
 Game + DLC: 
-|---> setup_caves_of_lore_1.2.1.1.2_(68844).exe
+|---> setup_caves_of_lore_1.2.1.5_(69571).exe
 
 
 
 slug: caves_of_qud
 
 Game + DLC: 
-|---> setup_caves_of_qud_2.0.206.37_(69248).exe
+|---> setup_caves_of_qud_2.0.206.47_(69547).exe
 
 
 
@@ -8457,10 +8464,9 @@ Game + DLC:
 slug: colossal_cave
 
 Game + DLC: 
-|---> setup_colossal_cave_2.0.23638_(64bit)_(68496)-1.bin
-|---> setup_colossal_cave_2.0.23638_(64bit)_(68496)-2.bin
-|---> setup_colossal_cave_2.0.23638_(64bit)_(68496)-3.bin
-|---> setup_colossal_cave_2.0.23638_(64bit)_(68496).exe
+|---> setup_colossal_cave_2.0.23944_(64bit)_(69498)-1.bin
+|---> setup_colossal_cave_2.0.23944_(64bit)_(69498)-2.bin
+|---> setup_colossal_cave_2.0.23944_(64bit)_(69498).exe
 
 
 
@@ -9731,9 +9737,9 @@ Goodies:
 slug: ctrl_alt_ego
 
 Game + DLC: 
-|---> setup_ctrl_alt_ego_1.3.9_(64bit)_(69200)-1.bin
-|---> setup_ctrl_alt_ego_1.3.9_(64bit)_(69200)-2.bin
-|---> setup_ctrl_alt_ego_1.3.9_(64bit)_(69200).exe
+|---> setup_ctrl_alt_ego_1.3.10_(64bit)_(69256)-1.bin
+|---> setup_ctrl_alt_ego_1.3.10_(64bit)_(69256)-2.bin
+|---> setup_ctrl_alt_ego_1.3.10_(64bit)_(69256).exe
 
 
 
@@ -9790,13 +9796,15 @@ Goodies:
 slug: cult_of_the_lamb
 
 Game + DLC: 
-|---> setup_cult_of_the_lamb_1.2.7.186_(67330).exe
-|---> setup_cult_of_the_lamb_cthulhu_follower_form_1.2.7.186_(67330).exe
-|---> setup_cult_of_the_lamb_cultist_pack_1.2.7.186_(67330).exe
+|---> setup_cult_of_the_lamb_1.2.7.201_(69314).exe
+|---> setup_cult_of_the_lamb_cthulhu_follower_form_1.2.7.201_(69314).exe
+|---> setup_cult_of_the_lamb_cultist_pack_1.2.7.201_(69314).exe
+|---> setup_cult_of_the_lamb_heretic_pack_1.2.7.201_(69314).exe
 
 Goodies: 
 |---> cult_of_the_lamb_soundtrack_mp3.zip
 |---> cult_of_the_lamb_soundtrack_wav.zip
+|---> New folder
 
 
 
@@ -10350,15 +10358,15 @@ Game + DLC:
 slug: dark_envoy
 
 Game + DLC: 
-|---> setup_dark_envoy_1.1.1.69036_(69037)-1.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-2.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-3.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-4.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-5.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-6.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-7.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037)-8.bin
-|---> setup_dark_envoy_1.1.1.69036_(69037).exe
+|---> setup_dark_envoy_1.1.2.69071_(69396)-1.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-2.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-3.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-4.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-5.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-6.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-7.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396)-8.bin
+|---> setup_dark_envoy_1.1.2.69071_(69396).exe
 
 
 
@@ -10426,8 +10434,8 @@ Goodies:
 slug: dark_light
 
 Game + DLC: 
-|---> setup_dark_light_1.1.0.8b_(65625)-1.bin
-|---> setup_dark_light_1.1.0.8b_(65625).exe
+|---> setup_dark_light_1.1.0.10_(69471)-1.bin
+|---> setup_dark_light_1.1.0.10_(69471).exe
 
 
 
@@ -11124,7 +11132,7 @@ Goodies:
 slug: death_trash
 
 Game + DLC: 
-|---> setup_death_trash_0.10.1_(68628).exe
+|---> setup_death_trash_0.11_(69135).exe
 
 
 
@@ -12010,7 +12018,7 @@ Game + DLC:
 slug: diluvian_winds
 
 Game + DLC: 
-|---> setup_diluvian_winds_0.7.1.18.2_(69017).exe
+|---> setup_diluvian_winds_0.7.1.2_(69376).exe
 
 Goodies: 
 |---> diluvian_winds_artbook.zip
@@ -12594,8 +12602,8 @@ Goodies:
 slug: don_duality
 
 Game + DLC: 
-|---> setup_don_duality_1.04_(68550)-1.bin
-|---> setup_don_duality_1.04_(68550).exe
+|---> setup_don_duality_1.07_(69490)-1.bin
+|---> setup_don_duality_1.07_(69490).exe
 
 
 
@@ -13052,10 +13060,10 @@ Goodies:
 slug: dreadful_river
 
 Game + DLC: 
-|---> setup_dreadful_river_0.4.183.0_(64bit)_(69236)-1.bin
-|---> setup_dreadful_river_0.4.183.0_(64bit)_(69236)-2.bin
-|---> setup_dreadful_river_0.4.183.0_(64bit)_(69236)-3.bin
-|---> setup_dreadful_river_0.4.183.0_(64bit)_(69236).exe
+|---> setup_dreadful_river_0.4.184.0_(64bit)_(69288)-1.bin
+|---> setup_dreadful_river_0.4.184.0_(64bit)_(69288)-2.bin
+|---> setup_dreadful_river_0.4.184.0_(64bit)_(69288)-3.bin
+|---> setup_dreadful_river_0.4.184.0_(64bit)_(69288).exe
 
 
 
@@ -13313,9 +13321,9 @@ Goodies:
 slug: dros
 
 Game + DLC: 
-|---> setup_dros_9_(66675)-1.bin
-|---> setup_dros_9_(66675)-2.bin
-|---> setup_dros_9_(66675).exe
+|---> setup_dros_10_(69098)-1.bin
+|---> setup_dros_10_(69098)-2.bin
+|---> setup_dros_10_(69098).exe
 
 
 
@@ -18128,7 +18136,7 @@ Game + DLC:
 slug: ginsha
 
 Game + DLC: 
-|---> setup_ginsha_1.0.8c_(64bit)_(68984).exe
+|---> setup_ginsha_1.0.8a_(69154).exe
 
 
 
@@ -19269,7 +19277,7 @@ Goodies:
 slug: haak
 
 Game + DLC: 
-|---> setup_haak_1.3.0.17154_(64bit)_(63800).exe
+|---> setup_haak_1.4.0.18069_(64bit)_(69558).exe
 
 
 
@@ -24648,12 +24656,12 @@ Game + DLC:
 slug: layers_of_fear_2023
 
 Game + DLC: 
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288)-1.bin
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288)-2.bin
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288)-3.bin
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288)-4.bin
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288)-5.bin
-|---> setup_layers_of_fear_win64_gog_shipping_r111230_j228_cert_1_5_distributiongog_gog_(64bit)_(68288).exe
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037)-1.bin
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037)-2.bin
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037)-3.bin
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037)-4.bin
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037)-5.bin
+|---> setup_layers_of_fear_win64_gog_shipping_r114632_j48_crondev_distribution_cert_1_6_gog_(64bit)_(69037).exe
 
 Goodies: 
 |---> layers_of_fear_2023_soundtrack_mp3.zip
@@ -24802,7 +24810,7 @@ Game + DLC:
 slug: legends_of_amberland_the_forgotten_crown
 
 Game + DLC: 
-|---> setup_legends_of_amberland_the_forgotten_crown_1.28_(69058).exe
+|---> setup_legends_of_amberland_the_forgotten_crown_1.28.1_(69467).exe
 
 
 
@@ -26238,7 +26246,7 @@ Goodies:
 slug: ludus_mortis
 
 Game + DLC: 
-|---> setup_ludus_mortis_0.9.34_(64bit)_(68747).exe
+|---> setup_ludus_mortis_0.9.42_(64bit)_(69560).exe
 
 
 
@@ -29399,8 +29407,8 @@ Game + DLC:
 slug: naheulbeuks_dungeon_master
 
 Game + DLC: 
-|---> setup_naheulbeuks_dungeon_master_192_25932_(64bit)_(68843)-1.bin
-|---> setup_naheulbeuks_dungeon_master_192_25932_(64bit)_(68843).exe
+|---> setup_naheulbeuks_dungeon_master_242_26346_(64bit)_(69373)-1.bin
+|---> setup_naheulbeuks_dungeon_master_242_26346_(64bit)_(69373).exe
 
 
 
@@ -30533,12 +30541,12 @@ Goodies:
 slug: no_mans_sky
 
 Game + DLC: 
-|---> setup_no_mans_sky_4.45_echoes_111039_(67643)-1.bin
-|---> setup_no_mans_sky_4.45_echoes_111039_(67643)-2.bin
-|---> setup_no_mans_sky_4.45_echoes_111039_(67643)-3.bin
-|---> setup_no_mans_sky_4.45_echoes_111039_(67643)-4.bin
-|---> setup_no_mans_sky_4.45_echoes_111039_(67643).exe
-|---> setup_no_mans_sky_pre-order_dlc_4.45_echoes_111039_(67643).exe
+|---> setup_no_mans_sky_4.46_holiday_2023_expeditions_114786_(69541)-1.bin
+|---> setup_no_mans_sky_4.46_holiday_2023_expeditions_114786_(69541)-2.bin
+|---> setup_no_mans_sky_4.46_holiday_2023_expeditions_114786_(69541)-3.bin
+|---> setup_no_mans_sky_4.46_holiday_2023_expeditions_114786_(69541)-4.bin
+|---> setup_no_mans_sky_4.46_holiday_2023_expeditions_114786_(69541).exe
+|---> setup_no_mans_sky_pre-order_dlc_4.46_holiday_2023_expeditions_114786_(69541).exe
 
 
 
@@ -38698,7 +38706,6 @@ Game + DLC:
 |---> setup_shardpunk_verminfall_1.1.6.4_(69160).exe
 
 Goodies: 
-|---> shardpunk_verminfall_digital_compendium.zip
 |---> shardpunk_verminfall_official_soundtrack_mp3.zip
 |---> shardpunk_verminfall_official_soundtrack_wav.zip
 
