@@ -143,8 +143,7 @@ def generateGOGContents():
     script_header = """GOG Games Complete Collection (PC, Windows, ENG)
     Updated as of {}
 
-    - Executables + BIN files are all checked for authenticity
-    - Game + DLC contents are generated automatically by a script. They may contain some missing information.
+- Executables + BIN files are all checked for authenticity
 
     """
     script = []
