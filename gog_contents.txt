@@ -25754,6 +25754,26 @@ Goodies:
 
 
 
+slug: little_nightmares
+
+Game + DLC: 
+|---> setup_little_nightmares_-_fox_mask_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_hideaway_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_scarecrow_sack_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_tengu_mask_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_the_depths_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_the_residence_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_-_upside-down_teapot_1.0.43.1_(18471).exe
+|---> setup_little_nightmares_1.0.43.1_(18471)-1.bin
+|---> setup_little_nightmares_1.0.43.1_(18471).exe
+
+Goodies: 
+|---> little_nightmares_ost_mp3.zip
+|---> little_nightmares_ost_wav.zip
+|---> little_nightmares_wallpaper_jpg.zip
+
+
+
 slug: little_nightmares_ii
 
 Game + DLC: 
