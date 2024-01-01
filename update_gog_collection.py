@@ -188,7 +188,7 @@ def updateGit():
 
 def run():
     print("What do you want to do? CHOICES: \n 1- Update, Sync and Delete (WITH LOG FILE)")
-    print(" 2- Delete older files from cloud (Make sure 1fichier gog folder is mounted (1f:/GOG) and new files are in gog_upload folder, use this before uploading new/updated games to cloud)")
+    print(" 2- Delete older files from cloud (Make sure 1fichier gog folder is mounted (first: 1f:/GOG, then 1f:/GOG_2) and new files are in gog_upload folder, use this before uploading new/updated games to cloud)")
     print(" 3- Cleanup upload folder")
     print(" 4- Generate GOG Contents (txt file) and push changes to repo")
     print("Type any other number to exit:")
