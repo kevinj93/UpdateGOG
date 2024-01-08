@@ -1,5 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 01-01-24
+    Updated as of 08-01-24
 
 - Executables + BIN files are all checked for authenticity
 
@@ -411,6 +411,14 @@ slug: abomi_nation
 
 Game + DLC: 
 |---> setup_abomi_nation_1.3.1_(67814).exe
+
+
+
+slug: about_a_boy
+
+Game + DLC: 
+|---> setup_about_a_boy_1.01_(69856)-1.bin
+|---> setup_about_a_boy_1.01_(69856).exe
 
 
 
@@ -991,11 +999,11 @@ Goodies:
 slug: ai_war_2
 
 Game + DLC: 
-|---> setup_ai_war_2_5.581_(64bit)_(69878)-1.bin
-|---> setup_ai_war_2_5.581_(64bit)_(69878).exe
-|---> setup_ai_war_2_the_neinzul_abyss_5.581_(69878).exe
-|---> setup_ai_war_2_the_spire_rises_5.581_(69878).exe
-|---> setup_ai_war_2_zenith_onslaught_5.581_(69878).exe
+|---> setup_ai_war_2_5.581c_(64bit)_(70104)-1.bin
+|---> setup_ai_war_2_5.581c_(64bit)_(70104).exe
+|---> setup_ai_war_2_the_neinzul_abyss_5.581c_(70104).exe
+|---> setup_ai_war_2_the_spire_rises_5.581c_(70104).exe
+|---> setup_ai_war_2_zenith_onslaught_5.581c_(70104).exe
 
 
 
@@ -3046,10 +3054,10 @@ Goodies:
 slug: atom_rpg_postapocalyptic_indie_game
 
 Game + DLC: 
-|---> setup_atom_rpg_-_supporter_pack_1.188_(64bit)_(66658).exe
-|---> setup_atom_rpg_post-apocalyptic_indie_game_1.188_(64bit)_(66658)-1.bin
-|---> setup_atom_rpg_post-apocalyptic_indie_game_1.188_(64bit)_(66658)-2.bin
-|---> setup_atom_rpg_post-apocalyptic_indie_game_1.188_(64bit)_(66658).exe
+|---> setup_atom_rpg_-_supporter_pack_1.190_(64bit)_(70096).exe
+|---> setup_atom_rpg_post-apocalyptic_indie_game_1.190_(64bit)_(70096)-1.bin
+|---> setup_atom_rpg_post-apocalyptic_indie_game_1.190_(64bit)_(70096)-2.bin
+|---> setup_atom_rpg_post-apocalyptic_indie_game_1.190_(64bit)_(70096).exe
 
 Goodies: 
 |---> AtomRPG_ost_flac.zip
@@ -3939,6 +3947,13 @@ Goodies:
 |---> BG_OS_Soundtrack.zip
 |---> BG_ref_cards.zip
 |---> BG_Wallpapers.zip
+
+
+
+slug: ballance
+
+Game + DLC: 
+|---> setup_ballance_1.0.0_(69264).exe
 
 
 
@@ -7050,6 +7065,15 @@ Goodies:
 
 
 
+slug: camp_buddy_scoutmaster_season
+
+Game + DLC: 
+|---> setup_camp_buddy_scoutmaster_season_1.5.4_(69708)-1.bin
+|---> setup_camp_buddy_scoutmaster_season_1.5.4_(69708)-2.bin
+|---> setup_camp_buddy_scoutmaster_season_1.5.4_(69708).exe
+
+
+
 slug: candle
 
 Game + DLC: 
@@ -7447,7 +7471,7 @@ Game + DLC:
 slug: caves_of_lore
 
 Game + DLC: 
-|---> setup_caves_of_lore_1.2.2.2.3_(70099).exe
+|---> setup_caves_of_lore_1.2.2.3_(70219).exe
 
 
 
@@ -7663,7 +7687,7 @@ Goodies:
 slug: chasm
 
 Game + DLC: 
-|---> setup_chasm_1.084_(61000).exe
+|---> setup_chasm_1.090_(70239).exe
 
 
 
@@ -10379,8 +10403,8 @@ Goodies:
 slug: darkwood
 
 Game + DLC: 
-|---> setup_darkwood_1.3(a)_(64bit)_(35798)-1.bin
-|---> setup_darkwood_1.3(a)_(64bit)_(35798).exe
+|---> setup_darkwood_1.4a_(64bit)_(70053)-1.bin
+|---> setup_darkwood_1.4a_(64bit)_(70053).exe
 
 Goodies: 
 |---> darkwood_artbook.zip
@@ -13131,10 +13155,10 @@ Goodies:
 slug: dreadful_river
 
 Game + DLC: 
-|---> setup_dreadful_river_0.4.186.0_(64bit)_(70017)-1.bin
-|---> setup_dreadful_river_0.4.186.0_(64bit)_(70017)-2.bin
-|---> setup_dreadful_river_0.4.186.0_(64bit)_(70017)-3.bin
-|---> setup_dreadful_river_0.4.186.0_(64bit)_(70017).exe
+|---> setup_dreadful_river_0.4.187.0_(64bit)_(70063)-1.bin
+|---> setup_dreadful_river_0.4.187.0_(64bit)_(70063)-2.bin
+|---> setup_dreadful_river_0.4.187.0_(64bit)_(70063)-3.bin
+|---> setup_dreadful_river_0.4.187.0_(64bit)_(70063).exe
 
 
 
@@ -14839,7 +14863,7 @@ Goodies:
 slug: episode_1_the_blackwell_legacy
 
 Game + DLC: 
-|---> setup_blackwell_legacy_3.1_(66991).exe
+|---> setup_blackwell_legacy_3.2_(70191).exe
 
 Goodies: 
 |---> blackwell_artworks.zip
@@ -14853,7 +14877,7 @@ Goodies:
 slug: episode_2_blackwell_unbound
 
 Game + DLC: 
-|---> setup_blackwell_unbound_3.0_(65984).exe
+|---> setup_blackwell_unbound_3.0a_(70156).exe
 
 Goodies: 
 |---> blackwell_artworks.zip
@@ -14874,7 +14898,7 @@ Game + DLC:
 slug: episode_3_blackwell_convergence
 
 Game + DLC: 
-|---> setup_blackwell_convergence_3.0_(65962).exe
+|---> setup_blackwell_convergence_3.0b_(70176).exe
 
 Goodies: 
 |---> blackwell_artworks.zip
@@ -15532,8 +15556,8 @@ Goodies:
 slug: exanima
 
 Game + DLC: 
-|---> setup_exanima_0.9.0.2_(68315)-1.bin
-|---> setup_exanima_0.9.0.2_(68315).exe
+|---> setup_exanima_0.9.0.5_(70049)-1.bin
+|---> setup_exanima_0.9.0.5_(70049).exe
 
 Goodies: 
 |---> exanima_wallpaper.zip
@@ -18838,7 +18862,7 @@ Game + DLC:
 slug: gravity_circuit
 
 Game + DLC: 
-|---> setup_gravity_circuit_1.1.0_(69903).exe
+|---> setup_gravity_circuit_1.1.0c_(70237).exe
 
 Goodies: 
 |---> gravity_circuit_soundtrack_flac.zip
@@ -21209,16 +21233,13 @@ Game + DLC:
 slug: house_party
 
 Game + DLC: 
-|---> setup_house_party_-_detective_liz_katz_in_a_gritty_kitty_murder_mystery_expansion_pack_1.3.0.11681_(64bit)_(70081).exe
-|---> setup_house_party_-_doja_cat_expansion_pack_1.3.0.11681_(64bit)_(70081).exe
-|---> setup_house_party_-_explicit_content_add-on_1.3.0.11681_(64bit)_(70081).exe
-|---> setup_house_party_-_halloween_holiday_pack_1.3.0.11681_(64bit)_(70081).exe
-|---> setup_house_party_-_winter_holiday_pack_1.3.0.11681_(64bit)_(70081).exe
-|---> setup_house_party_1.3.0.11681_(64bit)_(70081)-1.bin
-|---> setup_house_party_1.3.0.11681_(64bit)_(70081).exe
-
-Goodies: 
-|---> New folder
+|---> setup_house_party_-_detective_liz_katz_in_a_gritty_kitty_murder_mystery_expansion_pack_1.3.0.11702_(64bit)_(70222).exe
+|---> setup_house_party_-_doja_cat_expansion_pack_1.3.0.11702_(64bit)_(70222).exe
+|---> setup_house_party_-_explicit_content_add-on_1.3.0.11702_(64bit)_(70222).exe
+|---> setup_house_party_-_halloween_holiday_pack_1.3.0.11702_(64bit)_(70222).exe
+|---> setup_house_party_-_winter_holiday_pack_1.3.0.11702_(64bit)_(70222).exe
+|---> setup_house_party_1.3.0.11702_(64bit)_(70222)-1.bin
+|---> setup_house_party_1.3.0.11702_(64bit)_(70222).exe
 
 
 
@@ -22737,6 +22758,15 @@ slug: it_lurks_below
 
 Game + DLC: 
 |---> setup_it_lurks_below_1.01.69_(52819).exe
+
+
+
+slug: ixion
+
+Game + DLC: 
+|---> setup_ixion_1.0.6.5_(64bit)_(69670)-1.bin
+|---> setup_ixion_1.0.6.5_(64bit)_(69670)-2.bin
+|---> setup_ixion_1.0.6.5_(64bit)_(69670).exe
 
 
 
@@ -28768,13 +28798,13 @@ Game + DLC:
 slug: monster_prom_3_monster_roadtrip
 
 Game + DLC: 
-|---> setup_monster_prom_3_monster_roadtrip_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_hitchhiker_pack_-_amira__oz_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_hitchhiker_pack_-_vicky__brian_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_playable_character_-_glitch_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_playable_character_-_hazel_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_playable_character_-_juan_2.9.a_(70015).exe
-|---> setup_monster_roadtrip_-_playable_character_-_zoe_2.9.a_(70015).exe
+|---> setup_monster_prom_3_monster_roadtrip_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_hitchhiker_pack_-_amira__oz_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_hitchhiker_pack_-_vicky__brian_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_playable_character_-_glitch_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_playable_character_-_hazel_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_playable_character_-_juan_2.10.a_(70235).exe
+|---> setup_monster_roadtrip_-_playable_character_-_zoe_2.10.a_(70235).exe
 
 
 
@@ -32273,6 +32303,19 @@ Goodies:
 
 
 
+slug: paranoid
+
+Game + DLC: 
+|---> setup_paranoid_9975a_(64bit)_(69852)-1.bin
+|---> setup_paranoid_9975a_(64bit)_(69852)-2.bin
+|---> setup_paranoid_9975a_(64bit)_(69852)-3.bin
+|---> setup_paranoid_9975a_(64bit)_(69852)-4.bin
+|---> setup_paranoid_9975a_(64bit)_(69852)-5.bin
+|---> setup_paranoid_9975a_(64bit)_(69852)-6.bin
+|---> setup_paranoid_9975a_(64bit)_(69852).exe
+
+
+
 slug: parkan_2
 
 Game + DLC: 
@@ -33911,7 +33954,7 @@ Game + DLC:
 slug: primordia
 
 Game + DLC: 
-|---> setup_primordia_3.5b_(69801).exe
+|---> setup_primordia_3.6_(70157).exe
 
 Goodies: 
 |---> primordia_artworks.zip
@@ -34886,8 +34929,8 @@ Game + DLC:
 slug: railgrade
 
 Game + DLC: 
-|---> setup_railgrade__v5.0.54.2_(64bit)_(69893)-1.bin
-|---> setup_railgrade__v5.0.54.2_(64bit)_(69893).exe
+|---> setup_railgrade__v5.1.54.1_(64bit)_(70233)-1.bin
+|---> setup_railgrade__v5.1.54.1_(64bit)_(70233).exe
 
 
 
@@ -40954,8 +40997,8 @@ Goodies:
 slug: space_rangers_hd_a_war_apart
 
 Game + DLC: 
-|---> setup_space_rangers_hd_a_war_apart_2.1.2443_(55231)-1.bin
-|---> setup_space_rangers_hd_a_war_apart_2.1.2443_(55231).exe
+|---> setup_space_rangers_hd_a_war_apart_2.1.2448_(70190)-1.bin
+|---> setup_space_rangers_hd_a_war_apart_2.1.2448_(70190).exe
 
 Goodies: 
 |---> space_rangers_hd_reference_card.zip
@@ -42149,7 +42192,7 @@ Goodies:
 slug: star_wars_jedi_knight_jedi_academy
 
 Game + DLC: 
-|---> setup_star_wars_jedi_knight_-_jedi_academy_1.01_(a)_(10331).exe
+|---> setup_star_warstm_jedi_knighttm_jedi_academytm_1.01_(a)_(10331).exe
 
 Goodies: 
 |---> sw_ja_manual.zip
@@ -45100,7 +45143,7 @@ Goodies:
 slug: terrascape
 
 Game + DLC: 
-|---> setup_terrascape_0.13.0.7_(64bit)_(69854).exe
+|---> setup_terrascape_0.13.0.8_(64bit)_(70239).exe
 
 Goodies: 
 |---> terrascape_official_soundtrack_mp3.zip
@@ -46014,7 +46057,7 @@ Goodies:
 slug: the_colonists
 
 Game + DLC: 
-|---> setup_the_colonists_1.6.10.2_(64bit)_(69596).exe
+|---> setup_the_colonists_1.6.11_(64bit)_(70129).exe
 
 
 
@@ -49985,6 +50028,13 @@ Game + DLC:
 
 
 
+slug: tools_up_ultimate_edition
+
+Game + DLC: 
+|---> setup_tools_up_ultimate_edition_1.06_(64bit)_(70032).exe
+
+
+
 slug: toonstruck
 
 Game + DLC: 
@@ -53469,7 +53519,7 @@ Game + DLC:
 slug: warsim_the_realm_of_aslona
 
 Game + DLC: 
-|---> setup_warsim_the_realm_of_aslona_warsim_1.1.1_(grimbees_wonderland_and_5_other_features)_hotfix_(69905).exe
+|---> setup_warsim_the_realm_of_aslona_warsim_1.1.2_(xmas_gift)_(70047).exe
 
 
 
@@ -53486,12 +53536,12 @@ Goodies:
 slug: wartales
 
 Game + DLC: 
-|---> setup_wartales_1.0.31946_(64bit)_(69878)-1.bin
-|---> setup_wartales_1.0.31946_(64bit)_(69878)-2.bin
-|---> setup_wartales_1.0.31946_(64bit)_(69878)-3.bin
-|---> setup_wartales_1.0.31946_(64bit)_(69878)-4.bin
-|---> setup_wartales_1.0.31946_(64bit)_(69878).exe
-|---> setup_wartales_pirates_of_belerion_1.0.31946_(64bit)_(69878).exe
+|---> setup_wartales_1.0.32080_(64bit)_(70237)-1.bin
+|---> setup_wartales_1.0.32080_(64bit)_(70237)-2.bin
+|---> setup_wartales_1.0.32080_(64bit)_(70237)-3.bin
+|---> setup_wartales_1.0.32080_(64bit)_(70237)-4.bin
+|---> setup_wartales_1.0.32080_(64bit)_(70237).exe
+|---> setup_wartales_pirates_of_belerion_1.0.32080_(64bit)_(70237).exe
 
 
 
@@ -54509,7 +54559,7 @@ Goodies:
 slug: wizordum
 
 Game + DLC: 
-|---> setup_wizordum_v0.2.1.1_(70100).exe
+|---> setup_wizordum_v0.2.1.2_(70197).exe
 
 
 
