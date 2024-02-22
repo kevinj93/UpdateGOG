@@ -2,7 +2,7 @@ GOG Games Complete Collection (PC, Windows, ENG)
     Updated as of 22-02-24
 
 - Executables + BIN files are all checked for authenticity
-- Some of the new files are failing authenticity checks due to a bug in the checking script. The underscore ( _ ) at the end of the filename indicates the issue. However, they are tested and working fine! If you encounter any issues, please let me know!
+- Some of the new files are failing authenticity checks due to a bug in the checking script. However, they are tested and working fine! The underscore ( _ ) at the end of the filename indicates the issue. If you encounter any issues, please let me know!
 
     
 slug: 140_game
