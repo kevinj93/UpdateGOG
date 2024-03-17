@@ -1,7 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 16-03-24
-
-- Game files of uploads starting from 29-02-2024 are all checked for authenticity.
+    Updated as of 17-03-24
 
     
 slug: 140_game
@@ -5555,6 +5553,14 @@ Game + DLC:
 
 
 
+slug: black_forest
+
+Game + DLC: 
+|---> setup_black_forest_2.9_(64bit)_(71863)-1.bin
+|---> setup_black_forest_2.9_(64bit)_(71863).exe
+
+
+
 slug: black_future_88
 
 Game + DLC: 
@@ -7637,6 +7643,13 @@ slug: caveblazers
 Game + DLC: 
 |---> setup_caveblazers_-_arena_mode_v1.5.2a_(39657).exe
 |---> setup_caveblazers_v1.5.2a_(39657).exe
+
+
+
+slug: cavern_of_dreams
+
+Game + DLC: 
+|---> setup_cavern_of_dreams_7_4_(71864).exe
 
 
 
@@ -28051,6 +28064,33 @@ Game + DLC:
 slug: mechwarrior_5_mercenaries
 
 Game + DLC: 
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-1.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-2.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-3.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-4.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-5.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-6.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-7.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-8.bin
+|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_call_to_arms_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_heroes_of_the_inner_sphere_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_legend_of_the_kestrel_lancers_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_rise_of_rasalhague_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_solaris_showdown_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_mercenaries_-_the_dragons_gambit_1.1.1322_(64bit)_(71845).exe
+
+Goodies: 
+|---> Desktop_Pack.zip
+|---> high_res_backgrounds.zip
+|---> MW5_mercenaries_call_to_arms_ost.zip
+|---> MW5_mercenaries_inner_sphere_ost.zip
+|---> MW5_mercenaries_kestrel_lancers_ost.zip
+|---> MW5_mercenaries_ost.zip
+|---> MW5_mercenaries_solaris_showdown_ost.zip
+|---> mw5_rise_of_rasalhague_ost.zip
+|---> TechManual.zip
+|---> tech_manual_v2.zip
 
 
 
