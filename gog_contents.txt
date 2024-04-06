@@ -1,5 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 31-03-24
+    Updated as of 06-04-24
 
     
 slug: 140_game
@@ -10004,9 +10004,10 @@ Game + DLC:
 slug: crypt_of_the_necrodancer
 
 Game + DLC: 
-|---> setup_crypt_of_the_necrodancer_4.0.0-b5095_(64bit)_(71791).exe
-|---> setup_crypt_of_the_necrodancer_amplified_4.0.0-b5095_(71791).exe
-|---> setup_crypt_of_the_necrodancer_synchrony_4.0.0-b5095_(71791).exe
+|---> setup_crypt_of_the_necrodancer_4.1.0-b5142_(64bit)_(72378).exe
+|---> setup_crypt_of_the_necrodancer_amplified_4.1.0-b5142_(72378).exe
+|---> setup_crypt_of_the_necrodancer_hatsune_miku_character_dlc_4.1.0-b5142_(72378).exe
+|---> setup_crypt_of_the_necrodancer_synchrony_4.1.0-b5142_(72378).exe
 
 Goodies: 
 |---> a_rival_ost_flac.zip
@@ -10740,6 +10741,15 @@ slug: dark_devotion
 
 Game + DLC: 
 |---> setup_dark_devotion_1.0.44_(32602).exe
+
+
+
+slug: dark_elf_historia
+
+Game + DLC: 
+|---> setup_dark_elf_historia_1.0.0_(71868).exe
+|---> setup_dark_elf_historia_unrated_1.0.0_(71868)-1.bin
+|---> setup_dark_elf_historia_unrated_1.0.0_(71868).exe
 
 
 
@@ -16929,6 +16939,17 @@ Game + DLC:
 
 
 
+slug: fetish_locator_week_three
+
+Game + DLC: 
+|---> setup_fetish_locator_week_three_-_walkthrough_dlc_3.3.16-win_(71968).exe
+|---> setup_fetish_locator_week_three_3.3.16-win_(71968)-1.bin
+|---> setup_fetish_locator_week_three_3.3.16-win_(71968)-2.bin
+|---> setup_fetish_locator_week_three_3.3.16-win_(71968)-3.bin
+|---> setup_fetish_locator_week_three_3.3.16-win_(71968).exe
+
+
+
 slug: fetish_locator_week_two
 
 Game + DLC: 
@@ -17921,6 +17942,18 @@ Goodies:
 |---> frostpunk_wallpapers.zip
 |---> frostpunk_wallpapers_mobile.zip
 |---> frostpunk__digital_artbook.zip
+
+
+
+slug: frozenheim
+
+Game + DLC: 
+|---> setup_frozenheim_1.4.3.26_(64bit)_(72163)-1.bin
+|---> setup_frozenheim_1.4.3.26_(64bit)_(72163)-2.bin
+|---> setup_frozenheim_1.4.3.26_(64bit)_(72163).exe
+
+Goodies: 
+|---> frozenheim_soundtrack_mp3.zip
 
 
 
@@ -21258,10 +21291,11 @@ Game + DLC:
 slug: highrise_city
 
 Game + DLC: 
-|---> setup_highrise_city_1.65_(69496)-1.bin
-|---> setup_highrise_city_1.65_(69496)-2.bin
-|---> setup_highrise_city_1.65_(69496)-3.bin
-|---> setup_highrise_city_1.65_(69496).exe
+|---> setup_highrise_city_1.6a_(72202)-1.bin
+|---> setup_highrise_city_1.6a_(72202)-2.bin
+|---> setup_highrise_city_1.6a_(72202)-3.bin
+|---> setup_highrise_city_1.6a_(72202).exe
+|---> setup_highrise_city_metro__planes_1.6a_(72202).exe
 
 Goodies: 
 |---> highrise_city_soundtrack_flac.zip
@@ -21565,6 +21599,15 @@ Game + DLC:
 |---> setup_holomento_0.6.3_(64bit)_(63995)-2.bin
 |---> setup_holomento_0.6.3_(64bit)_(63995)-3.bin
 |---> setup_holomento_0.6.3_(64bit)_(63995).exe
+
+
+
+slug: holy_maid_academy
+
+Game + DLC: 
+|---> setup_holy_maid_academy_1.0.0a_(72343).exe
+|---> setup_holy_maid_academy_unrated_1.0.0a_(72343)-1.bin
+|---> setup_holy_maid_academy_unrated_1.0.0a_(72343).exe
 
 
 
@@ -22244,6 +22287,20 @@ Game + DLC:
 |---> setup_immortality_1.3_(64bit)_(64842)-6.bin
 |---> setup_immortality_1.3_(64bit)_(64842)-7.bin
 |---> setup_immortality_1.3_(64bit)_(64842).exe
+
+
+
+slug: immortal_mantis
+
+Game + DLC: 
+|---> setup_immortal_mantis_1.1_(64bit)_(72066).exe
+
+
+
+slug: immortal_mantis_revenge
+
+Game + DLC: 
+|---> setup_immortal_mantis_revenge_1.1_(64bit)_(72183).exe
 
 
 
@@ -26641,6 +26698,14 @@ Game + DLC:
 
 
 
+slug: llamasoft_the_jeff_minter_story
+
+Game + DLC: 
+|---> setup_llamasoft_the_jeff_minter_story_1.1_(64bit)_(71538)-1.bin
+|---> setup_llamasoft_the_jeff_minter_story_1.1_(64bit)_(71538).exe
+
+
+
 slug: locks_quest
 
 Game + DLC: 
@@ -29862,6 +29927,23 @@ Game + DLC:
 
 
 
+slug: motesolo_no_girlfriend_since_birth
+
+Game + DLC: 
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249)-1.bin
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249)-2.bin
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249)-3.bin
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249)-4.bin
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249)-5.bin
+|---> setup_motesolo__no_girlfriend_since_birth_gog_ver1.0_(72249).exe
+
+Goodies: 
+|---> motesolo_hd_wallpapers.zip
+|---> motesolo_original_sountrack_mp3.zip
+|---> motesolo_original_sountrack_wav.zip
+
+
+
 slug: mothergunship
 
 Game + DLC: 
@@ -32073,6 +32155,15 @@ Game + DLC:
 
 
 
+slug: one
+
+Game + DLC: 
+|---> setup_one._1.0.0_(71868)-1.bin
+|---> setup_one._1.0.0_(71868)-2.bin
+|---> setup_one._1.0.0_(71868).exe
+
+
+
 slug: one_dreamer
 
 Game + DLC: 
@@ -33663,6 +33754,17 @@ Goodies:
 
 
 
+slug: pepper_grinder
+
+Game + DLC: 
+|---> setup_peppergrinder_v358-reupload-full_release_(72211).exe
+
+Goodies: 
+|---> PepperGrinderOST_MP3.zip
+|---> PepperGrinderOST_WAV.zip
+
+
+
 slug: perception
 
 Game + DLC: 
@@ -34741,33 +34843,38 @@ Game + DLC:
 slug: potion_permit
 
 Game + DLC: 
-|---> setup_potion_permit_-_animal_plushies_1.3.2_(67890).exe
-|---> setup_potion_permit_-_aquarium_1.3.2_(67890).exe
-|---> setup_potion_permit_-_capital_antique_clock_1.3.2_(67890).exe
-|---> setup_potion_permit_-_capital_chemist_equipment_1.3.2_(67890).exe
-|---> setup_potion_permit_-_christmas_tree_1.3.2_(67890).exe
-|---> setup_potion_permit_-_excalibur_1.3.2_(67890).exe
-|---> setup_potion_permit_-_giant_noxe_plush_doll_1.3.2_(67890).exe
-|---> setup_potion_permit_-_halloween_skull_1.3.2_(67890).exe
-|---> setup_potion_permit_-_jack-o-lantern_light_1.3.2_(67890).exe
-|---> setup_potion_permit_-_miniature_blimp_1.3.2_(67890).exe
-|---> setup_potion_permit_-_pirate_ship_model_1.3.2_(67890).exe
-|---> setup_potion_permit_-_poster_(f)_1.3.2_(67890).exe
-|---> setup_potion_permit_-_poster_(m)_1.3.2_(67890).exe
-|---> setup_potion_permit_-_rudolph_plush_1.3.2_(67890).exe
-|---> setup_potion_permit_-_santa_sled_1.3.2_(67890).exe
-|---> setup_potion_permit_-_seashell_lighting_(desk_lamp)_1.3.2_(67890).exe
-|---> setup_potion_permit_-_seashell_lighting_(stand)_1.3.2_(67890).exe
-|---> setup_potion_permit_-_seashell_lighting_(wall)_1.3.2_(67890).exe
-|---> setup_potion_permit_-_small_fairy_spring_1.3.2_(67890).exe
-|---> setup_potion_permit_-_snowman_plush_toy_1.3.2_(67890).exe
-|---> setup_potion_permit_-_spooky_ghost_1.3.2_(67890).exe
-|---> setup_potion_permit_-_surfboard_1.3.2_(67890).exe
-|---> setup_potion_permit_-_vending_machine_1.3.2_(67890).exe
-|---> setup_potion_permit_-_white_cat_1.3.2_(67890).exe
-|---> setup_potion_permit_-_witchs_broom_1.3.2_(67890).exe
-|---> setup_potion_permit_-_wooden_bear_statue_1.3.2_(67890).exe
-|---> setup_potion_permit_1.3.2_(67890).exe
+|---> setup_potion_permit_-_animal_plushies_1.4.1_(71858).exe
+|---> setup_potion_permit_-_aquarium_1.4.1_(71858).exe
+|---> setup_potion_permit_-_capital_antique_clock_1.4.1_(71858).exe
+|---> setup_potion_permit_-_capital_chemist_equipment_1.4.1_(71858).exe
+|---> setup_potion_permit_-_christmas_tree_1.4.1_(71858).exe
+|---> setup_potion_permit_-_excalibur_1.4.1_(71858).exe
+|---> setup_potion_permit_-_giant_noxe_plush_doll_1.4.1_(71858).exe
+|---> setup_potion_permit_-_halloween_skull_1.4.1_(71858).exe
+|---> setup_potion_permit_-_jack-o-lantern_light_1.4.1_(71858).exe
+|---> setup_potion_permit_-_lucky_cat_statue_1.4.1_(71858).exe
+|---> setup_potion_permit_-_lunar_new_year_lanterns_1.4.1_(71858).exe
+|---> setup_potion_permit_-_lunar_new_year_lantern_1.4.1_(71858).exe
+|---> setup_potion_permit_-_miniature_blimp_1.4.1_(71858).exe
+|---> setup_potion_permit_-_oriental_folding_wall_1.4.1_(71858).exe
+|---> setup_potion_permit_-_pirate_ship_model_1.4.1_(71858).exe
+|---> setup_potion_permit_-_poster_(f)_1.4.1_(71858).exe
+|---> setup_potion_permit_-_poster_(m)_1.4.1_(71858).exe
+|---> setup_potion_permit_-_red_flower_arrangement_1.4.1_(71858).exe
+|---> setup_potion_permit_-_rudolph_plush_1.4.1_(71858).exe
+|---> setup_potion_permit_-_santa_sled_1.4.1_(71858).exe
+|---> setup_potion_permit_-_seashell_lighting_(desk_lamp)_1.4.1_(71858).exe
+|---> setup_potion_permit_-_seashell_lighting_(stand)_1.4.1_(71858).exe
+|---> setup_potion_permit_-_seashell_lighting_(wall)_1.4.1_(71858).exe
+|---> setup_potion_permit_-_small_fairy_spring_1.4.1_(71858).exe
+|---> setup_potion_permit_-_snowman_plush_toy_1.4.1_(71858).exe
+|---> setup_potion_permit_-_spooky_ghost_1.4.1_(71858).exe
+|---> setup_potion_permit_-_surfboard_1.4.1_(71858).exe
+|---> setup_potion_permit_-_vending_machine_1.4.1_(71858).exe
+|---> setup_potion_permit_-_white_cat_1.4.1_(71858).exe
+|---> setup_potion_permit_-_witchs_broom_1.4.1_(71858).exe
+|---> setup_potion_permit_-_wooden_bear_statue_1.4.1_(71858).exe
+|---> setup_potion_permit_1.4.1_(71858).exe
 
 
 
@@ -36230,6 +36337,13 @@ Game + DLC:
 Goodies: 
 |---> reah_manual_en_de_fr_nl_it_es.zip
 |---> reah_manual_pl.zip
+
+
+
+slug: realms_of_antiquity_the_shattered_crown
+
+Game + DLC: 
+|---> setup_realms_of_antiquity_the_shattered_crown_4.28.51_(72142).exe
 
 
 
@@ -38786,6 +38900,22 @@ slug: save_room_organization_puzzle
 
 Game + DLC: 
 |---> setup_save_room_-_organization_puzzle_1.0_(64bit)_(61102).exe
+
+
+
+slug: saving_mrs_hinako
+
+Game + DLC: 
+|---> setup_saving_mrs._hinako_1.0.0_(71868).exe
+|---> setup_saving_mrs._hinako_unrated_1.0.0_(71868).exe
+
+
+
+slug: saviorless
+
+Game + DLC: 
+|---> setup_saviorless_rv_1.0.0_p20.prod.win64_(64bit)_(72333)-1.bin
+|---> setup_saviorless_rv_1.0.0_p20.prod.win64_(64bit)_(72333).exe
 
 
 
@@ -41733,6 +41863,13 @@ slug: sonority
 
 Game + DLC: 
 |---> setup_sonority_1.6.2_(64bit)_(61596).exe
+
+
+
+slug: sons_of_valhalla
+
+Game + DLC: 
+|---> setup_sons_of_valhalla_1.0.5_(64bit)_(72420).exe
 
 
 
@@ -45132,6 +45269,13 @@ Game + DLC:
 
 
 
+slug: super_arcade_football
+
+Game + DLC: 
+|---> setup_super_arcade_football_1.11_(72012).exe
+
+
+
 slug: super_catboy
 
 Game + DLC: 
@@ -45422,6 +45566,15 @@ Goodies:
 |---> Rizia_OST_MP3s.zip
 |---> Suzerain_OST_FLAC.zip
 |---> Suzerain_OST_mp3.zip
+
+
+
+slug: svarogs_dream
+
+Game + DLC: 
+|---> setup_svarogs_dream_3.9.3_(64bit)_(72290)-1.bin
+|---> setup_svarogs_dream_3.9.3_(64bit)_(72290)-2.bin
+|---> setup_svarogs_dream_3.9.3_(64bit)_(72290).exe
 
 
 
@@ -46386,6 +46539,7 @@ slug: terraformers
 
 Game + DLC: 
 |---> setup_terraformers_1.3.29_(70984).exe
+|---> setup_terraformers_new_frontiers_1.3.29_(70984).exe
 
 Goodies: 
 |---> Artworks.zip
@@ -48905,6 +49059,13 @@ Game + DLC:
 Goodies: 
 |---> the_legend_of_nayuta_boundless_trails_ost_flac.zip
 |---> the_legend_of_nayuta_boundless_trails_ost_mp3.zip
+
+
+
+slug: the_legend_of_skye
+
+Game + DLC: 
+|---> setup_the_legend_of_skye_1.3.2_v2_(72012).exe
 
 
 
@@ -52011,11 +52172,13 @@ Game + DLC:
 slug: trepang2
 
 Game + DLC: 
-|---> setup_trepang2_1.01_(66636)-1.bin
-|---> setup_trepang2_1.01_(66636)-2.bin
-|---> setup_trepang2_1.01_(66636)-3.bin
-|---> setup_trepang2_1.01_(66636)-4.bin
-|---> setup_trepang2_1.01_(66636).exe
+|---> setup_trepang2_-_survival_mode_dlc__40.00_(71867).exe
+|---> setup_trepang2_40.00_(71867)-1.bin
+|---> setup_trepang2_40.00_(71867)-2.bin
+|---> setup_trepang2_40.00_(71867)-3.bin
+|---> setup_trepang2_40.00_(71867)-4.bin
+|---> setup_trepang2_40.00_(71867)-5.bin
+|---> setup_trepang2_40.00_(71867).exe
 
 Goodies: 
 |---> trepang2_soundtrack_mp3.zip
@@ -54086,16 +54249,17 @@ Game + DLC:
 slug: virtual_rides_3_funfair_simulator
 
 Game + DLC: 
-|---> setup_virtual_rides_3_-_astronaut_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_bounce_machine_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_flipping_disc_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_forge_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_funfair_simulator_2.4.1_(64bit)_(68490)-1.bin
-|---> setup_virtual_rides_3_-_funfair_simulator_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_northstar_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_roundtrip_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_salsa_2.4.1_(64bit)_(68490).exe
-|---> setup_virtual_rides_3_-_the_falcon_2.4.1_(64bit)_(68490).exe
+|---> setup_virtual_rides_3_-_astronaut_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_bounce_machine_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_flipping_disc_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_forge_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_funfair_simulator_2.5.0.3_(64bit)_(71413)-1.bin
+|---> setup_virtual_rides_3_-_funfair_simulator_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_northstar_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_ride_pack_(glider__upside_down)_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_roundtrip_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_salsa_2.5.0.3_(64bit)_(71413).exe
+|---> setup_virtual_rides_3_-_the_falcon_2.5.0.3_(64bit)_(71413).exe
 
 
 
@@ -55405,6 +55569,23 @@ Goodies:
 
 
 
+slug: we_are_football_2024
+
+Game + DLC: 
+|---> setup_we_are_football_2024_1.1.0.13856072_(64bit)_(72183)-1.bin
+|---> setup_we_are_football_2024_1.1.0.13856072_(64bit)_(72183).exe
+
+
+
+slug: we_are_not_alone
+
+Game + DLC: 
+|---> setup_we_are_not_alone_v1.5.1gw_(72380)-1.bin
+|---> setup_we_are_not_alone_v1.5.1gw_(72380)-2.bin
+|---> setup_we_are_not_alone_v1.5.1gw_(72380).exe
+
+
+
 slug: we_are_the_dwarves
 
 Game + DLC: 
@@ -55935,6 +56116,14 @@ Game + DLC:
 Goodies: 
 |---> witchs_rhythm_puzzle_original_soundtrack_flac.zip
 |---> witchs_rhythm_puzzle_original_soundtrack_mp3.zip
+
+
+
+slug: withering_rooms
+
+Game + DLC: 
+|---> setup_withering_rooms_1.22_(72229)-1.bin
+|---> setup_withering_rooms_1.22_(72229).exe
 
 
 
