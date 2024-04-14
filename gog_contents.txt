@@ -1,5 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 12-04-24
+    Updated as of 14-04-24
 
     
 slug: 140_game
@@ -2645,8 +2645,8 @@ Game + DLC:
 slug: arms_trade_tycoon_tanks
 
 Game + DLC: 
-|---> setup_arms_trade_tycoon_tanks_1.1.1.0_(64bit)_(71816)-1.bin
-|---> setup_arms_trade_tycoon_tanks_1.1.1.0_(64bit)_(71816).exe
+|---> setup_arms_trade_tycoon_tanks_1.1.2.0_(64bit)_(72491)-1.bin
+|---> setup_arms_trade_tycoon_tanks_1.1.2.0_(64bit)_(72491).exe
 
 
 
@@ -3871,7 +3871,7 @@ Goodies:
 slug: b17_flying_fortress_the_mighty_8th_redux
 
 Game + DLC: 
-|---> setup_b-17_flying_fortress_the_mighty_8th_redux_1.0.9b_(64bit)_(72059).exe
+|---> setup_b-17_flying_fortress_the_mighty_8th_redux_1.0.10_(64bit)_(72491).exe
 
 Goodies: 
 |---> b17_fftm_8th_redux_manual.zip
@@ -7107,7 +7107,8 @@ Goodies:
 slug: bulwark_falconeer_chronicles
 
 Game + DLC: 
-|---> setup_bulwark_falconeer_chronicles_1.0.0.2_(69545).exe
+|---> setup_bulwark_falconeer_chronicles_-_dreadnot_day_one_1.0.0.18_(72491).exe
+|---> setup_bulwark_falconeer_chronicles_1.0.0.18_(72491).exe
 
 
 
@@ -10171,9 +10172,9 @@ Goodies:
 slug: ctrl_alt_ego
 
 Game + DLC: 
-|---> setup_ctrl_alt_ego_1.3.15.02.pt-br_(64bit)_(72111)-1.bin
-|---> setup_ctrl_alt_ego_1.3.15.02.pt-br_(64bit)_(72111)-2.bin
-|---> setup_ctrl_alt_ego_1.3.15.02.pt-br_(64bit)_(72111).exe
+|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518)-1.bin
+|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518)-2.bin
+|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518).exe
 
 
 
@@ -10367,46 +10368,46 @@ Game + DLC:
 slug: cyberpunk_2077_game
 
 Game + DLC: 
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-1.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-10.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-11.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-12.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-13.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-14.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-15.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-16.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-17.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-18.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-19.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-2.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-20.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-21.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-22.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-23.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-24.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-25.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-26.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-27.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-3.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-4.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-5.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-6.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-7.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-8.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512)-9.bin
-|---> setup_cyberpunk_2077_2.12_(64bit)_(71512).exe
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-1.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-10.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-2.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-3.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-4.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-5.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-6.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-7.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-8.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512)-9.bin
-|---> setup_cyberpunk_2077_phantom_liberty_2.12_(64bit)_(71512).exe
-|---> setup_cyberpunk_2077_redmod_2.12_(64bit)_(71512).exe
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-1.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-10.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-11.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-12.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-13.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-14.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-15.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-16.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-17.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-18.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-19.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-2.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-20.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-21.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-22.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-23.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-24.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-25.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-26.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-27.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-3.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-4.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-5.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-6.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-7.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-8.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012)-9.bin
+|---> setup_cyberpunk_2077_2.12a_(64bit)_(72012).exe
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-1.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-10.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-2.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-3.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-4.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-5.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-6.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-7.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-8.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012)-9.bin
+|---> setup_cyberpunk_2077_phantom_liberty_2.12a_(64bit)_(72012).exe
+|---> setup_cyberpunk_2077_redmod_2.12a_(64bit)_(72012).exe
 
 Goodies: 
 |---> additional_wallpapers_en.zip
@@ -14251,7 +14252,7 @@ Goodies:
 slug: dust_fleet
 
 Game + DLC: 
-|---> setup_dust_fleet_4.5_(64bit)_(72207).exe
+|---> setup_dust_fleet_4.6_(64bit)_(72560).exe
 
 
 
@@ -18741,7 +18742,6 @@ slug: ghost_10
 Game + DLC: 
 |---> setup_ghost_1.0_-_support_mission_mode_skin_1.1.8b3_(34725).exe
 |---> setup_ghost_1.0_1.1.8b3_(34725).exe
-|---> setup_mini_ghost_1.00.03_(26869).exe
 
 Goodies: 
 |---> ghost_10_ost_mp3.zip
@@ -19479,9 +19479,9 @@ Game + DLC:
 slug: graven
 
 Game + DLC: 
-|---> setup_graven_16864_(64bit)_(71053)-1.bin
-|---> setup_graven_16864_(64bit)_(71053)-2.bin
-|---> setup_graven_16864_(64bit)_(71053).exe
+|---> setup_graven_16972_(64bit)_(72214)-1.bin
+|---> setup_graven_16972_(64bit)_(72214)-2.bin
+|---> setup_graven_16972_(64bit)_(72214).exe
 
 Goodies: 
 |---> graven_digital_artbook.zip
@@ -29524,6 +29524,13 @@ Game + DLC:
 
 
 
+slug: mini_ghost
+
+Game + DLC: 
+|---> setup_mini_ghost_1.00.03_(26869).exe
+
+
+
 slug: mini_metro
 
 Game + DLC: 
@@ -32869,16 +32876,16 @@ Goodies:
 slug: outcast_a_new_beginning
 
 Game + DLC: 
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-1.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-2.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-3.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-4.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-5.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-6.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-7.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-8.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042)-9.bin
-|---> setup_outcast_-_a_new_beginning_1.0.2_(72042).exe
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-1.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-2.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-3.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-4.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-5.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-6.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-7.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-8.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-9.bin
+|---> setup_outcast_-_a_new_beginning_1.0.3_(72230).exe
 
 
 
@@ -33025,7 +33032,7 @@ Goodies:
 slug: out_zone
 
 Game + DLC: 
-|---> setup_out_zone_35_(64bit)_(70879).exe
+|---> setup_out_zone_36_(64bit)_(72487).exe
 
 
 
@@ -35935,7 +35942,7 @@ Game + DLC:
 slug: quasimorph
 
 Game + DLC: 
-|---> setup_quasimorph_0.6.1_44f242_(64bit)_(72203).exe
+|---> setup_quasimorph_0.6.2.56g.40be799_(64bit)_(72518).exe
 
 
 
@@ -37719,7 +37726,12 @@ Goodies:
 slug: revival_recolonization
 
 Game + DLC: 
-|---> setup_revival_recolonization_0.6.371_(67167).exe
+|---> setup_revival_recolonization_1.0.412_(72513).exe
+
+Goodies: 
+|---> revival_recolonization_artbook_eng.zip
+|---> revival_recolonization_artbook_ru.zip
+|---> revival_recolonization_ost.zip
 
 
 
@@ -37854,10 +37866,11 @@ Game + DLC:
 slug: rimworld
 
 Game + DLC: 
-|---> setup_rimworld_-_biotech_1.4.3901_rev218_(64bit)_(68699).exe
-|---> setup_rimworld_-_ideology_1.4.3901_rev218_(64bit)_(68699).exe
-|---> setup_rimworld_-_royalty_1.4.3901_rev218_(64bit)_(68699).exe
-|---> setup_rimworld_1.4.3901_rev218_(64bit)_(68699).exe
+|---> setup_rimworld_-_anomaly_1.5.4062_rev689_(64bit)_(72569).exe
+|---> setup_rimworld_-_biotech_1.5.4062_rev689_(64bit)_(72569).exe
+|---> setup_rimworld_-_ideology_1.5.4062_rev689_(64bit)_(72569).exe
+|---> setup_rimworld_-_royalty_1.5.4062_rev689_(64bit)_(72569).exe
+|---> setup_rimworld_1.5.4062_rev689_(64bit)_(72569).exe
 
 
 
@@ -40453,9 +40466,9 @@ Goodies:
 slug: shardpunk_verminfall
 
 Game + DLC: 
-|---> setup_shardpunk_-_blood_pack_1.1.7.8_(71146).exe
-|---> setup_shardpunk_-_rat_pack_1.1.7.8_(71146).exe
-|---> setup_shardpunk_1.1.7.8_(71146).exe
+|---> setup_shardpunk_-_blood_pack_1.1.8.1_(72521).exe
+|---> setup_shardpunk_-_rat_pack_1.1.8.1_(72521).exe
+|---> setup_shardpunk_1.1.8.1_(72521).exe
 
 Goodies: 
 |---> shardpunk_verminfall_digital_compendium_v2.zip
@@ -45877,9 +45890,9 @@ Goodies:
 slug: svarogs_dream
 
 Game + DLC: 
-|---> setup_svarogs_dream_3.9.3_(64bit)_(72290)-1.bin
-|---> setup_svarogs_dream_3.9.3_(64bit)_(72290)-2.bin
-|---> setup_svarogs_dream_3.9.3_(64bit)_(72290).exe
+|---> setup_svarogs_dream_3.9.4_(64bit)_(72445)-1.bin
+|---> setup_svarogs_dream_3.9.4_(64bit)_(72445)-2.bin
+|---> setup_svarogs_dream_3.9.4_(64bit)_(72445).exe
 
 
 
@@ -46248,8 +46261,8 @@ Game + DLC:
 slug: system_shock
 
 Game + DLC: 
-|---> setup_system_shock_1.1.17082_(64bit)_(65117)-1.bin
-|---> setup_system_shock_1.1.17082_(64bit)_(65117).exe
+|---> setup_system_shock_1.2.18830_(64bit)_(72565)-1.bin
+|---> setup_system_shock_1.2.18830_(64bit)_(72565).exe
 
 Goodies: 
 |---> high_res_images.zip
@@ -47753,6 +47766,25 @@ Goodies:
 
 
 
+slug: the_chant
+
+Game + DLC: 
+|---> setup_the_chant_-_70s_vfx_filter_mode_1.0_gog_(69489).exe
+|---> setup_the_chant_-_spiritual_retreat_outfit_1.0_gog_(69489).exe
+|---> setup_the_chant_-_the_gloom_below_1.0_gog_(69489).exe
+|---> setup_the_chant_1.0_gog_(69489)-1.bin
+|---> setup_the_chant_1.0_gog_(69489)-2.bin
+|---> setup_the_chant_1.0_gog_(69489)-3.bin
+|---> setup_the_chant_1.0_gog_(69489)-4.bin
+|---> setup_the_chant_1.0_gog_(69489)-5.bin
+|---> setup_the_chant_1.0_gog_(69489)-6.bin
+|---> setup_the_chant_1.0_gog_(69489)-7.bin
+|---> setup_the_chant_1.0_gog_(69489)-8.bin
+|---> setup_the_chant_1.0_gog_(69489)-9.bin
+|---> setup_the_chant_1.0_gog_(69489).exe
+
+
+
 slug: the_chaos_engine
 
 Game + DLC: 
@@ -49117,8 +49149,8 @@ Game + DLC:
 slug: the_last_faith
 
 Game + DLC: 
-|---> setup_the_last_faith_patch1.5_-_release_(70409)-1.bin
-|---> setup_the_last_faith_patch1.5_-_release_(70409).exe
+|---> setup_the_last_faith_patch1.5.2_-_release_(72161)-1.bin
+|---> setup_the_last_faith_patch1.5.2_-_release_(72161).exe
 
 
 
@@ -49385,7 +49417,10 @@ Goodies:
 slug: the_legend_of_skye
 
 Game + DLC: 
-|---> setup_the_legend_of_skye_1.3.2_v2_(72012).exe
+|---> setup_the_legend_of_skye_1.3.4_(72527).exe
+
+Goodies: 
+|---> The_Legend_of_Skye_ENG_Walkthrough.zip
 
 
 
@@ -51490,16 +51525,16 @@ Game + DLC:
 slug: tintin_reporter_cigars_of_the_pharaoh
 
 Game + DLC: 
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-1.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-2.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-3.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-4.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-5.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-6.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-7.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-8.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833)-9.bin
-|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2023121901_gog_(64bit)_(69833).exe
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-1.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-2.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-3.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-4.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-5.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-6.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-7.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-8.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396)-9.bin
+|---> setup_tintin_reporter_-_cigars_of_the_pharaoh_cigars_2024040401_gog_(64bit)_(72396).exe
 
 
 
@@ -52863,7 +52898,7 @@ Game + DLC:
 slug: truxton
 
 Game + DLC: 
-|---> setup_truxton_34_(64bit)_(71080).exe
+|---> setup_truxton_35_(64bit)_(72487).exe
 
 
 
@@ -52892,14 +52927,14 @@ Goodies:
 slug: tunguska_the_visitation
 
 Game + DLC: 
-|---> setup_tunguska_the_visitation_-_dead_zone_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_-_ghost_of_valentin_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_-_ravenwood_stories_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_-_shadow_master_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_-_slaughterhouse_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_-_way_of_the_hunter_1.81-1_(64bit)_(72411).exe
-|---> setup_tunguska_the_visitation_1.81-1_(64bit)_(72411)-1.bin
-|---> setup_tunguska_the_visitation_1.81-1_(64bit)_(72411).exe
+|---> setup_tunguska_the_visitation_-_dead_zone_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_ghost_of_valentin_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_ravenwood_stories_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_shadow_master_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_slaughterhouse_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_way_of_the_hunter_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_1.81-2_1_(64bit)_(72494)-1.bin
+|---> setup_tunguska_the_visitation_1.81-2_1_(64bit)_(72494).exe
 
 
 
@@ -53013,7 +53048,7 @@ Goodies:
 slug: twin_cobra
 
 Game + DLC: 
-|---> setup_twin_cobra_36_(64bit)_(71196).exe
+|---> setup_twin_cobra_37_(64bit)_(72487).exe
 
 
 
@@ -55956,9 +55991,9 @@ Game + DLC:
 slug: we_are_not_alone
 
 Game + DLC: 
-|---> setup_we_are_not_alone_v1.5.1gw_(72380)-1.bin
-|---> setup_we_are_not_alone_v1.5.1gw_(72380)-2.bin
-|---> setup_we_are_not_alone_v1.5.1gw_(72380).exe
+|---> setup_we_are_not_alone_v1.5.2.gw_(72438)-1.bin
+|---> setup_we_are_not_alone_v1.5.2.gw_(72438)-2.bin
+|---> setup_we_are_not_alone_v1.5.2.gw_(72438).exe
 
 
 
@@ -57288,9 +57323,9 @@ Goodies:
 slug: xenonauts_2
 
 Game + DLC: 
-|---> setup_xenonauts_2_milestone_3.6.0_release_(72201)-1.bin
-|---> setup_xenonauts_2_milestone_3.6.0_release_(72201)-2.bin
-|---> setup_xenonauts_2_milestone_3.6.0_release_(72201).exe
+|---> setup_xenonauts_2_milestone_3.8.0_release_(72229)-1.bin
+|---> setup_xenonauts_2_milestone_3.8.0_release_(72229)-2.bin
+|---> setup_xenonauts_2_milestone_3.8.0_release_(72229).exe
 
 
 
@@ -57908,7 +57943,7 @@ Game + DLC:
 slug: zero_wing
 
 Game + DLC: 
-|---> setup_zero_wing_35_(64bit)_(70879).exe
+|---> setup_zero_wing_36_(64bit)_(72487).exe
 
 
 
