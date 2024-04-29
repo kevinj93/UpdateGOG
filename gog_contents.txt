@@ -1,5 +1,5 @@
 GOG Games Complete Collection (PC, Windows, ENG)
-    Updated as of 14-04-24
+    Updated as of 29-04-24
 
     
 slug: 140_game
@@ -290,13 +290,17 @@ slug: 8bit_adventures_2
 Game + DLC: 
 |---> setup_8-bit_adventures_2_1.24_(71910).exe
 
+Goodies: 
+|---> 8bit_adventures_2_soundtrack_flac.zip
+|---> 8bit_adventures_2_soundtrack_mp3.zip
+
 
 
 slug: 8bit_armies
 
 Game + DLC: 
-|---> setup_8-bit_armies_-_guardians_campaign_0.93.827848_(69139).exe
-|---> setup_8-bit_armies_0.93.827848_(69139).exe
+|---> setup_8-bit_armies_-_guardians_campaign_0.93.827848_1_(72495).exe
+|---> setup_8-bit_armies_0.93.827848_1_(72495).exe
 
 Goodies: 
 |---> 8_bit_armies_ost_flac.zip
@@ -308,7 +312,7 @@ Goodies:
 slug: 8bit_hordes
 
 Game + DLC: 
-|---> setup_8-bit_hordes_0.93.827848_(69139).exe
+|---> setup_8-bit_hordes_0.93.827848_1_(72495).exe
 
 Goodies: 
 |---> 8_bit_hordes_avatars.zip
@@ -321,7 +325,7 @@ Goodies:
 slug: 8bit_invaders
 
 Game + DLC: 
-|---> setup_8-bit_invaders_0.93.827848_(69139).exe
+|---> setup_8-bit_invaders_0.93.827848_1_(72495).exe
 
 
 
@@ -424,6 +428,10 @@ slug: about_a_boy
 Game + DLC: 
 |---> setup_about_a_boy_1.01_(69856)-1.bin
 |---> setup_about_a_boy_1.01_(69856).exe
+
+Goodies: 
+|---> about_a_boy_artbook.zip
+|---> about_a_boy_soundtrack_wav.zip
 
 
 
@@ -717,8 +725,8 @@ Goodies:
 slug: against_the_storm
 
 Game + DLC: 
-|---> setup_against_the_storm_1.2.3r_(71657)-1.bin
-|---> setup_against_the_storm_1.2.3r_(71657).exe
+|---> setup_against_the_storm_1.3.3r_(72874)-1.bin
+|---> setup_against_the_storm_1.3.3r_(72874).exe
 
 
 
@@ -779,9 +787,9 @@ Goodies:
 slug: agatha_christie_hercule_poirot_the_london_case
 
 Game + DLC: 
-|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851)-1.bin
-|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851)-2.bin
-|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.6_(64bit)_(68851).exe
+|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.7_(64bit)_(71649)-1.bin
+|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.7_(64bit)_(71649)-2.bin
+|---> setup_agatha_christie_-_hercule_poirot_the_london_case_1.0.7_(64bit)_(71649).exe
 
 Goodies: 
 |---> artbook.zip
@@ -792,10 +800,10 @@ Goodies:
 slug: agatha_christie_murder_on_the_orient_express
 
 Game + DLC: 
-|---> setup_agatha_christie_-_murder_on_the_orient_express_2023101800_(68336)-1.bin
-|---> setup_agatha_christie_-_murder_on_the_orient_express_2023101800_(68336)-2.bin
-|---> setup_agatha_christie_-_murder_on_the_orient_express_2023101800_(68336)-3.bin
-|---> setup_agatha_christie_-_murder_on_the_orient_express_2023101800_(68336).exe
+|---> setup_agatha_christie_-_murder_on_the_orient_express_20231222-205827_(70333)-1.bin
+|---> setup_agatha_christie_-_murder_on_the_orient_express_20231222-205827_(70333)-2.bin
+|---> setup_agatha_christie_-_murder_on_the_orient_express_20231222-205827_(70333)-3.bin
+|---> setup_agatha_christie_-_murder_on_the_orient_express_20231222-205827_(70333).exe
 
 Goodies: 
 |---> artbook.zip
@@ -882,15 +890,16 @@ Goodies:
 slug: age_of_wonders_4
 
 Game + DLC: 
-|---> setup_age_of_wonders_4_91754_(64bit)_(72231)-1.bin
-|---> setup_age_of_wonders_4_91754_(64bit)_(72231)-2.bin
-|---> setup_age_of_wonders_4_91754_(64bit)_(72231)-3.bin
-|---> setup_age_of_wonders_4_91754_(64bit)_(72231).exe
-|---> setup_age_of_wonders_4_dragon_dawn_91754_(64bit)_(72231).exe
-|---> setup_age_of_wonders_4_empires__ashes_91754_(64bit)_(72231).exe
-|---> setup_age_of_wonders_4_pre-order_content_pack_91754_(64bit)_(72231).exe
-|---> setup_age_of_wonders_4_primal_fury_91754_(64bit)_(72231).exe
-|---> setup_age_of_wonders_4_sign-up_content_91754_(64bit)_(72231).exe
+|---> setup_age_of_wonders_4_92036_(64bit)_(72509)-1.bin
+|---> setup_age_of_wonders_4_92036_(64bit)_(72509)-2.bin
+|---> setup_age_of_wonders_4_92036_(64bit)_(72509)-3.bin
+|---> setup_age_of_wonders_4_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_archmage_attire_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_dragon_dawn_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_empires__ashes_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_pre-order_content_pack_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_primal_fury_92036_(64bit)_(72509).exe
+|---> setup_age_of_wonders_4_sign-up_content_92036_(64bit)_(72509).exe
 
 
 
@@ -1044,20 +1053,20 @@ Goodies:
 slug: airship_kingdoms_adrift
 
 Game + DLC: 
-|---> setup_airship_kingdoms_adrift_1.5.2.5_(71410)-1.bin
-|---> setup_airship_kingdoms_adrift_1.5.2.5_(71410)-2.bin
-|---> setup_airship_kingdoms_adrift_1.5.2.5_(71410).exe
+|---> setup_airship_kingdoms_adrift_1.5.4.1_(72583)-1.bin
+|---> setup_airship_kingdoms_adrift_1.5.4.1_(72583)-2.bin
+|---> setup_airship_kingdoms_adrift_1.5.4.1_(72583).exe
 
 
 
 slug: ai_war_2
 
 Game + DLC: 
-|---> setup_ai_war_2_5.593_(64bit)_(72117)-1.bin
-|---> setup_ai_war_2_5.593_(64bit)_(72117).exe
-|---> setup_ai_war_2_the_neinzul_abyss_5.593_(72117).exe
-|---> setup_ai_war_2_the_spire_rises_5.593_(72117).exe
-|---> setup_ai_war_2_zenith_onslaught_5.593_(72117).exe
+|---> setup_ai_war_2_5.597a_(64bit)_(72792)-1.bin
+|---> setup_ai_war_2_5.597a_(64bit)_(72792).exe
+|---> setup_ai_war_2_the_neinzul_abyss_5.597a_(72792).exe
+|---> setup_ai_war_2_the_spire_rises_5.597a_(72792).exe
+|---> setup_ai_war_2_zenith_onslaught_5.597a_(72792).exe
 
 
 
@@ -1123,11 +1132,11 @@ Game + DLC:
 slug: alaloth_champions_of_the_four_kingdoms
 
 Game + DLC: 
-|---> setup_alaloth_champions_of_the_four_kingdoms_-_supporter_pack_2024.04.04.468f341_(72401).exe
-|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.04.468f341_(72401)-1.bin
-|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.04.468f341_(72401)-2.bin
-|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.04.468f341_(72401)-3.bin
-|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.04.468f341_(72401).exe
+|---> setup_alaloth_champions_of_the_four_kingdoms_-_supporter_pack_2024.04.15.9869bc5_(72666).exe
+|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.15.9869bc5_(72666)-1.bin
+|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.15.9869bc5_(72666)-2.bin
+|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.15.9869bc5_(72666)-3.bin
+|---> setup_alaloth_champions_of_the_four_kingdoms_2024.04.15.9869bc5_(72666).exe
 
 Goodies: 
 |---> alaloth_digital_artbook.zip
@@ -1438,19 +1447,19 @@ Game + DLC:
 slug: alone_in_the_dark
 
 Game + DLC: 
-|---> setup_alone_in_the_dark_1.0.2_(72022)-1.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-2.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-3.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-4.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-5.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-6.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-7.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-8.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022)-9.bin
-|---> setup_alone_in_the_dark_1.0.2_(72022).exe
-|---> setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe
-|---> setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe
-|---> setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe
+|---> setup_alone_in_the_dark_1.0.3_(72235)-1.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-2.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-3.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-4.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-5.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-6.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-7.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-8.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235)-9.bin
+|---> setup_alone_in_the_dark_1.0.3_(72235).exe
+|---> setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.3_(72235).exe
+|---> setup_alone_in_the_dark_directors_commentary_mode_1.0.3_(72235).exe
+|---> setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.3_(72235).exe
 
 Goodies: 
 |---> AitD_Digital_Artbook.zip
@@ -1612,9 +1621,9 @@ Game + DLC:
 slug: amazing_cultivation_simulator
 
 Game + DLC: 
-|---> setup_amazing_cultivation_simulator_-_deep_in_the_bamboo_forest_1.24-2207281440dev_(64bit)_(57607).exe
-|---> setup_amazing_cultivation_simulator_-_immortal_tales_of_wudang_1.24-2207281440dev_(64bit)_(57607).exe
-|---> setup_amazing_cultivation_simulator_1.24-2207281440dev_(64bit)_(57607).exe
+|---> setup_amazing_cultivation_simulator_-_deep_in_the_bamboo_forest_1.252-2404171711dev_(64bit)_(72705).exe
+|---> setup_amazing_cultivation_simulator_-_immortal_tales_of_wudang_1.252-2404171711dev_(64bit)_(72705).exe
+|---> setup_amazing_cultivation_simulator_1.252-2404171711dev_(64bit)_(72705).exe
 
 
 
@@ -2265,7 +2274,7 @@ Goodies:
 slug: aquamarine
 
 Game + DLC: 
-|---> setup_aquamarine_2.0.0_(64bit)_(60426).exe
+|---> setup_aquamarine_2.1.1_(64bit)_(71759).exe
 
 
 
@@ -2412,6 +2421,13 @@ Game + DLC:
 Goodies: 
 |---> arcade_paradise_original_soundtrack_flac.zip
 |---> arcade_paradise_original_soundtrack_mp3.zip
+
+
+
+slug: arcade_tycoon_simulation_game
+
+Game + DLC: 
+|---> setup_arcade_tycoon_tm__simulation_game_2.0.3_(64bit)_(72490).exe
 
 
 
@@ -2714,23 +2730,23 @@ Goodies:
 slug: arons_adventure
 
 Game + DLC: 
-|---> setup_arons_adventure_1_3_40_(64bit)_(51158)-1.bin
-|---> setup_arons_adventure_1_3_40_(64bit)_(51158)-2.bin
-|---> setup_arons_adventure_1_3_40_(64bit)_(51158).exe
+|---> setup_arons_adventure_2.11_(64bit)_(69475)-1.bin
+|---> setup_arons_adventure_2.11_(64bit)_(69475)-2.bin
+|---> setup_arons_adventure_2.11_(64bit)_(69475).exe
 
 
 
 slug: arrow
 
 Game + DLC: 
-|---> setup_arrow_1.3_(70348).exe
+|---> setup_arrow_1.4_(72714).exe
 
 
 
 slug: arrow_patterns
 
 Game + DLC: 
-|---> setup_arrow_patterns_1.0.0_(67004).exe
+|---> setup_arrow_patterns_1.2_(72714).exe
 
 
 
@@ -2988,8 +3004,8 @@ Game + DLC:
 slug: asterix_obelix_slap_them_all_2
 
 Game + DLC: 
-|---> setup_asterix__obelix_slap_them_all_2_2023110801_asterix2_pc_gog_(68865)-1.bin
-|---> setup_asterix__obelix_slap_them_all_2_2023110801_asterix2_pc_gog_(68865).exe
+|---> setup_asterix__obelix_slap_them_all_2_2023121101_asterix2_pc_gog_(69638)-1.bin
+|---> setup_asterix__obelix_slap_them_all_2_2023121101_asterix2_pc_gog_(69638).exe
 
 
 
@@ -3035,25 +3051,25 @@ Game + DLC:
 slug: astral_ascent
 
 Game + DLC: 
-|---> setup_astral_ascent_v749-release_(71867).exe
+|---> setup_astral_ascent_v806-release_(72568).exe
 
 
 
 slug: astrea_sixsided_oracles
 
 Game + DLC: 
-|---> setup_astrea_six-sided_oracles_1.0.197_(68567).exe
+|---> setup_astrea_six-sided_oracles_1.0.347_(69862).exe
 
 
 
 slug: astria_ascending
 
 Game + DLC: 
-|---> setup_astria_ascending_-_cosmetic_weapon_set_1.0.152_(59222).exe
-|---> setup_astria_ascending_1.0.152_(59222)-1.bin
-|---> setup_astria_ascending_1.0.152_(59222)-2.bin
-|---> setup_astria_ascending_1.0.152_(59222)-3.bin
-|---> setup_astria_ascending_1.0.152_(59222).exe
+|---> setup_astria_ascending_-_cosmetic_weapon_set_1.0.154_(69495).exe
+|---> setup_astria_ascending_1.0.154_(69495)-1.bin
+|---> setup_astria_ascending_1.0.154_(69495)-2.bin
+|---> setup_astria_ascending_1.0.154_(69495)-3.bin
+|---> setup_astria_ascending_1.0.154_(69495).exe
 
 Goodies: 
 |---> astria_ascending_artbook.zip
@@ -3065,7 +3081,7 @@ Goodies:
 slug: astrodogs
 
 Game + DLC: 
-|---> setup_astrodogs_2.1_(65513).exe
+|---> setup_astrodogs_3.0_(71345).exe
 
 
 
@@ -3579,11 +3595,11 @@ Goodies:
 slug: a_hat_in_time
 
 Game + DLC: 
-|---> setup_a_hat_in_time_-_nyakuza_metro_2024_update_2_(64bit)_(72477).exe
-|---> setup_a_hat_in_time_-_seal_the_deal_2024_update_2_(64bit)_(72477).exe
-|---> setup_a_hat_in_time_2024_update_2_(64bit)_(72477)-1.bin
-|---> setup_a_hat_in_time_2024_update_2_(64bit)_(72477)-2.bin
-|---> setup_a_hat_in_time_2024_update_2_(64bit)_(72477).exe
+|---> setup_a_hat_in_time_-_nyakuza_metro_2024_update_3_(64bit)_(72692).exe
+|---> setup_a_hat_in_time_-_seal_the_deal_2024_update_3_(64bit)_(72692).exe
+|---> setup_a_hat_in_time_2024_update_3_(64bit)_(72692)-1.bin
+|---> setup_a_hat_in_time_2024_update_3_(64bit)_(72692)-2.bin
+|---> setup_a_hat_in_time_2024_update_3_(64bit)_(72692).exe
 
 Goodies: 
 |---> a_hat_in_time_ost_mp3.zip
@@ -3817,7 +3833,7 @@ Goodies:
 slug: a_town_uncovered
 
 Game + DLC: 
-|---> setup_a_town_uncovered_0.48a_(68583).exe
+|---> setup_a_town_uncovered_0.50a_(72272).exe
 
 
 
@@ -4074,41 +4090,41 @@ Goodies:
 slug: baldurs_gate_iii
 
 Game + DLC: 
-|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-1.bin
-|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809).exe
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-1.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-10.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-11.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-12.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-13.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-14.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-15.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-16.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-17.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-18.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-19.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-2.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-20.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-21.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-22.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-23.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-24.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-25.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-26.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-27.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-28.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-29.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-3.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-30.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-31.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-32.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-4.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-5.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-6.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-7.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-8.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809)-9.bin
-|---> setup_baldurs_gate_3_release_-_v4.1.1.4905117_-_patch_patch6_hotfix6__(64bit)_(71809).exe
+|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-1.bin
+|---> setup_baldurs_gate_3_-_digital_deluxe_edition_content_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-1.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-10.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-11.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-12.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-13.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-14.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-15.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-16.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-17.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-18.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-19.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-2.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-20.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-21.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-22.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-23.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-24.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-25.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-26.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-27.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-28.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-29.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-3.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-30.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-31.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-32.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-4.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-5.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-6.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-7.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-8.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479)-9.bin
+|---> setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe
 
 Goodies: 
 |---> baldurs_gate_3_artbook.zip
@@ -4148,12 +4164,12 @@ Game + DLC:
 slug: ballisticng
 
 Game + DLC: 
-|---> setup_ballisticng_-_bling_pack_1.3.3_(64bit)_(69069).exe
-|---> setup_ballisticng_-_maceno_island_1.3.3_(64bit)_(69069).exe
-|---> setup_ballisticng_-_neon_nights_1.3.3_(64bit)_(69069).exe
-|---> setup_ballisticng_-_outer_reaches_1.3.3_(64bit)_(69069).exe
-|---> setup_ballisticng_1.3.3_(64bit)_(69069)-1.bin
-|---> setup_ballisticng_1.3.3_(64bit)_(69069).exe
+|---> setup_ballisticng_-_bling_pack_1.3.3.1_(64bit)_(69501).exe
+|---> setup_ballisticng_-_maceno_island_1.3.3.1_(64bit)_(69501).exe
+|---> setup_ballisticng_-_neon_nights_1.3.3.1_(64bit)_(69501).exe
+|---> setup_ballisticng_-_outer_reaches_1.3.3.1_(64bit)_(69501).exe
+|---> setup_ballisticng_1.3.3.1_(64bit)_(69501)-1.bin
+|---> setup_ballisticng_1.3.3.1_(64bit)_(69501).exe
 
 
 
@@ -4261,16 +4277,16 @@ Goodies:
 slug: barely_racing
 
 Game + DLC: 
-|---> setup_barely_racing_1.0.2.3_(64bit)_(71174).exe
+|---> setup_barely_racing_1.0.2.7_(64bit)_(72662).exe
 
 
 
 slug: barony
 
 Game + DLC: 
-|---> setup_barony_legends__pariahs_v4.1.1-181123-2_(64bit)_(69095).exe
-|---> setup_barony_myths__outcasts_v4.1.1-181123-2_(64bit)_(69095).exe
-|---> setup_barony_v4.1.1-181123-2_(64bit)_(69095).exe
+|---> setup_barony_legends__pariahs_v4.2.1-010324-eatmyhat-hf1_(64bit)_(71722).exe
+|---> setup_barony_myths__outcasts_v4.2.1-010324-eatmyhat-hf1_(64bit)_(71722).exe
+|---> setup_barony_v4.2.1-010324-eatmyhat-hf1_(64bit)_(71722).exe
 
 Goodies: 
 |---> barony_extended_ost_mp3.zip
@@ -4502,7 +4518,7 @@ Goodies:
 slug: batsugun
 
 Game + DLC: 
-|---> setup_batsugun_18_(64bit)_(72014).exe
+|---> setup_batsugun_22_(64bit)_(72732).exe
 
 
 
@@ -4793,7 +4809,7 @@ Game + DLC:
 slug: battle_planet_judgement_day
 
 Game + DLC: 
-|---> setup_battle_planet_-_judgement_day_1.5.1_rev7352_(64bit)_(55737).exe
+|---> setup_battle_planet_-_judgement_day_1.7.0_(64bit)_(68341).exe
 
 
 
@@ -4848,7 +4864,7 @@ Goodies:
 slug: bear_and_breakfast
 
 Game + DLC: 
-|---> setup_bear_and_breakfast_1.7.3_(64bit)_(63113).exe
+|---> setup_bear_and_breakfast_1.8.25_(64bit)_(71537).exe
 
 
 
@@ -5173,7 +5189,7 @@ Game + DLC:
 slug: between_horizons
 
 Game + DLC: 
-|---> setup_between_horizons_1.0.7_(72284).exe
+|---> setup_between_horizons_1.0.8_(72525).exe
 
 
 
@@ -5245,7 +5261,7 @@ Game + DLC:
 slug: beyond_the_edge_of_owlsgard
 
 Game + DLC: 
-|---> setup_beyond_the_edge_of_owlsgard_1.1_(61139).exe
+|---> setup_beyond_the_edge_of_owlsgard_1.2_(72756).exe
 
 
 
@@ -5620,8 +5636,8 @@ Game + DLC:
 slug: black_academy
 
 Game + DLC: 
-|---> setup_black_academy_(secret_plus)_1.0.169_v2_(66987).exe
-|---> setup_black_academy_1.0.169_v2_(66987).exe
+|---> setup_black_academy_(secret_plus)_1.0.170_(69553).exe
+|---> setup_black_academy_1.0.170_(69553).exe
 
 
 
@@ -6404,7 +6420,7 @@ Goodies:
 slug: book_of_hours
 
 Game + DLC: 
-|---> setup_book_of_hours_2024.3.e.15_(71990).exe
+|---> setup_book_of_hours_2024.3.e.17_(72179).exe
 |---> setup_book_of_hours_perpetual_edition_content_2024.3.e.15_(71990).exe
 
 Goodies: 
@@ -6459,6 +6475,10 @@ slug: born_of_bread
 Game + DLC: 
 |---> setup_born_of_bread_r3.1.6d_(64bit)_(71323)-1.bin
 |---> setup_born_of_bread_r3.1.6d_(64bit)_(71323).exe
+
+Goodies: 
+|---> born_of_bread_artbook.zip
+|---> born_of_bread_digital_soundtrack_wav.zip
 
 
 
@@ -6960,7 +6980,7 @@ Goodies:
 slug: broodstar
 
 Game + DLC: 
-|---> setup_broodstar_1.6.0_(71944).exe
+|---> setup_broodstar_1.6.1_(72901).exe
 
 Goodies: 
 |---> broodstar_soundtrack_mp3.zip
@@ -6978,12 +6998,12 @@ Game + DLC:
 slug: brothers_a_tale_of_two_sons_remake
 
 Game + DLC: 
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914)-1.bin
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914)-2.bin
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914)-3.bin
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914)-4.bin
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914)-5.bin
-|---> setup_brothers_a_tale_of_two_sons_remake_20240315.11.2858771_(64bit)_(71914).exe
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705)-1.bin
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705)-2.bin
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705)-3.bin
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705)-4.bin
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705)-5.bin
+|---> setup_brothers_a_tale_of_two_sons_remake_20240417.12.1559082_(64bit)_(72705).exe
 
 
 
@@ -7057,7 +7077,7 @@ Goodies:
 slug: buccaneers
 
 Game + DLC: 
-|---> setup_buccaneers_1.0.14_(64bit)_(59844).exe
+|---> setup_buccaneers_1.1.01_(64bit)_(71998).exe
 
 
 
@@ -7158,7 +7178,7 @@ Game + DLC:
 slug: bzzzt
 
 Game + DLC: 
-|---> setup_bzzzt_1.010f-240314_(64bit)_(71911).exe
+|---> setup_bzzzt_1.101f-240409_(64bit)_(72562).exe
 
 Goodies: 
 |---> bzzzt_soundtrack_mp3.zip
@@ -7778,21 +7798,25 @@ Game + DLC:
 slug: cavern_of_dreams
 
 Game + DLC: 
-|---> setup_cavern_of_dreams_7_4_(71864).exe
+|---> setup_cavern_of_dreams_7_5_(72822).exe
+
+Goodies: 
+|---> cavern_of_dreams_soundtrack_mp3.zip
+|---> cavern_of_dreams_soundtrack_wav.zip
 
 
 
 slug: caves_of_lore
 
 Game + DLC: 
-|---> setup_caves_of_lore_1.5.7.0_(72378).exe
+|---> setup_caves_of_lore_1.5.9.0.1_(72740).exe
 
 
 
 slug: caves_of_qud
 
 Game + DLC: 
-|---> setup_caves_of_qud_2.0.206.74_(72432).exe
+|---> setup_caves_of_qud_2.0.206.77_(72935).exe
 
 
 
@@ -8105,6 +8129,15 @@ Goodies:
 
 
 
+slug: chihiro_himukai_always_walks_away
+
+Game + DLC: 
+|---> setup_chihiro_himukai_always_walks_away_1.0.1_(72561)-1.bin
+|---> setup_chihiro_himukai_always_walks_away_1.0.1_(72561).exe
+|---> setup_chihiro_himukai_always_walks_away_unrated_1.0.1_(72561).exe
+
+
+
 slug: children_of_morta
 
 Game + DLC: 
@@ -8341,7 +8374,7 @@ Goodies:
 slug: city_game_studio_a_tycoon_about_game_dev
 
 Game + DLC: 
-|---> setup_city_game_studio_a_tycoon_about_game_dev_v1.15.5_(64bit)_(68095).exe
+|---> setup_city_game_studio_a_tycoon_about_game_dev_v1.18.3_(64bit)_(72415).exe
 
 
 
@@ -8393,8 +8426,8 @@ Game + DLC:
 slug: claires_quest_gold
 
 Game + DLC: 
-|---> setup_claires_quest_gold_0.25.3a_(65329)-1.bin
-|---> setup_claires_quest_gold_0.25.3a_(65329).exe
+|---> setup_claires_quest_gold_0.26.2c_(72529)-1.bin
+|---> setup_claires_quest_gold_0.26.2c_(72529).exe
 
 
 
@@ -8436,9 +8469,9 @@ Goodies:
 slug: clash_ii
 
 Game + DLC: 
-|---> setup_clash_ii_394_(72055)-1.bin
-|---> setup_clash_ii_394_(72055)-2.bin
-|---> setup_clash_ii_394_(72055).exe
+|---> setup_clash_ii_420_(72563)-1.bin
+|---> setup_clash_ii_420_(72563)-2.bin
+|---> setup_clash_ii_420_(72563).exe
 
 Goodies: 
 |---> clash_ii_soundtrack_wav.zip
@@ -8871,10 +8904,10 @@ Game + DLC:
 slug: colony_ship_a_postearth_role_playing_game
 
 Game + DLC: 
-|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.25_(64bit)_(71325)-1.bin
-|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.25_(64bit)_(71325)-2.bin
-|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.25_(64bit)_(71325)-3.bin
-|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.25_(64bit)_(71325).exe
+|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.87_(64bit)_(72878)-1.bin
+|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.87_(64bit)_(72878)-2.bin
+|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.87_(64bit)_(72878)-3.bin
+|---> setup_colony_ship_a_post-earth_role_playing_game_1.0.87_(64bit)_(72878).exe
 
 
 
@@ -9273,6 +9306,10 @@ Game + DLC:
 |---> setup_conway_disappearance_at_dahlia_view_1.0.0.6-hotfix_(64bit)_(53583)-2.bin
 |---> setup_conway_disappearance_at_dahlia_view_1.0.0.6-hotfix_(64bit)_(53583).exe
 
+Goodies: 
+|---> Conway_OST_FLAC.zip
+|---> Conway_OST_MP3.zip
+
 
 
 slug: cooking_simulator
@@ -9590,7 +9627,7 @@ Goodies:
 slug: craftomation_101_programming_craft
 
 Game + DLC: 
-|---> setup_craftomation_101_programming__craft_0.72.4_(72349).exe
+|---> setup_craftomation_101_programming__craft_0.73.3_(72687).exe
 
 
 
@@ -10172,9 +10209,9 @@ Goodies:
 slug: ctrl_alt_ego
 
 Game + DLC: 
-|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518)-1.bin
-|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518)-2.bin
-|---> setup_ctrl_alt_ego_1.3.16.03_(64bit)_(72518).exe
+|---> setup_ctrl_alt_ego_1.4.1_(64bit)_(72940)-1.bin
+|---> setup_ctrl_alt_ego_1.4.1_(64bit)_(72940)-2.bin
+|---> setup_ctrl_alt_ego_1.4.1_(64bit)_(72940).exe
 
 
 
@@ -11019,7 +11056,7 @@ slug: darwinia
 
 Game + DLC: 
 |---> setup_darwinia_1.0_(20792).exe
-|---> setup_darwinia_2.3.3-windows-full_(64bit)_(71675).exe
+|---> setup_darwinia_2.3.3-45-ged1ca4106-windows-full_(64bit)_(72586).exe
 
 Goodies: 
 |---> darwinia_avatars.zip
@@ -11639,7 +11676,7 @@ Game + DLC:
 slug: decision_red_daze
 
 Game + DLC: 
-|---> setup_decision_red_daze_1.3.2(0)_(67661).exe
+|---> setup_decision_red_daze_1.3.3(4)_(70525).exe
 
 
 
@@ -11903,12 +11940,13 @@ Goodies:
 slug: demon_lord_reincarnation
 
 Game + DLC: 
-|---> setup_demon_lord_reincarnation_1.0.5.0_(64bit)_(68180).exe
-|---> setup_demon_lord_reincarnation_soundtrack_1.0.5.0_(64bit)_(68180).exe
+|---> setup_demon_lord_reincarnation_1.0.6.1_(64bit)_(72004).exe
+|---> setup_demon_lord_reincarnation_soundtrack_1.0.6.1_(64bit)_(72004).exe
 
 Goodies: 
 |---> DLR_Soundtrack_FLAC.ZIP
 |---> DLR_Soundtrack_MP3.ZIP
+|---> DLR_Supporter_Pack.zip
 
 
 
@@ -12180,10 +12218,10 @@ Goodies:
 slug: destroyer_the_uboat_hunter
 
 Game + DLC: 
-|---> setup_destroyer_the_u-boat_hunter_-_supporter_pack_1.0.16_(71561).exe
-|---> setup_destroyer_the_u-boat_hunter_1.0.16_(71561)-1.bin
-|---> setup_destroyer_the_u-boat_hunter_1.0.16_(71561)-2.bin
-|---> setup_destroyer_the_u-boat_hunter_1.0.16_(71561).exe
+|---> setup_destroyer_the_u-boat_hunter_-_supporter_pack_1.0.19_(72207).exe
+|---> setup_destroyer_the_u-boat_hunter_1.0.19_(72207)-1.bin
+|---> setup_destroyer_the_u-boat_hunter_1.0.19_(72207)-2.bin
+|---> setup_destroyer_the_u-boat_hunter_1.0.19_(72207).exe
 
 Goodies: 
 |---> destroyer_tactical_guide_final.pdf
@@ -12500,15 +12538,15 @@ Game + DLC:
 slug: diluvian_ultra
 
 Game + DLC: 
-|---> setup_diluvian_ultra_3.4.06_(64bit)_(71030)-1.bin
-|---> setup_diluvian_ultra_3.4.06_(64bit)_(71030).exe
+|---> setup_diluvian_ultra_3.4.50_(64bit)_(72752)-1.bin
+|---> setup_diluvian_ultra_3.4.50_(64bit)_(72752).exe
 
 
 
 slug: diluvian_winds
 
 Game + DLC: 
-|---> setup_diluvian_winds_0.7.1.2_(69376).exe
+|---> setup_diluvian_winds_1.0.0_(72900).exe
 
 Goodies: 
 |---> diluvian_winds_artbook.zip
@@ -12565,7 +12603,7 @@ Game + DLC:
 slug: diplomacy_is_not_an_option
 
 Game + DLC: 
-|---> setup_diplomacy_is_not_an_option_dno_0.9.112_r_(64bit)_(72060).exe
+|---> setup_diplomacy_is_not_an_option_dno_0.9.122_r_(64bit)_(72615).exe
 
 
 
@@ -12795,12 +12833,12 @@ Game + DLC:
 slug: distant_worlds_2
 
 Game + DLC: 
-|---> setup_distant_worlds_2_1.2.0.5_(64bit)_(71076)-1.bin
-|---> setup_distant_worlds_2_1.2.0.5_(64bit)_(71076)-2.bin
-|---> setup_distant_worlds_2_1.2.0.5_(64bit)_(71076).exe
-|---> setup_distant_worlds_2_factions_-_ikkuro_and_dhayut_1.2.0.5_(64bit)_(71076).exe
-|---> setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.0.5_(64bit)_(71076)-1.bin
-|---> setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.0.5_(64bit)_(71076).exe
+|---> setup_distant_worlds_2_1.2.2.0_(64bit)_(72394)-1.bin
+|---> setup_distant_worlds_2_1.2.2.0_(64bit)_(72394)-2.bin
+|---> setup_distant_worlds_2_1.2.2.0_(64bit)_(72394).exe
+|---> setup_distant_worlds_2_factions_-_ikkuro_and_dhayut_1.2.2.0_(64bit)_(72394).exe
+|---> setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.2.0_(64bit)_(72394)-1.bin
+|---> setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.2.0_(64bit)_(72394).exe
 
 
 
@@ -13017,7 +13055,7 @@ Goodies:
 slug: dogyuun
 
 Game + DLC: 
-|---> setup_dogyuun_2_(64bit)_(72394).exe
+|---> setup_dogyuun_5_(64bit)_(72487).exe
 
 
 
@@ -13556,10 +13594,10 @@ Goodies:
 slug: dreadful_river
 
 Game + DLC: 
-|---> setup_dreadful_river_0.5.1.8_(64bit)_(71977)-1.bin
-|---> setup_dreadful_river_0.5.1.8_(64bit)_(71977)-2.bin
-|---> setup_dreadful_river_0.5.1.8_(64bit)_(71977)-3.bin
-|---> setup_dreadful_river_0.5.1.8_(64bit)_(71977).exe
+|---> setup_dreadful_river_0.5.1.9_(64bit)_(72371)-1.bin
+|---> setup_dreadful_river_0.5.1.9_(64bit)_(72371)-2.bin
+|---> setup_dreadful_river_0.5.1.9_(64bit)_(72371)-3.bin
+|---> setup_dreadful_river_0.5.1.9_(64bit)_(72371).exe
 
 
 
@@ -13663,7 +13701,7 @@ Goodies:
 slug: dreamcutter
 
 Game + DLC: 
-|---> setup_dreamcutter_1.1_(65655).exe
+|---> setup_dreamcutter_1.3_(70694).exe
 
 
 
@@ -14069,9 +14107,9 @@ Goodies:
 slug: dungeons_legion
 
 Game + DLC: 
-|---> setup_dungeons_legion_unrated_v1_(en_v1_cn_v1)_(68199)-1.bin
-|---> setup_dungeons_legion_unrated_v1_(en_v1_cn_v1)_(68199).exe
-|---> setup_dungeons_legion_v1_(en_v1_cn_v1)_(68199).exe
+|---> setup_dungeons_legion_unrated_v2_(en_v1.02_cn_v1)_(69798)-1.bin
+|---> setup_dungeons_legion_unrated_v2_(en_v1.02_cn_v1)_(69798).exe
+|---> setup_dungeons_legion_v2_(en_v1.02_cn_v1)_(69798).exe
 
 
 
@@ -14087,7 +14125,7 @@ Game + DLC:
 slug: dungeon_drafters
 
 Game + DLC: 
-|---> setup_dungeon_drafters_v1.1.1.2_with_api_(64bit)_(72402).exe
+|---> setup_dungeon_drafters_v1.1.1.3_with_api_(64bit)_(72612).exe
 
 Goodies: 
 |---> dungeon_drafters_soundtrack_mp3.zip
@@ -14194,7 +14232,7 @@ Game + DLC:
 slug: dungeon_vixens_a_tale_of_temptation
 
 Game + DLC: 
-|---> setup_dungeon_vixens_a_tale_of_temptation_1.1_(70975).exe
+|---> setup_dungeon_vixens_a_tale_of_temptation_1.4_(72805).exe
 
 
 
@@ -14252,18 +14290,18 @@ Goodies:
 slug: dust_fleet
 
 Game + DLC: 
-|---> setup_dust_fleet_4.6_(64bit)_(72560).exe
+|---> setup_dust_fleet_4.10_(64bit)_(72851).exe
 
 
 
 slug: dv_rings_of_saturn
 
 Game + DLC: 
-|---> setup_v_rings_of_saturn_-_4k_texture_pack_1.42.9_(64bit)_(72081).exe
-|---> setup_v_rings_of_saturn_-_anthropogenesis_1.42.9_(64bit)_(72081).exe
-|---> setup_v_rings_of_saturn_-_deep_weeb_1.42.9_(64bit)_(72081).exe
-|---> setup_v_rings_of_saturn_-_tales_from_the_rings_1.42.9_(64bit)_(72081).exe
-|---> setup_v_rings_of_saturn_1.42.9_(64bit)_(72081).exe
+|---> setup_v_rings_of_saturn_-_4k_texture_pack_1.45.0_(64bit)_(72609).exe
+|---> setup_v_rings_of_saturn_-_anthropogenesis_1.45.0_(64bit)_(72609).exe
+|---> setup_v_rings_of_saturn_-_deep_weeb_1.45.0_(64bit)_(72609).exe
+|---> setup_v_rings_of_saturn_-_tales_from_the_rings_1.45.0_(64bit)_(72609).exe
+|---> setup_v_rings_of_saturn_1.45.0_(64bit)_(72609).exe
 
 Goodies: 
 |---> Rings_of_Saturn_Artbook.zip
@@ -14739,6 +14777,27 @@ Game + DLC:
 
 
 
+slug: eiyuden_chronicle_hundred_heroes
+
+Game + DLC: 
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653)-1.bin
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653)-2.bin
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653)-3.bin
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653)-4.bin
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653)-5.bin
+|---> setup_eiyuden_chronicle_hundred_heroes_1.0.5-p17.5.1_(72653).exe
+|---> setup_eiyuden_chronicle_hundred_heroes_easy_journey_pack_1.0.5-p17.5.1_(72653).exe
+|---> setup_eiyuden_chronicle_hundred_heroes_headquarter_custom_object_(flag)__early_bird_pack_1.0.5-p17.5.1_(72653).exe
+|---> setup_eiyuden_chronicle_hundred_heroes_headquarter_custom_object_1.0.5-p17.5.1_(72653).exe
+|---> setup_eiyuden_chronicle_hundred_heroes_wallpaper_1.0.5-p17.5.1_(72653).exe
+
+Goodies: 
+|---> eiyuden_artbook.zip
+|---> eiyuden_ost_mp3a.zip
+|---> eiyuden_ost_wav.zip
+
+
+
 slug: eiyuden_chronicle_rising
 
 Game + DLC: 
@@ -14996,7 +15055,7 @@ Goodies:
 slug: emperor_of_the_fading_suns
 
 Game + DLC: 
-|---> setup_emperor_of_the_fading_suns_1.5_(59073).exe
+|---> setup_emperor_of_the_fading_suns_1.51_(62343).exe
 
 Goodies: 
 |---> emperor_of_the_fading_suns_classic_installer.zip
@@ -15287,6 +15346,9 @@ Game + DLC:
 |---> setup_en_garde_1.0_ua_update_(71314)-1.bin
 |---> setup_en_garde_1.0_ua_update_(71314)-2.bin
 |---> setup_en_garde_1.0_ua_update_(71314).exe
+
+Goodies: 
+|---> en_garde_soundtrack_mp3.zip
 
 
 
@@ -15687,80 +15749,82 @@ Goodies:
 slug: europa_universalis_iv
 
 Game + DLC: 
-|---> setup_collection_-_europa_universalis_iv_ultimate_e-book_pack_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_common_sense_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_cradle_of_civilization_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_dharma_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_el_dorado_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_emperor_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_mandate_of_heaven_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_mare_nostrum_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_rights_of_man_1.36.2.2_(69500).exe
-|---> setup_content_pack_-_europa_universalis_iv_the_cossacks_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_1.36.2.2_(69500)-1.bin
-|---> setup_europa_universalis_iv_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_100_years_war_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_10th_anniversary_community_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_american_dream_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_catholic_league_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_catholic_majors_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_china_history_lessons_1.36.2.2_(69500)-1.bin
-|---> setup_europa_universalis_iv_china_history_lessons_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_colonial_british_and_french_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_conquest_of_constantinople_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_conquistadors_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_evangelical_majors_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_evangelical_union_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_fredmans_epistles_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_guns_drums_and_steel_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_guns_drums_and_steel_volume_2_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_guns_drums_and_steel_volume_3_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_horsemen_of_the_crescent_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_indian_ships_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_indian_subcontinent_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_japan_history_lessons_1.36.2.2_(69500)-1.bin
-|---> setup_europa_universalis_iv_japan_history_lessons_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_muslim_advisor_portraits_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_muslim_ships_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_national_monuments_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_national_monuments_ii_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_native_americans_ii_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_native_americans_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_purple_phoenix_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_republican_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_sabaton_soundtrack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_songs_of_regency_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_songs_of_the_new_world_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_songs_of_war_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_songs_of_yuletide_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_sounds_from_the_community_-_kairis_soundtrack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_sounds_from_the_community_-_kairis_soundtrack_part_ii_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_star_and_crescent_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_the_rus_awakening_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_trade_nations_unit_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_utopia_holy_roman_empire_music_pack_1.36.2.2_(69500).exe
-|---> setup_europa_universalis_iv_winged_hussars_unit_pack_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_art_of_war_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_common_sense_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_conquest_of_paradise_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_cradle_of_civilization_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_dharma_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_domination_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_el_dorado_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_emperor_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_leviathan_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_mandate_of_heaven_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_mare_nostrum_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_res_publica_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_rights_of_man_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_the_cossacks_1.36.2.2_(69500).exe
-|---> setup_expansion_-_europa_universalis_iv_wealth_of_nations_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_golden_century_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_king_of_kings_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_lions_of_the_north_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_origins_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_rule_britannia_1.36.2.2_(69500).exe
-|---> setup_immersion_pack_-_europa_universalis_iv_third_rome_1.36.2.2_(69500).exe
+|---> setup_collection_-_europa_universalis_iv_ultimate_e-book_pack_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_common_sense_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_cradle_of_civilization_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_dharma_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_el_dorado_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_emperor_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_mandate_of_heaven_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_mare_nostrum_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_rights_of_man_1.36.6.0_(71197).exe
+|---> setup_content_pack_-_europa_universalis_iv_the_cossacks_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_1.36.6.0_(71197)-1.bin
+|---> setup_europa_universalis_iv_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_100_years_war_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_10th_anniversary_community_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_american_dream_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_catholic_league_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_catholic_majors_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_china_history_lessons_1.36.6.0_(71197)-1.bin
+|---> setup_europa_universalis_iv_china_history_lessons_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_colonial_british_and_french_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_conquest_of_constantinople_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_conquistadors_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_evangelical_majors_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_evangelical_union_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_fredmans_epistles_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_guns_drums_and_steel_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_guns_drums_and_steel_volume_2_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_guns_drums_and_steel_volume_3_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_horsemen_of_the_crescent_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_indian_ships_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_indian_subcontinent_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_japan_history_lessons_1.36.6.0_(71197)-1.bin
+|---> setup_europa_universalis_iv_japan_history_lessons_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_march_of_power_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_muslim_advisor_portraits_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_muslim_ships_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_national_monuments_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_national_monuments_ii_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_native_americans_ii_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_native_americans_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_purple_phoenix_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_republican_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_sabaton_soundtrack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_songs_of_regency_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_songs_of_the_new_world_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_songs_of_war_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_songs_of_yuletide_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_sounds_from_the_community_-_kairis_soundtrack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_sounds_from_the_community_-_kairis_soundtrack_part_iii_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_sounds_from_the_community_-_kairis_soundtrack_part_ii_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_star_and_crescent_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_the_rus_awakening_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_trade_nations_unit_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_utopia_holy_roman_empire_music_pack_1.36.6.0_(71197).exe
+|---> setup_europa_universalis_iv_winged_hussars_unit_pack_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_art_of_war_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_common_sense_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_conquest_of_paradise_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_cradle_of_civilization_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_dharma_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_domination_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_el_dorado_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_emperor_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_leviathan_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_mandate_of_heaven_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_mare_nostrum_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_res_publica_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_rights_of_man_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_the_cossacks_1.36.6.0_(71197).exe
+|---> setup_expansion_-_europa_universalis_iv_wealth_of_nations_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_golden_century_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_king_of_kings_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_lions_of_the_north_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_origins_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_rule_britannia_1.36.6.0_(71197).exe
+|---> setup_immersion_pack_-_europa_universalis_iv_third_rome_1.36.6.0_(71197).exe
 
 Goodies: 
 |---> europa_universalis_iv_manual.zip
@@ -16247,7 +16311,7 @@ Goodies:
 slug: factorio
 
 Game + DLC: 
-|---> setup_factorio_1.1.104_(71196).exe
+|---> setup_factorio_1.1.107_(72566).exe
 
 Goodies: 
 |---> factorio_ost_flac.zip
@@ -16682,20 +16746,20 @@ Game + DLC:
 slug: farmers_dynasty
 
 Game + DLC: 
-|---> setup_farmers_dynasty_-_machines_pack_1.06b_(64bit)_(66106).exe
-|---> setup_farmers_dynasty_-_potatoes__beets_1.06b_(64bit)_(66106).exe
-|---> setup_farmers_dynasty_1.06b_(64bit)_(66106)-1.bin
-|---> setup_farmers_dynasty_1.06b_(64bit)_(66106)-2.bin
-|---> setup_farmers_dynasty_1.06b_(64bit)_(66106).exe
+|---> setup_farmers_dynasty_-_machines_pack_1.07_(64bit)_(69493).exe
+|---> setup_farmers_dynasty_-_potatoes__beets_1.07_(64bit)_(69493).exe
+|---> setup_farmers_dynasty_1.07_(64bit)_(69493)-1.bin
+|---> setup_farmers_dynasty_1.07_(64bit)_(69493)-2.bin
+|---> setup_farmers_dynasty_1.07_(64bit)_(69493).exe
 
 
 
 slug: farmers_life
 
 Game + DLC: 
-|---> setup_farmers_life_1.0.01_(68555)-1.bin
-|---> setup_farmers_life_1.0.01_(68555)-2.bin
-|---> setup_farmers_life_1.0.01_(68555).exe
+|---> setup_farmers_life_1.013_(71852)-1.bin
+|---> setup_farmers_life_1.013_(71852)-2.bin
+|---> setup_farmers_life_1.013_(71852).exe
 
 
 
@@ -17084,13 +17148,13 @@ Goodies:
 slug: field_of_glory_ii_medieval
 
 Game + DLC: 
-|---> setup_field_of_glory_ii_medieval_-_reconquista_1.05.14_(70235).exe
-|---> setup_field_of_glory_ii_medieval_-_rise_of_the_swiss_1.05.14_(70235).exe
-|---> setup_field_of_glory_ii_medieval_-_storm_of_arrows_1.05.14_(70235).exe
-|---> setup_field_of_glory_ii_medieval_-_sublime_porte_1.05.14_(70235).exe
-|---> setup_field_of_glory_ii_medieval_-_swords_and_scimitars_1.05.14_(70235).exe
-|---> setup_field_of_glory_ii_medieval_1.05.14_(70235)-1.bin
-|---> setup_field_of_glory_ii_medieval_1.05.14_(70235).exe
+|---> setup_field_of_glory_ii_medieval_-_reconquista_01.05.14.01_(70499).exe
+|---> setup_field_of_glory_ii_medieval_-_rise_of_the_swiss_01.05.14.01_(70499).exe
+|---> setup_field_of_glory_ii_medieval_-_storm_of_arrows_01.05.14.01_(70499).exe
+|---> setup_field_of_glory_ii_medieval_-_sublime_porte_01.05.14.01_(70499).exe
+|---> setup_field_of_glory_ii_medieval_-_swords_and_scimitars_01.05.14.01_(70499).exe
+|---> setup_field_of_glory_ii_medieval_01.05.14.01_(70499)-1.bin
+|---> setup_field_of_glory_ii_medieval_01.05.14.01_(70499).exe
 
 
 
@@ -17111,9 +17175,9 @@ Game + DLC:
 slug: fights_in_tight_spaces
 
 Game + DLC: 
-|---> setup_fights_in_tight_spaces_-_weapon_of_choice_1.2.9459_(64bit)_(67837).exe
-|---> setup_fights_in_tight_spaces_1.2.9459_(64bit)_(67837)-1.bin
-|---> setup_fights_in_tight_spaces_1.2.9459_(64bit)_(67837).exe
+|---> setup_fights_in_tight_spaces_-_weapon_of_choice_1.2.9501_(64bit)_(72564).exe
+|---> setup_fights_in_tight_spaces_1.2.9501_(64bit)_(72564)-1.bin
+|---> setup_fights_in_tight_spaces_1.2.9501_(64bit)_(72564).exe
 
 Goodies: 
 |---> Fights_in_Tight_SpacesFLAC.zip
@@ -17154,7 +17218,14 @@ Goodies:
 slug: fill_multicolor
 
 Game + DLC: 
-|---> setup_fill_multicolor_1.0.1_(70326).exe
+|---> setup_fill_multicolor_1.0.3_(72929).exe
+
+
+
+slug: fill_the_rainbow
+
+Game + DLC: 
+|---> setup_fill_the_rainbow_1.0.0_(70576).exe
 
 
 
@@ -17289,7 +17360,7 @@ Game + DLC:
 slug: fire_shark
 
 Game + DLC: 
-|---> setup_fire_shark_9_(64bit)_(67544).exe
+|---> setup_fire_shark_16_(64bit)_(72706).exe
 
 
 
@@ -17307,6 +17378,13 @@ Goodies:
 |---> firmament_digital_strategy_guide.zip
 |---> firmament_original_soundtrack_flac_v2.zip
 |---> firmament_original_soundtrack_mp3_v2.zip
+
+
+
+slug: first_cut_samurai_duel
+
+Game + DLC: 
+|---> setup_first_cut_samurai_duel_1.292_(72580).exe
 
 
 
@@ -17348,7 +17426,7 @@ Goodies:
 slug: fixeight
 
 Game + DLC: 
-|---> setup_fix_eight_12_(64bit)_(71697).exe
+|---> setup_fix_eight_16_(64bit)_(72732).exe
 
 
 
@@ -17489,6 +17567,12 @@ Game + DLC:
 |---> setup_floodland_1.3.22354_(67548)-1.bin
 |---> setup_floodland_1.3.22354_(67548).exe
 
+Goodies: 
+|---> Floodland_Soundtrack_FLAC.zip
+|---> Floodland_Soundtrack_MP3.zip
+|---> floodland_stories_and_art_de.zip
+|---> floodland_stories_and_art_en.zip
+
 
 
 slug: florence
@@ -17501,7 +17585,7 @@ Game + DLC:
 slug: flotsam
 
 Game + DLC: 
-|---> setup_flotsam_0.7.5_(67787).exe
+|---> setup_flotsam_0.7.6_(71662).exe
 
 
 
@@ -17547,7 +17631,7 @@ Game + DLC:
 slug: flying_shark
 
 Game + DLC: 
-|---> setup_flying_shark_9_(64bit)_(67544).exe
+|---> setup_flying_shark_19_(64bit)_(72706).exe
 
 
 
@@ -17617,8 +17701,8 @@ Goodies:
 slug: forgive_me_father_2
 
 Game + DLC: 
-|---> setup_forgive_me_father_2_fmf2_0.1.9.6_ea_(64bit)_(68292)-1.bin
-|---> setup_forgive_me_father_2_fmf2_0.1.9.6_ea_(64bit)_(68292).exe
+|---> setup_forgive_me_father_2_0.3.14.55u_(64bit)_(72733)-1.bin
+|---> setup_forgive_me_father_2_0.3.14.55u_(64bit)_(72733).exe
 
 
 
@@ -17688,9 +17772,13 @@ Game + DLC:
 slug: fort_solis
 
 Game + DLC: 
-|---> setup_fort_solis_1.0_(71168)-1.bin
-|---> setup_fort_solis_1.0_(71168)-2.bin
-|---> setup_fort_solis_1.0_(71168).exe
+|---> setup_fort_solis_1.0_dec_update_(72087)-1.bin
+|---> setup_fort_solis_1.0_dec_update_(72087)-2.bin
+|---> setup_fort_solis_1.0_dec_update_(72087).exe
+
+Goodies: 
+|---> fort_solis_artbook.zip
+|---> fort_solis_soundtrack_WAV.zip
 
 
 
@@ -17962,13 +18050,13 @@ Goodies:
 slug: frontier_hunter_erzas_wheel_of_fortune
 
 Game + DLC: 
-|---> setup_frontier_hunter_-_dlc_clothing_pack_0.8.06_(71810).exe
-|---> setup_frontier_hunter_-_dlc_costume_pack_season_2_0.8.06_(71810).exe
-|---> setup_frontier_hunter_-_dlc_costume_pack_season_3_0.8.06_(71810).exe
-|---> setup_frontier_hunter_-_dlc_hairstyle_pack_0.8.06_(71810).exe
-|---> setup_frontier_hunter_-_dlc_newbie_prop_pack_0.8.06_(71810).exe
-|---> setup_frontier_hunter_erzas_wheel_of_fortune_0.8.06_(71810)-1.bin
-|---> setup_frontier_hunter_erzas_wheel_of_fortune_0.8.06_(71810).exe
+|---> setup_frontier_hunter_-_dlc_clothing_pack_0.8.091_(72753).exe
+|---> setup_frontier_hunter_-_dlc_costume_pack_season_2_0.8.091_(72753).exe
+|---> setup_frontier_hunter_-_dlc_costume_pack_season_3_0.8.091_(72753).exe
+|---> setup_frontier_hunter_-_dlc_hairstyle_pack_0.8.091_(72753).exe
+|---> setup_frontier_hunter_-_dlc_newbie_prop_pack_0.8.091_(72753).exe
+|---> setup_frontier_hunter_erzas_wheel_of_fortune_0.8.091_(72753)-1.bin
+|---> setup_frontier_hunter_erzas_wheel_of_fortune_0.8.091_(72753).exe
 
 Goodies: 
 |---> frontier_hunter_soundtrack_MP3.zip
@@ -18347,7 +18435,7 @@ Game + DLC:
 slug: galaxy_trucker
 
 Game + DLC: 
-|---> setup_galaxy_trucker_3.6.811_(68627).exe
+|---> setup_galaxy_trucker_3.6.843_(72899).exe
 
 
 
@@ -18487,11 +18575,14 @@ Game + DLC:
 slug: gas_station_simulator
 
 Game + DLC: 
-|---> setup_gas_station_simulator_-_can_touch_this_dlc_1.0.2.46637_dlc_(56533)-1.bin
-|---> setup_gas_station_simulator_-_can_touch_this_dlc_1.0.2.46637_dlc_(56533).exe
-|---> setup_gas_station_simulator_1.0.2.46637_dlc_(56533)-1.bin
-|---> setup_gas_station_simulator_1.0.2.46637_dlc_(56533)-2.bin
-|---> setup_gas_station_simulator_1.0.2.46637_dlc_(56533).exe
+|---> setup_gas_station_simulator_-_airstrip_dlc_shipping_1.0.2.13323s_(64bit)_(72493).exe
+|---> setup_gas_station_simulator_-_can_touch_this_dlc_shipping_1.0.2.13323s_(64bit)_(72493)-1.bin
+|---> setup_gas_station_simulator_-_can_touch_this_dlc_shipping_1.0.2.13323s_(64bit)_(72493).exe
+|---> setup_gas_station_simulator_-_party_time_dlc_shipping_1.0.2.13323s_(64bit)_(72493).exe
+|---> setup_gas_station_simulator_-_tidal_wave_dlc_shipping_1.0.2.13323s_(64bit)_(72493)-1.bin
+|---> setup_gas_station_simulator_-_tidal_wave_dlc_shipping_1.0.2.13323s_(64bit)_(72493).exe
+|---> setup_gas_station_simulator_shipping_1.0.2.13323s_(64bit)_(72493)-1.bin
+|---> setup_gas_station_simulator_shipping_1.0.2.13323s_(64bit)_(72493).exe
 
 
 
@@ -18538,8 +18629,8 @@ Goodies:
 slug: gearcity
 
 Game + DLC: 
-|---> setup_gearcity_2.0.0.11_(64bit)_(71000)-1.bin
-|---> setup_gearcity_2.0.0.11_(64bit)_(71000).exe
+|---> setup_gearcity_2.0.0.11_hf_1_(64bit)_(71114)-1.bin
+|---> setup_gearcity_2.0.0.11_hf_1_(64bit)_(71114).exe
 
 
 
@@ -18679,6 +18770,20 @@ Goodies:
 
 
 
+slug: gerda_a_flame_in_winter
+
+Game + DLC: 
+|---> setup_gerda_a_flame_in_winter_-_livas_story_2.9.1-012e_(70668).exe
+|---> setup_gerda_a_flame_in_winter_2.9.1-012e_(70668)-1.bin
+|---> setup_gerda_a_flame_in_winter_2.9.1-012e_(70668)-2.bin
+|---> setup_gerda_a_flame_in_winter_2.9.1-012e_(70668).exe
+
+Goodies: 
+|---> Gerda_Artworks.zip
+|---> Gerda_Soundtrack.zip
+
+
+
 slug: gex
 
 Game + DLC: 
@@ -18740,8 +18845,8 @@ Goodies:
 slug: ghost_10
 
 Game + DLC: 
-|---> setup_ghost_1.0_-_support_mission_mode_skin_1.1.8b3_(34725).exe
-|---> setup_ghost_1.0_1.1.8b3_(34725).exe
+|---> setup_ghost_1.0_-_support_mission_mode_skin_1.1.8b4_(72424).exe
+|---> setup_ghost_1.0_1.1.8b4_(72424).exe
 
 Goodies: 
 |---> ghost_10_ost_mp3.zip
@@ -18888,7 +18993,7 @@ Game + DLC:
 slug: glitchhikers_the_spaces_between
 
 Game + DLC: 
-|---> setup_glitchhikers_the_spaces_between_1.0.8_(66493).exe
+|---> setup_glitchhikers_the_spaces_between_1.0.9_(72373).exe
 
 Goodies: 
 |---> deluxe_soundtrack_flac.zip
@@ -19107,7 +19212,7 @@ Game + DLC:
 slug: going_medieval
 
 Game + DLC: 
-|---> setup_going_medieval_0.16.21rel_(64bit)_(71180).exe
+|---> setup_going_medieval_0.18.16rel_(64bit)_(72872).exe
 
 Goodies: 
 |---> going_medieval_soundtrack_mp3.zip
@@ -19274,14 +19379,14 @@ Game + DLC:
 slug: gord
 
 Game + DLC: 
-|---> setup_gord_-_hold_your_ground__41_(71662).exe
-|---> setup_gord_-_the_alliance_41_(71662)-1.bin
-|---> setup_gord_-_the_alliance_41_(71662)-2.bin
-|---> setup_gord_-_the_alliance_41_(71662).exe
-|---> setup_gord_41_(71662)-1.bin
-|---> setup_gord_41_(71662)-2.bin
-|---> setup_gord_41_(71662)-3.bin
-|---> setup_gord_41_(71662).exe
+|---> setup_gord_-_hold_your_ground__45_(71730).exe
+|---> setup_gord_-_the_alliance_45_(71730)-1.bin
+|---> setup_gord_-_the_alliance_45_(71730)-2.bin
+|---> setup_gord_-_the_alliance_45_(71730).exe
+|---> setup_gord_45_(71730)-1.bin
+|---> setup_gord_45_(71730)-2.bin
+|---> setup_gord_45_(71730)-3.bin
+|---> setup_gord_45_(71730).exe
 
 Goodies: 
 |---> gord_chronicle_mp3.zip
@@ -19458,10 +19563,10 @@ Goodies:
 slug: grand_tactician_the_civil_war
 
 Game + DLC: 
-|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.12.33_(64bit)_(68087)-1.bin
-|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.12.33_(64bit)_(68087)-2.bin
-|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.12.33_(64bit)_(68087).exe
-|---> setup_grand_tactician_the_civil_war_-_whiskey__lemons_1.12.33_(64bit)_(68087).exe
+|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.14_(64bit)_(70922)-1.bin
+|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.14_(64bit)_(70922)-2.bin
+|---> setup_grand_tactician_the_civil_war_(1861-1865)_1.14_(64bit)_(70922).exe
+|---> setup_grand_tactician_the_civil_war_-_whiskey__lemons_1.14_(64bit)_(70922).exe
 
 Goodies: 
 |---> grand_tactician_OST_vol2_MP3.zip
@@ -19479,9 +19584,9 @@ Game + DLC:
 slug: graven
 
 Game + DLC: 
-|---> setup_graven_16972_(64bit)_(72214)-1.bin
-|---> setup_graven_16972_(64bit)_(72214)-2.bin
-|---> setup_graven_16972_(64bit)_(72214).exe
+|---> setup_graven_16976_(64bit)_(72577)-1.bin
+|---> setup_graven_16976_(64bit)_(72577)-2.bin
+|---> setup_graven_16976_(64bit)_(72577).exe
 
 Goodies: 
 |---> graven_digital_artbook.zip
@@ -19723,7 +19828,7 @@ Game + DLC:
 slug: grind_stormer
 
 Game + DLC: 
-|---> setup_grind_stormer_2_(64bit)_(72394).exe
+|---> setup_grind_stormer_5_(64bit)_(72488).exe
 
 
 
@@ -20017,7 +20122,7 @@ Game + DLC:
 slug: gunship_gunship_2000
 
 Game + DLC: 
-|---> setup_gunship_gunship_2024-02-14__184626_(71208).exe
+|---> setup_gunship_gunship2024-03-05__204307_(71690).exe
 
 Goodies: 
 |---> Gunship2000_Manual_DOS_EN.zip
@@ -20061,9 +20166,9 @@ Goodies:
 slug: gwent_rogue_mage
 
 Game + DLC: 
-|---> setup_adventure_-_deluxe_content_dlc_1.0.4_(64bit)_(58235).exe
-|---> setup_gwent_rogue_mage_1.0.4_(64bit)_(58235)-1.bin
-|---> setup_gwent_rogue_mage_1.0.4_(64bit)_(58235).exe
+|---> setup_adventure_-_deluxe_content_dlc_1.0.7_(64bit)_(69324).exe
+|---> setup_gwent_rogue_mage_1.0.7_(64bit)_(69324)-1.bin
+|---> setup_gwent_rogue_mage_1.0.7_(64bit)_(69324).exe
 
 Goodies: 
 |---> gwent_rogue_mage_ost_wav.zip
@@ -20353,6 +20458,18 @@ Goodies:
 
 
 
+slug: harmony_the_fall_of_reverie
+
+Game + DLC: 
+|---> setup_harmony_the_fall_of_reverie_1.03.1485026_(72827)-1.bin
+|---> setup_harmony_the_fall_of_reverie_1.03.1485026_(72827).exe
+
+Goodies: 
+|---> harmony_OST_FLAC.zip
+|---> harmony_OST_MP3.zip
+
+
+
 slug: harrier_jump_jet
 
 Game + DLC: 
@@ -20425,8 +20542,8 @@ Goodies:
 slug: hauma_a_detective_noir_story
 
 Game + DLC: 
-|---> setup_hauma_-_a_detective_noir_story_1.01_(68123)-1.bin
-|---> setup_hauma_-_a_detective_noir_story_1.01_(68123).exe
+|---> setup_hauma_-_a_detective_noir_story_1.04_(69325)-1.bin
+|---> setup_hauma_-_a_detective_noir_story_1.04_(69325).exe
 
 
 
@@ -20480,11 +20597,11 @@ Goodies:
 slug: headquarters_world_war_ii
 
 Game + DLC: 
-|---> setup_headquarters_world_war_ii_1.00.01_(64bit)_(72562)-1.bin
-|---> setup_headquarters_world_war_ii_1.00.01_(64bit)_(72562)-2.bin
-|---> setup_headquarters_world_war_ii_1.00.01_(64bit)_(72562)-3.bin
-|---> setup_headquarters_world_war_ii_1.00.01_(64bit)_(72562)-4.bin
-|---> setup_headquarters_world_war_ii_1.00.01_(64bit)_(72562).exe
+|---> setup_headquarters_world_war_ii_1.00.02_(64bit)_(72733)-1.bin
+|---> setup_headquarters_world_war_ii_1.00.02_(64bit)_(72733)-2.bin
+|---> setup_headquarters_world_war_ii_1.00.02_(64bit)_(72733)-3.bin
+|---> setup_headquarters_world_war_ii_1.00.02_(64bit)_(72733)-4.bin
+|---> setup_headquarters_world_war_ii_1.00.02_(64bit)_(72733).exe
 
 
 
@@ -20742,16 +20859,16 @@ Goodies:
 slug: hellfire
 
 Game + DLC: 
-|---> setup_hellfire_7_(64bit)_(67544).exe
+|---> setup_hellfire_13_(64bit)_(72706).exe
 
 
 
 slug: hellish_quart
 
 Game + DLC: 
-|---> setup_hellish_quart_0.35_(64bit)_(71819)-1.bin
-|---> setup_hellish_quart_0.35_(64bit)_(71819)-2.bin
-|---> setup_hellish_quart_0.35_(64bit)_(71819).exe
+|---> setup_hellish_quart_0.352_(64bit)_(72662)-1.bin
+|---> setup_hellish_quart_0.352_(64bit)_(72662)-2.bin
+|---> setup_hellish_quart_0.352_(64bit)_(72662).exe
 
 
 
@@ -21216,7 +21333,7 @@ Game + DLC:
 slug: heros_hour_deluxe_edition
 
 Game + DLC: 
-|---> setup_heros_hour_-_deluxe_edition_2.6.0__rr_(64bit)_(71650).exe
+|---> setup_heros_hour_-_deluxe_edition_2.6.3__rr_(72490).exe
 
 
 
@@ -21611,6 +21728,13 @@ Goodies:
 
 
 
+slug: hit_the_shape
+
+Game + DLC: 
+|---> setup_hit_the_shape_1.0.0_(70576).exe
+
+
+
 slug: hiveswap
 
 Game + DLC: 
@@ -21701,10 +21825,10 @@ Goodies:
 slug: holomento
 
 Game + DLC: 
-|---> setup_holomento_0.6.3_(64bit)_(63995)-1.bin
-|---> setup_holomento_0.6.3_(64bit)_(63995)-2.bin
-|---> setup_holomento_0.6.3_(64bit)_(63995)-3.bin
-|---> setup_holomento_0.6.3_(64bit)_(63995).exe
+|---> setup_holomento_0.7.0_(64bit)_(71755)-1.bin
+|---> setup_holomento_0.7.0_(64bit)_(71755)-2.bin
+|---> setup_holomento_0.7.0_(64bit)_(71755)-3.bin
+|---> setup_holomento_0.7.0_(64bit)_(71755).exe
 
 
 
@@ -21795,6 +21919,14 @@ Goodies:
 |---> homeworld_remastered_ost_flac.zip
 |---> homeworld_remastered_ost_mp3.zip
 |---> homeworld_remastered_wallpapers.zip
+
+
+
+slug: honeyhoneyhoney
+
+Game + DLC: 
+|---> setup_honeyhoneyhoney_1.0.0a_(72685).exe
+|---> setup_honeyhoneyhoney_unrated_1.0.0a_(72685).exe
 
 
 
@@ -21975,14 +22107,14 @@ Game + DLC:
 slug: house_party
 
 Game + DLC: 
-|---> setup_house_party_-_detective_liz_katz_in_a_gritty_kitty_murder_mystery_expansion_pack_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_-_doja_cat_expansion_pack_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_-_explicit_content_add-on_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_-_halloween_holiday_pack_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_-_valentines_day_holiday_pack_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_-_winter_holiday_pack_1.3.2.12219_(64bit)_(72407).exe
-|---> setup_house_party_1.3.2.12219_(64bit)_(72407)-1.bin
-|---> setup_house_party_1.3.2.12219_(64bit)_(72407).exe
+|---> setup_house_party_-_detective_liz_katz_in_a_gritty_kitty_murder_mystery_expansion_pack_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_-_doja_cat_expansion_pack_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_-_explicit_content_add-on_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_-_halloween_holiday_pack_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_-_valentines_day_holiday_pack_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_-_winter_holiday_pack_1.3.2.12219b_(64bit)_(72595).exe
+|---> setup_house_party_1.3.2.12219b_(64bit)_(72595)-1.bin
+|---> setup_house_party_1.3.2.12219b_(64bit)_(72595).exe
 
 
 
@@ -22373,7 +22505,7 @@ Goodies:
 slug: imagine_earth
 
 Game + DLC: 
-|---> setup_imagine_earth_1.15.4.6181-gog_(70575).exe
+|---> setup_imagine_earth_1.16.2.6270-gog_(72535).exe
 
 Goodies: 
 |---> imagine_earth_soundtrack_flac.zip
@@ -22757,10 +22889,10 @@ Game + DLC:
 slug: industria
 
 Game + DLC: 
-|---> setup_industria_1.3.1_(71847)-1.bin
-|---> setup_industria_1.3.1_(71847)-2.bin
-|---> setup_industria_1.3.1_(71847)-3.bin
-|---> setup_industria_1.3.1_(71847).exe
+|---> setup_industria_1.3.2_(72515)-1.bin
+|---> setup_industria_1.3.2_(72515)-2.bin
+|---> setup_industria_1.3.2_(72515)-3.bin
+|---> setup_industria_1.3.2_(72515).exe
 
 
 
@@ -22892,8 +23024,8 @@ Goodies:
 slug: infraspace
 
 Game + DLC: 
-|---> setup_infraspace_infraspace_1.5.377_(64bit)_(68029)-1.bin
-|---> setup_infraspace_infraspace_1.5.377_(64bit)_(68029).exe
+|---> setup_infraspace_infraspace_1.44.435_(64bit)_(72660)-1.bin
+|---> setup_infraspace_infraspace_1.44.435_(64bit)_(72660).exe
 
 
 
@@ -22926,7 +23058,8 @@ Goodies:
 slug: inkulinati
 
 Game + DLC: 
-|---> setup_inkulinati_1.47.2.0_(64bit)_(71246).exe
+|---> setup_inkulinati_1.48.1.0_(64bit)_(72182).exe
+|---> setup_inkulinati_supporter_pack_1.48.1.0_(64bit)_(72182).exe
 
 Goodies: 
 |---> inkulinati_coloring_sheets.zip
@@ -23055,12 +23188,16 @@ Game + DLC:
 slug: inspector_schmidt_a_bavarian_tale
 
 Game + DLC: 
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899)-1.bin
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899)-2.bin
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899)-3.bin
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899)-4.bin
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899)-5.bin
-|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.721_(64bit)_(71899).exe
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265)-1.bin
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265)-2.bin
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265)-3.bin
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265)-4.bin
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265)-5.bin
+|---> setup_inspector_schmidt_-_a_bavarian_tale_1.0.1.1014_(64bit)_(72265).exe
+
+Goodies: 
+|---> a_bavarian_tale_pdf.zip
+|---> inspector_schmidt_a_bavarian_tale_soundtrack.zip
 
 
 
@@ -23171,7 +23308,7 @@ Game + DLC:
 slug: into_the_necrovale
 
 Game + DLC: 
-|---> setup_into_the_necrovale_0.4.34_(64bit)_(72402).exe
+|---> setup_into_the_necrovale_0.5.1_(64bit)_(72784).exe
 
 
 
@@ -23501,7 +23638,7 @@ Game + DLC:
 slug: islands_of_the_caliph
 
 Game + DLC: 
-|---> setup_islands_of_the_caliph_1.2.4_(71320).exe
+|---> setup_islands_of_the_caliph_1.2.7_(72730).exe
 
 
 
@@ -23841,13 +23978,14 @@ Game + DLC:
 
 Goodies: 
 |---> jazz_jackrabbit_2_manual.zip
+|---> jazz_jackrabbit_2_manual_mac_edition.zip
 
 
 
 slug: jazz_jackrabbit_collection
 
 Game + DLC: 
-|---> setup_jazz_jackrabbit_collection_2.0_csv2_(51327).exe
+|---> setup_jazz_jackrabbit_collection_2.0_csv2_patch_2_(72509).exe
 
 Goodies: 
 |---> jazz_jackrabbit_manual.zip
@@ -24058,8 +24196,17 @@ Goodies:
 slug: jupiter_hell
 
 Game + DLC: 
-|---> setup_jupiter_hell_1.8b_(64bit)_(71869)-1.bin
-|---> setup_jupiter_hell_1.8b_(64bit)_(71869).exe
+|---> setup_jupiter_hell_1.8h_(64bit)_(72610)-1.bin
+|---> setup_jupiter_hell_1.8h_(64bit)_(72610).exe
+
+
+
+slug: jusant
+
+Game + DLC: 
+|---> setup_jusant_1.06.1487998_-_final_(72160)-1.bin
+|---> setup_jusant_1.06.1487998_-_final_(72160)-2.bin
+|---> setup_jusant_1.06.1487998_-_final_(72160).exe
 
 
 
@@ -24274,6 +24421,9 @@ slug: keeperrl
 Game + DLC: 
 |---> setup_keeperrl_hotfix13_(64bit)_(72088).exe
 
+Goodies: 
+|---> keeperrl_soundtrack.zip
+
 
 
 slug: keep_in_mind_remastered
@@ -24290,9 +24440,9 @@ Goodies:
 slug: kenshi
 
 Game + DLC: 
-|---> setup_kenshi_1.0.65_(71369)-1.bin
-|---> setup_kenshi_1.0.65_(71369)-2.bin
-|---> setup_kenshi_1.0.65_(71369).exe
+|---> setup_kenshi_1.0.68f_(72370)-1.bin
+|---> setup_kenshi_1.0.68f_(72370)-2.bin
+|---> setup_kenshi_1.0.68f_(72370).exe
 
 
 
@@ -24469,7 +24619,7 @@ Goodies:
 slug: kingdoms_castles
 
 Game + DLC: 
-|---> setup_kingdoms_and_castles_121r4_(66000).exe
+|---> setup_kingdoms_and_castles_122r2a_(72819).exe
 
 
 
@@ -24596,7 +24746,7 @@ Game + DLC:
 slug: kingdom_rush_vengeance
 
 Game + DLC: 
-|---> setup_kingdom_rush_vengeance_1.14.3.0_(59310).exe
+|---> setup_kingdom_rush_vengeance_1.15.7.6_(71336).exe
 
 
 
@@ -24654,6 +24804,17 @@ Goodies:
 |---> kingpin_avatars.zip
 |---> kingpin_manual.zip
 |---> kingpin_wallpaper.zip
+
+
+
+slug: kingsgrave
+
+Game + DLC: 
+|---> setup_kingsgrave_1.0.0.2.3_(72706).exe
+
+Goodies: 
+|---> kingsgrave_soundtrack_mp3.zip
+|---> kingsgrave_soundtrack_wav.zip
 
 
 
@@ -25113,8 +25274,8 @@ Game + DLC:
 slug: knights_of_the_chalice_2
 
 Game + DLC: 
-|---> setup_knights_of_the_chalice_2_1.65_(68561)-1.bin
-|---> setup_knights_of_the_chalice_2_1.65_(68561).exe
+|---> setup_knights_of_the_chalice_2_1.70_(72858)-1.bin
+|---> setup_knights_of_the_chalice_2_1.70_(72858).exe
 
 Goodies: 
 |---> KotC2_Achievement_Icons.zip
@@ -25142,7 +25303,7 @@ Goodies:
 slug: knight_vs_giant_the_broken_excalibur
 
 Game + DLC: 
-|---> setup_knight_vs_giant_the_broken_excalibur_1.0.3_(64bit)_(68385).exe
+|---> setup_knight_vs_giant_the_broken_excalibur_1.0.7b_(64bit)_(71170).exe
 
 Goodies: 
 |---> knight_vs_giant_ost_mp3.zip
@@ -25298,6 +25459,15 @@ Game + DLC:
 
 
 
+slug: kunado_chronicles
+
+Game + DLC: 
+|---> setup_kunado_chronicles_1.0.0_(72496)-1.bin
+|---> setup_kunado_chronicles_1.0.0_(72496).exe
+|---> setup_kunado_chronicles_unrated_1.0.0_(72496).exe
+
+
+
 slug: kunai
 
 Game + DLC: 
@@ -25325,6 +25495,9 @@ slug: kuroinu_2_redux
 
 Game + DLC: 
 |---> setup_kuroinu_2_redux_1.0.1_(72058).exe
+|---> setup_kuroinu_2_redux_unrated_1.0.1_(72058)-1.bin
+|---> setup_kuroinu_2_redux_unrated_1.0.1_(72058)-2.bin
+|---> setup_kuroinu_2_redux_unrated_1.0.1_(72058).exe
 
 
 
@@ -25403,7 +25576,7 @@ Goodies:
 slug: laika_aged_through_blood
 
 Game + DLC: 
-|---> setup_laika_aged_through_blood_1.0.12_(68990).exe
+|---> setup_laika_aged_through_blood_1.0.13_(69634).exe
 
 
 
@@ -25417,8 +25590,8 @@ Game + DLC:
 slug: lakeburg_legacies
 
 Game + DLC: 
-|---> setup_lakeburg_legacies_1.1.4.1_(68844).exe
-|---> setup_lakeburg_legacies_supporter_pack_1.1.4.1_(68844).exe
+|---> setup_lakeburg_legacies_1.1.4.4_(69517).exe
+|---> setup_lakeburg_legacies_supporter_pack_1.1.4.4_(69517).exe
 
 Goodies: 
 |---> lakeburg_legacies_artbook.zip
@@ -25622,6 +25795,11 @@ Game + DLC:
 |---> setup_last_train_home_2.0.1_(71701).exe
 |---> setup_last_train_home__legion_tales_2.0.1_(71701).exe
 
+Goodies: 
+|---> last_train_home_digital_artbook.zip
+|---> last_train_home_ost_mp3.zip
+|---> last_train_home_ost_wav.zip
+
 
 
 slug: later_daters
@@ -25761,7 +25939,7 @@ Game + DLC:
 slug: learning_factory
 
 Game + DLC: 
-|---> setup_learning_factory_0.30.171b_(64bit)_(71651).exe
+|---> setup_learning_factory_0.31.177_(64bit)_(72536).exe
 
 
 
@@ -25835,7 +26013,7 @@ Goodies:
 slug: legends_of_amberland_ii_the_song_of_trees
 
 Game + DLC: 
-|---> setup_legends_of_amberland_ii_the_song_of_trees_v1.00_(69494).exe
+|---> setup_legends_of_amberland_ii_the_song_of_trees_v1.20_(72655).exe
 
 
 
@@ -26592,7 +26770,7 @@ Game + DLC:
 slug: lil_guardsman
 
 Game + DLC: 
-|---> setup_lil_guardsman_1.0.5.3_(64bit)_(72070).exe
+|---> setup_lil_guardsman_1.0.5.3_h01_(64bit)_(72662).exe
 
 
 
@@ -26610,6 +26788,16 @@ Game + DLC:
 |---> setup_liminal_border_part_i_1.0.1_(72058).exe
 |---> setup_liminal_border_part_i_unrated_1.0.1_(72058)-1.bin
 |---> setup_liminal_border_part_i_unrated_1.0.1_(72058).exe
+
+
+
+slug: liminal_border_part_ii
+
+Game + DLC: 
+|---> setup_liminal_border_part_ii_1.0.2_(72058)-1.bin
+|---> setup_liminal_border_part_ii_1.0.2_(72058).exe
+|---> setup_liminal_border_part_ii_unrated_1.0.2_(72058)-1.bin
+|---> setup_liminal_border_part_ii_unrated_1.0.2_(72058).exe
 
 
 
@@ -26655,7 +26843,7 @@ Goodies:
 slug: links_puzzle
 
 Game + DLC: 
-|---> setup_links_puzzle_1.0.1_(70326).exe
+|---> setup_links_puzzle_1.0.2_(72721).exe
 
 
 
@@ -26846,6 +27034,14 @@ slug: livestream_escape_from_hotel_izanami
 
 Game + DLC: 
 |---> setup_livestream_escape_from_hotel_izanami_1.1_(65281).exe
+
+
+
+slug: living_with_sister_monochrome_fantasy
+
+Game + DLC: 
+|---> setup_living_with_sister_monochrome_fantasy_unrated_v4_(en_1.03_cn_1.02)_(72163).exe
+|---> setup_living_with_sister_monochrome_fantasy_v4_(en_1.03_cn_1.02)_(72163).exe
 
 
 
@@ -27101,7 +27297,7 @@ Game + DLC:
 slug: loretta
 
 Game + DLC: 
-|---> setup_loretta_1.1.8_(62789).exe
+|---> setup_loretta_1.1.8__new_locale_(72913).exe
 
 
 
@@ -27277,8 +27473,8 @@ Game + DLC:
 slug: love_sex_second_base
 
 Game + DLC: 
-|---> setup_love__sex_second_base_23.10.0c_(64bit)_(68842)-1.bin
-|---> setup_love__sex_second_base_23.10.0c_(64bit)_(68842).exe
+|---> setup_love__sex_second_base_24.3.0e_(64bit)_(72703)-1.bin
+|---> setup_love__sex_second_base_24.3.0e_(64bit)_(72703).exe
 
 Goodies: 
 |---> love_sex_second_base_deathless_harpies_song.zip
@@ -27290,20 +27486,16 @@ Goodies:
 slug: love_too_easily
 
 Game + DLC: 
-|---> setup_love_too_easily_v14_(67273)-1.bin
-|---> setup_love_too_easily_v14_(67273)-2.bin
-|---> setup_love_too_easily_v14_(67273)-3.bin
-|---> setup_love_too_easily_v14_(67273)-4.bin
-|---> setup_love_too_easily_v14_(67273)-5.bin
-|---> setup_love_too_easily_v14_(67273)-6.bin
-|---> setup_love_too_easily_v14_(67273).exe
+|---> setup_love_too_easily_v19_(72080)-1.bin
+|---> setup_love_too_easily_v19_(72080)-2.bin
+|---> setup_love_too_easily_v19_(72080).exe
 
 
 
 slug: low_magic_age
 
 Game + DLC: 
-|---> setup_low_magic_age_0.91.68_(70621).exe
+|---> setup_low_magic_age_0.91.69.1_(72361).exe
 
 
 
@@ -27336,7 +27528,7 @@ Goodies:
 slug: ludus_mortis
 
 Game + DLC: 
-|---> setup_ludus_mortis_1.0.3_(64bit)_(72394).exe
+|---> setup_ludus_mortis_1.0.5_(64bit)_(72590).exe
 
 
 
@@ -27427,7 +27619,7 @@ Goodies:
 slug: lunarlux
 
 Game + DLC: 
-|---> setup_lunarlux_1.1_(68157).exe
+|---> setup_lunarlux_1.332_(72674).exe
 
 
 
@@ -28023,6 +28215,20 @@ Goodies:
 
 
 
+slug: manor_lords
+
+Game + DLC: 
+|---> setup_manorlords_0.7.954_(64bit)_(72902)-1.bin
+|---> setup_manorlords_0.7.954_(64bit)_(72902)-2.bin
+|---> setup_manorlords_0.7.954_(64bit)_(72902).exe
+
+Goodies: 
+|---> Manor_Lords_Artbook.zip
+|---> Manor_Lords_OST_MP3.zip
+|---> Manor_Lords_OST_WAV.zip
+
+
+
 slug: man_o_war_corsair
 
 Game + DLC: 
@@ -28364,6 +28570,7 @@ Game + DLC:
 slug: mato_anomalies
 
 Game + DLC: 
+|---> setup_digital_shadows__artbook_rc3_(69471).exe
 |---> setup_early_spring_rc3_(69471).exe
 |---> setup_gears_pack_rc3_(69471).exe
 |---> setup_mato_anomalies_rc3_(69471)-1.bin
@@ -28373,6 +28580,10 @@ Game + DLC:
 |---> setup_treasure_from_haven_rc3_(69471).exe
 |---> setup_weapons_pack_rc3_(69471).exe
 |---> setup_witness_of_truth_rc3_(69471).exe
+
+Goodies: 
+|---> mato_anomalies_art_book.zip
+|---> Mato_Anomalies_Soundtrack_MP3.zip
 
 
 
@@ -28401,8 +28612,7 @@ Goodies:
 slug: maximum_action
 
 Game + DLC: 
-|---> setup_maximum_action_0.93_(68737)-1.bin
-|---> setup_maximum_action_0.93_(68737).exe
+|---> setup_maximum_action_0.93.1_(70748).exe
 
 
 
@@ -28496,31 +28706,32 @@ Game + DLC:
 slug: mechwarrior_5_mercenaries
 
 Game + DLC: 
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-1.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-2.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-3.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-4.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-5.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-6.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-7.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845)-8.bin
-|---> setup_mechwarrior_5_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_call_to_arms_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_heroes_of_the_inner_sphere_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_legend_of_the_kestrel_lancers_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_rise_of_rasalhague_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_solaris_showdown_1.1.1322_(64bit)_(71845).exe
-|---> setup_mechwarrior_5_mercenaries_-_the_dragons_gambit_1.1.1322_(64bit)_(71845).exe
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-1.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-2.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-3.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-4.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-5.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-6.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-7.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068)-8.bin
+|---> setup_mechwarrior_5_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_call_to_arms_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_heroes_of_the_inner_sphere_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_legend_of_the_kestrel_lancers_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_rise_of_rasalhague_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_solaris_showdown_1.1.355_(64bit)_(72068).exe
+|---> setup_mechwarrior_5_mercenaries_-_the_dragons_gambit_1.1.355_(64bit)_(72068).exe
 
 Goodies: 
 |---> Desktop_Pack.zip
 |---> high_res_backgrounds.zip
 |---> MW5_mercenaries_call_to_arms_ost.zip
+|---> MW5_mercenaries_dragons_gambit_ost.zip
 |---> MW5_mercenaries_inner_sphere_ost.zip
 |---> MW5_mercenaries_kestrel_lancers_ost.zip
 |---> MW5_mercenaries_ost.zip
+|---> MW5_mercenaries_rise_of_rasalhague_ost.zip
 |---> MW5_mercenaries_solaris_showdown_ost.zip
-|---> mw5_rise_of_rasalhague_ost.zip
 |---> TechManual.zip
 |---> tech_manual_v2.zip
 
@@ -28690,7 +28901,7 @@ Game + DLC:
 slug: memoirs_of_a_battle_brothel
 
 Game + DLC: 
-|---> setup_memoirs_of_a_battle_brothel_1.075_(65329).exe
+|---> setup_memoirs_of_a_battle_brothel_1.8_(69365).exe
 
 
 
@@ -29844,6 +30055,7 @@ Game + DLC:
 slug: monster_prom_2_monster_camp
 
 Game + DLC: 
+|---> setup_monster_camp_character_pack_-_colorful_campers_2.19.d_(70479).exe
 |---> setup_monster_camp_character_pack_-_new_blood_2.19.d_(70479).exe
 |---> setup_monster_camp_character_pack_-_zoe_2.19.d_(70479).exe
 |---> setup_monster_camp_outfit_pack_-_fantasy_2.19.d_(70479).exe
@@ -29969,11 +30181,11 @@ Goodies:
 slug: moonstone_island
 
 Game + DLC: 
-|---> setup_moonstone_island_1.3.1883_(64bit)_(71202).exe
-|---> setup_moonstone_island_december_lovely_cozies_dlc_pack_1.3.1883_(64bit)_(71202).exe
-|---> setup_moonstone_island_delightful_little_comforts_dlc_pack_1.3.1883_(64bit)_(71202).exe
-|---> setup_moonstone_island_designed_for_lovers_dlc_pack_1.3.1883_(64bit)_(71202).exe
-|---> setup_moonstone_island_eerie_items_dlc_pack_1.3.1883_(64bit)_(71202).exe
+|---> setup_moonstone_island_1.3.1884.14_(64bit)_(72902).exe
+|---> setup_moonstone_island_december_lovely_cozies_dlc_pack_1.3.1884.14_(64bit)_(72902).exe
+|---> setup_moonstone_island_delightful_little_comforts_dlc_pack_1.3.1884.14_(64bit)_(72902).exe
+|---> setup_moonstone_island_designed_for_lovers_dlc_pack_1.3.1884.14_(64bit)_(72902).exe
+|---> setup_moonstone_island_eerie_items_dlc_pack_1.3.1884.14_(64bit)_(72902).exe
 
 Goodies: 
 |---> Moonstond_Island_Soundtrack.zip
@@ -30217,19 +30429,19 @@ Goodies:
 slug: mount_blade_ii_bannerlord_game
 
 Game + DLC: 
-|---> setup_mount__blade_ii_bannerlord_-_digital_companion_1.2.9.34019_(64bit)_(71028).exe
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-1.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-10.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-11.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-2.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-3.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-4.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-5.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-6.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-7.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-8.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028)-9.bin
-|---> setup_mount__blade_ii_bannerlord_1.2.9.34019_(64bit)_(71028).exe
+|---> setup_mount__blade_ii_bannerlord_-_digital_companion_1.2.9.35636_(64bit)_(71748).exe
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-1.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-10.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-11.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-2.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-3.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-4.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-5.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-6.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-7.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-8.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748)-9.bin
+|---> setup_mount__blade_ii_bannerlord_1.2.9.35636_(64bit)_(71748).exe
 
 
 
@@ -30390,7 +30602,7 @@ Game + DLC:
 slug: murder_is_game_over_streaming_death
 
 Game + DLC: 
-|---> setup_murder_is_game_over_streaming_death_1.6_(66449).exe
+|---> setup_murder_is_game_over_streaming_death_1.9_(70658).exe
 
 
 
@@ -30615,6 +30827,10 @@ Game + DLC:
 |---> setup_my_lovely_daughter_1.27f6_gog_linkfix_(70980).exe
 |---> setup_the_inquisitor_1.27f6_gog_linkfix_(70980).exe
 
+Goodies: 
+|---> my_lovely_daughter_artbook.zip
+|---> my_lovely_daughter_ost.zip
+
 
 
 slug: my_lovely_wife
@@ -30624,6 +30840,9 @@ Game + DLC:
 
 Goodies: 
 |---> my_lovely_wife_comic.zip
+|---> my_lovely_wife_ost.zip
+|---> the_art_of_my_lovely_wife_chs.zip
+|---> the_art_of_my_lovely_wife_en.zip
 
 
 
@@ -30662,8 +30881,8 @@ Game + DLC:
 slug: naheulbeuks_dungeon_master
 
 Game + DLC: 
-|---> setup_naheulbeuks_dungeon_master_8333_27343_(64bit)_(71896)-1.bin
-|---> setup_naheulbeuks_dungeon_master_8333_27343_(64bit)_(71896).exe
+|---> setup_naheulbeuks_dungeon_master_8410_27382_(64bit)_(72413)-1.bin
+|---> setup_naheulbeuks_dungeon_master_8410_27382_(64bit)_(72413).exe
 
 Goodies: 
 |---> naheulbeuks_dungeon_master_official_soundtrack_mp3.zip
@@ -30715,7 +30934,7 @@ Game + DLC:
 slug: naylas_castle
 
 Game + DLC: 
-|---> setup_naylas_castle_1.1_(66321).exe
+|---> setup_naylas_castle_1.2_(68532).exe
 
 
 
@@ -31167,20 +31386,20 @@ Goodies:
 slug: neverwinter_nights_enhanced_edition
 
 Game + DLC: 
-|---> setup_neverwinter_nights_enhanced_edition_-_french_extras_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_-_german_extras_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_-_italian_extras_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_-_polish_extras_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_-_spanish_extras_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_88.8193.36-12_(64bit)_(71416)-1.bin
-|---> setup_neverwinter_nights_enhanced_edition_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_darkness_over_daggerford_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_enhanced_edition_dark_dreams_of_furiae_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_heroes_of_neverwinter_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_infinite_dungeons_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_pirates_of_the_sword_coast_88.8193.36-12_(71416).exe
-|---> setup_neverwinter_nights_tyrants_of_the_moonsea_88.8193.36-12_(64bit)_(71416).exe
-|---> setup_neverwinter_nights_wyvern_crown_of_cormyr_88.8193.36-12_(64bit)_(71416).exe
+|---> setup_neverwinter_nights_enhanced_edition_-_french_extras_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_-_german_extras_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_-_italian_extras_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_-_polish_extras_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_-_spanish_extras_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_88.8193.36-13_(64bit)_(72683)-1.bin
+|---> setup_neverwinter_nights_enhanced_edition_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_darkness_over_daggerford_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_enhanced_edition_dark_dreams_of_furiae_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_heroes_of_neverwinter_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_infinite_dungeons_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_pirates_of_the_sword_coast_88.8193.36-13_(72683).exe
+|---> setup_neverwinter_nights_tyrants_of_the_moonsea_88.8193.36-13_(64bit)_(72683).exe
+|---> setup_neverwinter_nights_wyvern_crown_of_cormyr_88.8193.36-13_(64bit)_(72683).exe
 
 Goodies: 
 |---> nnee_artbook.zip
@@ -31559,7 +31778,7 @@ Game + DLC:
 slug: noita
 
 Game + DLC: 
-|---> setup_noita_20240214-_812_(71243).exe
+|---> setup_noita_20240408-1844_(72495).exe
 
 Goodies: 
 |---> noita_ost_flac.zip
@@ -31596,6 +31815,14 @@ Game + DLC:
 |---> setup_noob_-_the_factionless_1.00_(65508)-1.bin
 |---> setup_noob_-_the_factionless_1.00_(65508)-2.bin
 |---> setup_noob_-_the_factionless_1.00_(65508).exe
+
+
+
+slug: nope_nope_nope_nope_nurses
+
+Game + DLC: 
+|---> setup_nope_nope_nope_nope_nurses_1.0.0_(72496).exe
+|---> setup_nope_nope_nope_nope_nurses_unrated_1.0.0_(72496).exe
 
 
 
@@ -31643,19 +31870,19 @@ Goodies:
 slug: northgard
 
 Game + DLC: 
-|---> setup_northgard_-_brundr__kaelinn_clan_of_the_lynx_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_cross_of_vidar_expansion_pack_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_dodsvagr_clan_of_the_rat_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_himminbrjotir_clan_of_the_ox_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_hrsvelg_clan_of_the_eagle_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_kernev_clan_of_the_stoat_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_lyngbakr_clan_of_the_kraken_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_nidhogg_clan_of_the_dragon_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_ratatoskr_clan_of_the_squirrel_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_svafnir_clan_of_the_snake_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_svardilfari_clan_of_the_horse_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_-_vordr_clan_of_the_owl_3.4.16.37124_(64bit)_(72039).exe
-|---> setup_northgard_3.4.16.37124_(64bit)_(72039).exe
+|---> setup_northgard_-_brundr__kaelinn_clan_of_the_lynx_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_cross_of_vidar_expansion_pack_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_dodsvagr_clan_of_the_rat_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_himminbrjotir_clan_of_the_ox_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_hrsvelg_clan_of_the_eagle_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_kernev_clan_of_the_stoat_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_lyngbakr_clan_of_the_kraken_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_nidhogg_clan_of_the_dragon_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_ratatoskr_clan_of_the_squirrel_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_svafnir_clan_of_the_snake_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_svardilfari_clan_of_the_horse_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_-_vordr_clan_of_the_owl_3.4.36.37721_(64bit)_(72921).exe
+|---> setup_northgard_3.4.36.37721_(64bit)_(72921).exe
 
 Goodies: 
 |---> northgard_the_official_soundtrack_mp3.zip
@@ -31684,7 +31911,7 @@ Game + DLC:
 slug: nosferatu_wrath_of_malachi
 
 Game + DLC: 
-|---> setup_nosferatu_wrath_of_malachi_2.1.0.3.exe
+|---> setup_nosferatu_-_wrath_of_malachi_1.0(a)_(72704).exe
 
 
 
@@ -31864,12 +32091,12 @@ Goodies:
 slug: no_mans_sky
 
 Game + DLC: 
-|---> setup_no_mans_sky_4.63_orbitals_120200_(72324)-1.bin
-|---> setup_no_mans_sky_4.63_orbitals_120200_(72324)-2.bin
-|---> setup_no_mans_sky_4.63_orbitals_120200_(72324)-3.bin
-|---> setup_no_mans_sky_4.63_orbitals_120200_(72324)-4.bin
-|---> setup_no_mans_sky_4.63_orbitals_120200_(72324).exe
-|---> setup_no_mans_sky_pre-order_dlc_4.63_orbitals_120200_(72324).exe
+|---> setup_no_mans_sky_4.64_orbitals_120697_(72561)-1.bin
+|---> setup_no_mans_sky_4.64_orbitals_120697_(72561)-2.bin
+|---> setup_no_mans_sky_4.64_orbitals_120697_(72561)-3.bin
+|---> setup_no_mans_sky_4.64_orbitals_120697_(72561)-4.bin
+|---> setup_no_mans_sky_4.64_orbitals_120697_(72561).exe
+|---> setup_no_mans_sky_pre-order_dlc_4.64_orbitals_120697_(72561).exe
 
 
 
@@ -32292,13 +32519,13 @@ Game + DLC:
 slug: old_world
 
 Game + DLC: 
-|---> setup_old_world_-_pharaohs_of_the_nile_70751_(64bit)_(70979).exe
-|---> setup_old_world_-_sacred_and_the_profane_70751_(64bit)_(70979).exe
-|---> setup_old_world_-_wonders_and_dynasties_70751_(64bit)_(70979).exe
-|---> setup_old_world_70751_(64bit)_(70979)-1.bin
-|---> setup_old_world_70751_(64bit)_(70979)-2.bin
-|---> setup_old_world_70751_(64bit)_(70979).exe
-|---> setup_old_world_expansion_1_70751_(64bit)_(70979).exe
+|---> setup_old_world_-_pharaohs_of_the_nile_71865_(64bit)_(72514).exe
+|---> setup_old_world_-_sacred_and_the_profane_71865_(64bit)_(72514).exe
+|---> setup_old_world_-_wonders_and_dynasties_71865_(64bit)_(72514).exe
+|---> setup_old_world_71865_(64bit)_(72514)-1.bin
+|---> setup_old_world_71865_(64bit)_(72514)-2.bin
+|---> setup_old_world_71865_(64bit)_(72514).exe
+|---> setup_old_world_expansion_1_71865_(64bit)_(72514).exe
 
 
 
@@ -32438,7 +32665,7 @@ Game + DLC:
 slug: one_lonely_outpost
 
 Game + DLC: 
-|---> setup_one_lonely_outpost_0.4.31_(70648).exe
+|---> setup_one_lonely_outpost_0.4.35_(72664).exe
 
 Goodies: 
 |---> one_lonely_outpost_soundtrack_mp3.zip
@@ -32515,7 +32742,7 @@ Goodies:
 slug: openttd
 
 Game + DLC: 
-|---> setup_openttd_13.4_(64bit)_(66414).exe
+|---> setup_openttd_14.0_(64bit)_(72612).exe
 
 
 
@@ -32797,8 +33024,8 @@ Goodies:
 slug: ostriv
 
 Game + DLC: 
-|---> setup_ostriv_-_patron_of_the_arts_0.5.3.2_(64bit)_(65313).exe
-|---> setup_ostriv_0.5.3.2_(64bit)_(65313).exe
+|---> setup_ostriv_-_patron_of_the_arts_0.5.6.1_(64bit)_(72821).exe
+|---> setup_ostriv_0.5.6.1_(64bit)_(72821).exe
 
 
 
@@ -32876,16 +33103,16 @@ Goodies:
 slug: outcast_a_new_beginning
 
 Game + DLC: 
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-1.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-2.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-3.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-4.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-5.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-6.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-7.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-8.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230)-9.bin
-|---> setup_outcast_-_a_new_beginning_1.0.3_(72230).exe
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-1.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-2.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-3.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-4.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-5.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-6.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-7.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-8.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827)-9.bin
+|---> setup_outcast_-_a_new_beginning_1.0.4_(72827).exe
 
 
 
@@ -33032,7 +33259,7 @@ Goodies:
 slug: out_zone
 
 Game + DLC: 
-|---> setup_out_zone_36_(64bit)_(72487).exe
+|---> setup_out_zone_37_(64bit)_(72706).exe
 
 
 
@@ -33660,9 +33887,9 @@ Goodies:
 slug: parkitect
 
 Game + DLC: 
-|---> setup_parkitect_-_booms__blooms_version_1.9d_(64bit)_(71700).exe
-|---> setup_parkitect_taste_of_adventure_version_1.9d_(64bit)_(71700).exe
-|---> setup_parkitect_version_1.9d_(64bit)_(71700).exe
+|---> setup_parkitect_-_booms__blooms_version_1.10_(64bit)_(72733).exe
+|---> setup_parkitect_taste_of_adventure_version_1.10_(64bit)_(72733).exe
+|---> setup_parkitect_version_1.10_(64bit)_(72733).exe
 
 Goodies: 
 |---> parkitect_avatars.zip
@@ -33718,7 +33945,7 @@ Game + DLC:
 slug: pathblasters
 
 Game + DLC: 
-|---> setup_pathblasters_1.0_(72565).exe
+|---> setup_pathblasters_1.0.1_(72910).exe
 
 
 
@@ -33958,14 +34185,14 @@ Goodies:
 slug: peaks_of_yore
 
 Game + DLC: 
-|---> setup_peaks_of_yore_1.6.4b_(72393).exe
+|---> setup_peaks_of_yore_1.6.4d_(72715).exe
 
 
 
 slug: peglin
 
 Game + DLC: 
-|---> setup_peglin_0.9.49_(71203).exe
+|---> setup_peglin_0.9.55_(72690).exe
 
 
 
@@ -34017,7 +34244,7 @@ Goodies:
 slug: pepper_grinder
 
 Game + DLC: 
-|---> setup_peppergrinder_v358-reupload-full_release_(72211).exe
+|---> setup_peppergrinder_v392-full_release_(72717).exe
 
 Goodies: 
 |---> PepperGrinderOST_MP3.zip
@@ -34217,8 +34444,8 @@ Game + DLC:
 slug: philana_and_the_elixir_of_life
 
 Game + DLC: 
-|---> setup_philana_and_the_elixir_of_life_unrated_v1_(en_1.01_cn_1.00)_(69485).exe
-|---> setup_philana_and_the_elixir_of_life_v1_(en_1.01_cn_1.00)_(69485).exe
+|---> setup_philana_and_the_elixir_of_life_unrated_v3_(en_1.04_cn_1.00)_(69866).exe
+|---> setup_philana_and_the_elixir_of_life_v3_(en_1.04_cn_1.00)_(69866).exe
 
 
 
@@ -35040,12 +35267,12 @@ Goodies:
 slug: postal_4_no_regerts
 
 Game + DLC: 
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899)-1.bin
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899)-2.bin
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899)-3.bin
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899)-4.bin
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899)-5.bin
-|---> setup_postal_4_no_regerts_1.3.0_(64bit)_(71899).exe
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784)-1.bin
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784)-2.bin
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784)-3.bin
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784)-4.bin
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784)-5.bin
+|---> setup_postal_4_no_regerts_1.3.2_(64bit)_(72784).exe
 
 Goodies: 
 |---> postal_4_no_regerts_ost_flac.zip
@@ -35570,11 +35797,11 @@ Game + DLC:
 slug: project_hospital
 
 Game + DLC: 
-|---> setup_project_hospital_-_department_of_infectious_diseases_1.2.22856_(64bit)_(60923).exe
-|---> setup_project_hospital_-_doctor_mode_1.2.22856_(64bit)_(60923).exe
-|---> setup_project_hospital_-_hospital_services_1.2.22856_(64bit)_(60923).exe
-|---> setup_project_hospital_-_traumatology_department_1.2.22856_(64bit)_(60923).exe
-|---> setup_project_hospital_1.2.22856_(64bit)_(60923).exe
+|---> setup_project_hospital_-_department_of_infectious_diseases_1.2.23315_(64bit)_(72371).exe
+|---> setup_project_hospital_-_doctor_mode_1.2.23315_(64bit)_(72371).exe
+|---> setup_project_hospital_-_hospital_services_1.2.23315_(64bit)_(72371).exe
+|---> setup_project_hospital_-_traumatology_department_1.2.23315_(64bit)_(72371).exe
+|---> setup_project_hospital_1.2.23315_(64bit)_(72371).exe
 
 
 
@@ -35845,7 +36072,7 @@ Game + DLC:
 slug: puzzlink
 
 Game + DLC: 
-|---> setup_puzzlink_1.0.1_(70348).exe
+|---> setup_puzzlink_1.0.2_(72717).exe
 
 
 
@@ -36234,7 +36461,7 @@ Goodies:
 slug: raidborn
 
 Game + DLC: 
-|---> setup_raidborn_gog.2024.03.30_(72278).exe
+|---> setup_raidborn_gog.2024.04.18_(72730).exe
 
 
 
@@ -36297,8 +36524,8 @@ Game + DLC:
 slug: railgrade
 
 Game + DLC: 
-|---> setup_railgrade__v5.1.54.1_(64bit)_(70233)-1.bin
-|---> setup_railgrade__v5.1.54.1_(64bit)_(70233).exe
+|---> setup_railgrade__v6.0.56.1_(64bit)_(72483)-1.bin
+|---> setup_railgrade__v6.0.56.1_(64bit)_(72483).exe
 
 
 
@@ -36349,7 +36576,7 @@ Goodies:
 slug: rail_route
 
 Game + DLC: 
-|---> setup_rail_route_2.0.16_(72092).exe
+|---> setup_rail_route_2.0.17.1_(72516).exe
 
 
 
@@ -36465,6 +36692,16 @@ Goodies:
 
 
 
+slug: rauniot
+
+Game + DLC: 
+|---> setup_rauniot_1.0.0.0_(72678)-1.bin
+|---> setup_rauniot_1.0.0.0_(72678)-2.bin
+|---> setup_rauniot_1.0.0.0_(72678)-3.bin
+|---> setup_rauniot_1.0.0.0_(72678).exe
+
+
+
 slug: ravenloft_stone_prophet
 
 Game + DLC: 
@@ -36568,6 +36805,14 @@ Game + DLC:
 
 
 
+slug: ready_steady_ship
+
+Game + DLC: 
+|---> setup_ready_steady_ship_1.0.0_(72345)-1.bin
+|---> setup_ready_steady_ship_1.0.0_(72345).exe
+
+
+
 slug: read_only_memories
 
 Game + DLC: 
@@ -36603,7 +36848,7 @@ Goodies:
 slug: realms_of_antiquity_the_shattered_crown
 
 Game + DLC: 
-|---> setup_realms_of_antiquity_the_shattered_crown_4.28.51_(72142).exe
+|---> setup_realms_of_antiquity_the_shattered_crown_4.29.52_(72834).exe
 
 
 
@@ -36850,7 +37095,7 @@ Goodies:
 slug: redneck_rampage_collection
 
 Game + DLC: 
-|---> setup_redneck_rampage_2.0.0.11.exe
+|---> setup_redneck_rampage_collection_2.1.0.12_(72708).exe
 
 Goodies: 
 |---> redneck_avatars.zip
@@ -37002,9 +37247,8 @@ Game + DLC:
 slug: regiments
 
 Game + DLC: 
-|---> setup_regiments_1.0.97cg_(64bit)_(67782)-1.bin
-|---> setup_regiments_1.0.97cg_(64bit)_(67782)-2.bin
-|---> setup_regiments_1.0.97cg_(64bit)_(67782).exe
+|---> setup_regiments_1.0.99ag_(64bit)_(71191)-1.bin
+|---> setup_regiments_1.0.99ag_(64bit)_(71191).exe
 
 Goodies: 
 |---> regiments_guide.zip
@@ -37148,7 +37392,7 @@ Goodies:
 slug: remains
 
 Game + DLC: 
-|---> setup_remains_0.50x7933a_(70936).exe
+|---> setup_remains_0.50x8211a_(72396).exe
 
 
 
@@ -37327,7 +37571,7 @@ Goodies:
 slug: residual
 
 Game + DLC: 
-|---> setup_residual_1.1.5b_(64bit)_(50864).exe
+|---> setup_residual_1.3.1_(64bit)_(72750).exe
 
 
 
@@ -37726,7 +37970,7 @@ Goodies:
 slug: revival_recolonization
 
 Game + DLC: 
-|---> setup_revival_recolonization_1.0.412_(72513).exe
+|---> setup_revival_recolonization_1.0.422_(72950).exe
 
 Goodies: 
 |---> revival_recolonization_artbook_eng.zip
@@ -37866,11 +38110,11 @@ Game + DLC:
 slug: rimworld
 
 Game + DLC: 
-|---> setup_rimworld_-_anomaly_1.5.4062_rev689_(64bit)_(72569).exe
-|---> setup_rimworld_-_biotech_1.5.4062_rev689_(64bit)_(72569).exe
-|---> setup_rimworld_-_ideology_1.5.4062_rev689_(64bit)_(72569).exe
-|---> setup_rimworld_-_royalty_1.5.4062_rev689_(64bit)_(72569).exe
-|---> setup_rimworld_1.5.4062_rev689_(64bit)_(72569).exe
+|---> setup_rimworld_-_anomaly_1.5.4075_rev652_(64bit)_(72872).exe
+|---> setup_rimworld_-_biotech_1.5.4075_rev652_(64bit)_(72872).exe
+|---> setup_rimworld_-_ideology_1.5.4075_rev652_(64bit)_(72872).exe
+|---> setup_rimworld_-_royalty_1.5.4075_rev652_(64bit)_(72872).exe
+|---> setup_rimworld_1.5.4075_rev652_(64bit)_(72872).exe
 
 
 
@@ -38013,7 +38257,7 @@ Goodies:
 slug: rise_of_the_triad_ludicrous_edition
 
 Game + DLC: 
-|---> setup_rise_of_the_triad_ludicrous_edition_1.0.2622_(64bit)_(66613).exe
+|---> setup_rise_of_the_triad_ludicrous_edition_1.1.2952_(64bit)_(72576).exe
 
 
 
@@ -38161,20 +38405,20 @@ Goodies:
 slug: robocop_rogue_city
 
 Game + DLC: 
-|---> setup_robocop_rogue_city_-_alex_murphy_pack_1.0.1.2_(64bit)_(71415).exe
-|---> setup_robocop_rogue_city_-_digital_artbook_1.0.1.2_(64bit)_(71415).exe
-|---> setup_robocop_rogue_city_-_vanguard_pack_1.0.1.2_(64bit)_(71415).exe
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-1.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-10.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-2.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-3.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-4.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-5.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-6.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-7.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-8.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415)-9.bin
-|---> setup_robocop_rogue_city_1.0.1.2_(64bit)_(71415).exe
+|---> setup_robocop_rogue_city_-_alex_murphy_pack_1.0.1.4_(64bit)_(72082).exe
+|---> setup_robocop_rogue_city_-_digital_artbook_1.0.1.4_(64bit)_(72082).exe
+|---> setup_robocop_rogue_city_-_vanguard_pack_1.0.1.4_(64bit)_(72082).exe
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-1.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-10.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-2.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-3.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-4.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-5.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-6.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-7.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-8.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082)-9.bin
+|---> setup_robocop_rogue_city_1.0.1.4_(64bit)_(72082).exe
 
 Goodies: 
 |---> robocop_rogue_city_digital_artbook.zip
@@ -38194,10 +38438,10 @@ Goodies:
 slug: roboquest
 
 Game + DLC: 
-|---> setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361)-1.bin
-|---> setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361)-2.bin
-|---> setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361).exe
-|---> setup_roboquest_soundtrack_1.1.0_-_hotfix_-_19_(64bit)_(70361).exe
+|---> setup_roboquest_1.2.0_-_summ_hotfix_-_75_(64bit)_(72682)-1.bin
+|---> setup_roboquest_1.2.0_-_summ_hotfix_-_75_(64bit)_(72682)-2.bin
+|---> setup_roboquest_1.2.0_-_summ_hotfix_-_75_(64bit)_(72682).exe
+|---> setup_roboquest_soundtrack_1.2.0_-_summ_hotfix_-_75_(64bit)_(72682).exe
 
 Goodies: 
 |---> Art_Of_Roboquest.zip
@@ -38757,6 +39001,13 @@ Goodies:
 
 
 
+slug: sagres
+
+Game + DLC: 
+|---> setup_sagres_1.03_(72394).exe
+
+
+
 slug: saimin_gakushu_secret_desire
 
 Game + DLC: 
@@ -39263,6 +39514,13 @@ Game + DLC:
 |---> setup_scars_above_1.0.0.134246-gold-shipping_(69375)-4.bin
 |---> setup_scars_above_1.0.0.134246-gold-shipping_(69375).exe
 
+Goodies: 
+|---> scars_above_artbook_de.zip
+|---> scars_above_artbook_en.zip
+|---> scars_above_artbook_fr.zip
+|---> Scars_Above_Original_Soundtrack_MP3.zip
+|---> Scars_Above_Original_Soundtrack_WAV.zip
+
 
 
 slug: scars_of_summer
@@ -39334,7 +39592,7 @@ Goodies:
 slug: scott_whiskers_in_the_search_for_mr_fumbleclaw
 
 Game + DLC: 
-|---> setup_scott_whiskers_in_the_search_for_mr._fumbleclaw_1.0.154_(64bit)_(72111).exe
+|---> setup_scott_whiskers_in_the_search_for_mr._fumbleclaw_1.0.155_(64bit)_(72226).exe
 
 
 
@@ -39649,7 +39907,7 @@ Goodies:
 slug: seeds_of_chaos
 
 Game + DLC: 
-|---> setup_seeds_of_chaos_0.3.11_(64234).exe
+|---> setup_seeds_of_chaos_0.4.02_(69918).exe
 
 
 
@@ -40172,8 +40430,8 @@ Goodies:
 slug: shadow_empire
 
 Game + DLC: 
-|---> setup_shadow_empire_1.21.00_(65270).exe
-|---> setup_shadow_empire_oceania_1.21.00_(65270).exe
+|---> setup_shadow_empire_1.26_(72422).exe
+|---> setup_shadow_empire_oceania_1.26_(72422).exe
 
 
 
@@ -40388,7 +40646,8 @@ Game + DLC:
 slug: shady_lewd_kart
 
 Game + DLC: 
-|---> setup_shady_lewd_kart_1.2_(67018).exe
+|---> setup_shady_lewd_kart_1.75_(72572)-1.bin
+|---> setup_shady_lewd_kart_1.75_(72572).exe
 
 
 
@@ -40859,7 +41118,7 @@ Goodies:
 slug: shotgun_king_the_final_checkmate
 
 Game + DLC: 
-|---> setup_shotgun_king_the_final_checkmate_1.41b_(70929).exe
+|---> setup_shotgun_king_the_final_checkmate_1.41b_bis_(72493).exe
 
 Goodies: 
 |---> shotgun_king_the_final_checkmate_soundtrack.zip
@@ -41531,7 +41790,7 @@ Goodies:
 slug: slap_fight
 
 Game + DLC: 
-|---> setup_slap_fight_7_(64bit)_(67544).exe
+|---> setup_slap_fight_21_(64bit)_(72706).exe
 
 
 
@@ -41568,10 +41827,10 @@ Goodies:
 slug: slave_zero_x
 
 Game + DLC: 
-|---> setup_slave_zero_x_-_gog_exclusive_shou_costume_g1.02_(64bit)_(71851).exe
-|---> setup_slave_zero_x_-_pc_exclusive_shou_costume_g1.02_(64bit)_(71851).exe
-|---> setup_slave_zero_x_g1.02_(64bit)_(71851)-1.bin
-|---> setup_slave_zero_x_g1.02_(64bit)_(71851).exe
+|---> setup_slave_zero_x_-_gog_exclusive_shou_costume_g1.04_(64bit)_(72622).exe
+|---> setup_slave_zero_x_-_pc_exclusive_shou_costume_g1.04_(64bit)_(72622).exe
+|---> setup_slave_zero_x_g1.04_(64bit)_(72622)-1.bin
+|---> setup_slave_zero_x_g1.04_(64bit)_(72622).exe
 
 Goodies: 
 |---> comic_and_artbook_PDF.zip
@@ -41596,10 +41855,10 @@ Goodies:
 slug: slay_the_princess
 
 Game + DLC: 
-|---> setup_slay_the_princess_end_of_everything_update_1.2_windows_(72257)-1.bin
-|---> setup_slay_the_princess_end_of_everything_update_1.2_windows_(72257)-2.bin
-|---> setup_slay_the_princess_end_of_everything_update_1.2_windows_(72257)-3.bin
-|---> setup_slay_the_princess_end_of_everything_update_1.2_windows_(72257).exe
+|---> setup_slay_the_princess_end_of_everything_update_1.2b_windows_(72853)-1.bin
+|---> setup_slay_the_princess_end_of_everything_update_1.2b_windows_(72853)-2.bin
+|---> setup_slay_the_princess_end_of_everything_update_1.2b_windows_(72853)-3.bin
+|---> setup_slay_the_princess_end_of_everything_update_1.2b_windows_(72853).exe
 
 
 
@@ -41920,6 +42179,13 @@ Game + DLC:
 
 
 
+slug: soccer_brawl
+
+Game + DLC: 
+|---> setup_soccer_brawl_rc1_(69159).exe
+
+
+
 slug: soccer_kid
 
 Game + DLC: 
@@ -42097,9 +42363,8 @@ Game + DLC:
 slug: songs_of_conquest
 
 Game + DLC: 
-|---> setup_songs_of_conquest_-_supporter_pack_0.89.7_ee30217092_701_(68897).exe
-|---> setup_songs_of_conquest_0.89.7_ee30217092_701_(68897)-1.bin
-|---> setup_songs_of_conquest_0.89.7_ee30217092_701_(68897).exe
+|---> setup_songs_of_conquest_-_supporter_pack_0.99.0_6af8e06d9a_1724_(72832).exe
+|---> setup_songs_of_conquest_0.99.0_6af8e06d9a_1724_(72832).exe
 
 Goodies: 
 |---> songs_of_conquest_soundtrack_mp3.zip
@@ -42172,7 +42437,15 @@ Game + DLC:
 slug: sons_of_valhalla
 
 Game + DLC: 
-|---> setup_sons_of_valhalla_1.0.5_(64bit)_(72420).exe
+|---> setup_sons_of_valhalla_-_supporter_pack_1.0.21_(64bit)_(72877).exe
+|---> setup_sons_of_valhalla_1.0.21_(64bit)_(72877).exe
+
+Goodies: 
+|---> Artbook.zip
+|---> Posters.zip
+|---> Sons_of_Valhalla_OST_MP3.zip
+|---> Sons_of_Valhalla_OST_WAV.zip
+|---> Wallpapers.zip
 
 
 
@@ -42299,17 +42572,17 @@ Goodies:
 slug: south_park_snow_day_base
 
 Game + DLC: 
-|---> setup_south_park_snow_day_-_cred_pack_1.0.0b_(72166).exe
-|---> setup_south_park_snow_day_-_to_danse_with_ravenous_shadows_1.0.0b_(72166).exe
-|---> setup_south_park_snow_day_-_underpants_gnome_cosmetics_pack_1.0.0b_(72166).exe
-|---> setup_south_park_snow_day_1.0.0b_(72166)-1.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-2.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-3.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-4.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-5.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-6.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166)-7.bin
-|---> setup_south_park_snow_day_1.0.0b_(72166).exe
+|---> setup_south_park_snow_day_-_cred_pack_1.0.1c_(72730).exe
+|---> setup_south_park_snow_day_-_to_danse_with_ravenous_shadows_1.0.1c_(72730).exe
+|---> setup_south_park_snow_day_-_underpants_gnome_cosmetics_pack_1.0.1c_(72730).exe
+|---> setup_south_park_snow_day_1.0.1c_(72730)-1.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-2.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-3.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-4.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-5.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-6.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730)-7.bin
+|---> setup_south_park_snow_day_1.0.1c_(72730).exe
 
 
 
@@ -42384,36 +42657,36 @@ Goodies:
 slug: spaceengine
 
 Game + DLC: 
-|---> setup_spaceengine_-_asteroids_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_asteroids_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_earth_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_earth_hd_0.990.46.2000_(64bit)_(69473)-2.bin
-|---> setup_spaceengine_-_earth_hd_0.990.46.2000_(64bit)_(69473)-3.bin
-|---> setup_spaceengine_-_earth_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_jupiter_system_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_mars_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_mars_hd_0.990.46.2000_(64bit)_(69473)-2.bin
-|---> setup_spaceengine_-_mars_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_mercury_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_mercury_hd_0.990.46.2000_(64bit)_(69473)-2.bin
-|---> setup_spaceengine_-_mercury_hd_0.990.46.2000_(64bit)_(69473)-3.bin
-|---> setup_spaceengine_-_mercury_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473)-2.bin
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473)-3.bin
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473)-4.bin
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473)-5.bin
-|---> setup_spaceengine_-_moon_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_neptune_system_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_pluto_system_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_saturn_system_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_saturn_system_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_uranus_system_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_-_venus_hd_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_-_venus_hd_0.990.46.2000_(64bit)_(69473)-2.bin
-|---> setup_spaceengine_-_venus_hd_0.990.46.2000_(64bit)_(69473).exe
-|---> setup_spaceengine_0.990.46.2000_(64bit)_(69473)-1.bin
-|---> setup_spaceengine_0.990.46.2000_(64bit)_(69473).exe
+|---> setup_spaceengine_-_asteroids_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_asteroids_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_earth_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_earth_hd_0.990.47.2020_(64bit)_(72737)-2.bin
+|---> setup_spaceengine_-_earth_hd_0.990.47.2020_(64bit)_(72737)-3.bin
+|---> setup_spaceengine_-_earth_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_jupiter_system_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_mars_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_mars_hd_0.990.47.2020_(64bit)_(72737)-2.bin
+|---> setup_spaceengine_-_mars_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_mercury_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_mercury_hd_0.990.47.2020_(64bit)_(72737)-2.bin
+|---> setup_spaceengine_-_mercury_hd_0.990.47.2020_(64bit)_(72737)-3.bin
+|---> setup_spaceengine_-_mercury_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737)-2.bin
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737)-3.bin
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737)-4.bin
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737)-5.bin
+|---> setup_spaceengine_-_moon_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_neptune_system_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_pluto_system_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_saturn_system_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_saturn_system_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_uranus_system_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_-_venus_hd_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_-_venus_hd_0.990.47.2020_(64bit)_(72737)-2.bin
+|---> setup_spaceengine_-_venus_hd_0.990.47.2020_(64bit)_(72737).exe
+|---> setup_spaceengine_0.990.47.2020_(64bit)_(72737)-1.bin
+|---> setup_spaceengine_0.990.47.2020_(64bit)_(72737).exe
 
 
 
@@ -42972,10 +43245,10 @@ Goodies:
 slug: spellforce_conquest_of_eo_base
 
 Game + DLC: 
-|---> setup_spellforce_conquest_of_eo_-_demon_scourge_1.5a_(71175).exe
-|---> setup_spellforce_conquest_of_eo_1.5a_(71175)-1.bin
-|---> setup_spellforce_conquest_of_eo_1.5a_(71175)-2.bin
-|---> setup_spellforce_conquest_of_eo_1.5a_(71175).exe
+|---> setup_spellforce_conquest_of_eo_-_demon_scourge_1.6_(72565).exe
+|---> setup_spellforce_conquest_of_eo_1.6_(72565)-1.bin
+|---> setup_spellforce_conquest_of_eo_1.6_(72565)-2.bin
+|---> setup_spellforce_conquest_of_eo_1.6_(72565).exe
 
 
 
@@ -43118,8 +43391,8 @@ Goodies:
 slug: spirit_of_the_island
 
 Game + DLC: 
-|---> setup_spirit_of_the_island_-_beach_resort_2.1.1.0_(68626).exe
-|---> setup_spirit_of_the_island_2.1.1.0_(68626).exe
+|---> setup_spirit_of_the_island_-_beach_resort_3.0.3_(71921).exe
+|---> setup_spirit_of_the_island_3.0.3_(71921).exe
 
 
 
@@ -43311,15 +43584,15 @@ Goodies:
 slug: starcrawlers_chimera_base
 
 Game + DLC: 
-|---> setup_starcrawlers_chimera_beta_1.8_(64bit)_(68180)-1.bin
-|---> setup_starcrawlers_chimera_beta_1.8_(64bit)_(68180).exe
+|---> setup_starcrawlers_chimera_beta_2.0.1_(64bit)_(72537)-1.bin
+|---> setup_starcrawlers_chimera_beta_2.0.1_(64bit)_(72537).exe
 
 
 
 slug: stardew_valley
 
 Game + DLC: 
-|---> setup_stardew_valley_1.6.3.24087.6495347694_(72212).exe
+|---> setup_stardew_valley_1.6.6.24117.6728858633_(72930).exe
 
 Goodies: 
 |---> stardew_valley_enUS_compat_1_5_6_1988831614_.pkg
@@ -43358,11 +43631,11 @@ Goodies:
 slug: stargate_timekeepers
 
 Game + DLC: 
-|---> setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-1.bin
-|---> setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-2.bin
-|---> setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-3.bin
-|---> setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-4.bin
-|---> setup_stargate_timekeepers_1.00.25_(64bit)_(71225).exe
+|---> setup_stargate_timekeepers_1.00.34_(64bit)_(72704)-1.bin
+|---> setup_stargate_timekeepers_1.00.34_(64bit)_(72704)-2.bin
+|---> setup_stargate_timekeepers_1.00.34_(64bit)_(72704)-3.bin
+|---> setup_stargate_timekeepers_1.00.34_(64bit)_(72704)-4.bin
+|---> setup_stargate_timekeepers_1.00.34_(64bit)_(72704).exe
 
 
 
@@ -43394,7 +43667,7 @@ Game + DLC:
 slug: starmancer
 
 Game + DLC: 
-|---> setup_starmancer_0.2.17_(68514).exe
+|---> setup_starmancer_0.3.0b_(71895).exe
 
 
 
@@ -43487,11 +43760,11 @@ Goodies:
 slug: starship_troopers_terran_command
 
 Game + DLC: 
-|---> setup_starship_troopers_terran_command_-_raising_hell_2.07.01_(68963)-1.bin
-|---> setup_starship_troopers_terran_command_-_raising_hell_2.07.01_(68963).exe
-|---> setup_starship_troopers_terran_command_2.07.01_(68963)-1.bin
-|---> setup_starship_troopers_terran_command_2.07.01_(68963)-2.bin
-|---> setup_starship_troopers_terran_command_2.07.01_(68963).exe
+|---> setup_starship_troopers_terran_command_-_raising_hell_2.08.00_(71413)-1.bin
+|---> setup_starship_troopers_terran_command_-_raising_hell_2.08.00_(71413).exe
+|---> setup_starship_troopers_terran_command_2.08.00_(71413)-1.bin
+|---> setup_starship_troopers_terran_command_2.08.00_(71413)-2.bin
+|---> setup_starship_troopers_terran_command_2.08.00_(71413).exe
 
 
 
@@ -43609,7 +43882,7 @@ Game + DLC:
 slug: star_fleet_ii_krellan_commander_version_20
 
 Game + DLC: 
-|---> setup_star_fleet_ii_-_krellan_commander_version_2.0_2.02_(69280).exe
+|---> setup_star_fleet_ii_-_krellan_commander_version_2.0_2.0.15_(72642).exe
 
 Goodies: 
 |---> star_fleet_ii_guide.zip
@@ -44291,54 +44564,56 @@ Game + DLC:
 slug: steel_division_2
 
 Game + DLC: 
-|---> setup_steel_division_2_-_back_to_war_pack_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_black_sunday_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_blood_feud_in_transylvania_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_commander_deluxe_pack_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_death_on_the_vistula_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_men_of_steel_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_1_-_sandomierz_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_2_-_lvov_offensive_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_3_-_battle_of_rimini_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_4_-_storming_toulon_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_5_-_raid_on_drvar_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_nemesis_6_-_siege_of_dunkirk_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_pre-order_pack_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_10_-_tannenberg_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_11_-_army_general_coop_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_12__kostritza_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_13_-_lucky_13_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_1_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_2_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_3_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_4_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_5__111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_6_-_auto_deployment_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_7_-_rules_of_engagement_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_8_-_destruction_mode_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_reinforcement_pack_9__army_general_versus_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_the_fate_of_finland_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_tribute_to_d-day_pack_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_-_tribute_to_the_liberation_of_italy_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_111984_(64bit)_(69712)-1.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-10.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-11.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-12.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-13.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-14.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-15.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-16.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-17.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-2.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-3.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-4.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-5.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-6.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-7.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-8.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712)-9.bin
-|---> setup_steel_division_2_111984_(64bit)_(69712).exe
-|---> setup_steel_division_2_burning_baltics_111984_(64bit)_(69712).exe
+|---> setup_steel_division_2_-_back_to_war_pack_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_black_sunday_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_blood_feud_in_transylvania_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_commander_deluxe_pack_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_death_on_the_vistula_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_men_of_steel_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_1_-_sandomierz_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_2_-_lvov_offensive_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_3_-_battle_of_rimini_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_4_-_storming_toulon_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_5_-_raid_on_drvar_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_nemesis_6_-_siege_of_dunkirk_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_pre-order_pack_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_10_-_tannenberg_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_11_-_army_general_coop_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_12__kostritza_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_13_-_lucky_13_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_1_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_2_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_3_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_4_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_5__120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_6_-_auto_deployment_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_7_-_rules_of_engagement_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_8_-_destruction_mode_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_reinforcement_pack_9__army_general_versus_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_the_fate_of_finland_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_tribute_to_d-day_pack_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_tribute_to_normandy_44_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_-_tribute_to_the_liberation_of_italy_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_120396_(64bit)_(72558)-1.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-10.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-11.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-12.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-13.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-14.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-15.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-16.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-17.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-18.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-2.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-3.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-4.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-5.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-6.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-7.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-8.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558)-9.bin
+|---> setup_steel_division_2_120396_(64bit)_(72558).exe
+|---> setup_steel_division_2_burning_baltics_120396_(64bit)_(72558).exe
 
 Goodies: 
 |---> sd_2_preorder_pack_wallpapers.zip
@@ -44381,35 +44656,35 @@ Goodies:
 slug: stellaris
 
 Game + DLC: 
-|---> setup_stellaris_3.11.2.0_(71724)-1.bin
-|---> setup_stellaris_3.11.2.0_(71724)-2.bin
-|---> setup_stellaris_3.11.2.0_(71724)-3.bin
-|---> setup_stellaris_3.11.2.0_(71724).exe
-|---> setup_stellaris_ancient_relics_3.11.2.0_(71724).exe
-|---> setup_stellaris_anniversary_portraits_3.11.2.0_(71724).exe
-|---> setup_stellaris_apocalypse_3.11.2.0_(71724).exe
-|---> setup_stellaris_aquatics_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_arachnoid_portrait_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_astral_planes_3.11.2.0_(71724).exe
-|---> setup_stellaris_complete_soundtrack_3.11.2.0_(71724)-1.bin
-|---> setup_stellaris_complete_soundtrack_3.11.2.0_(71724).exe
-|---> setup_stellaris_distant_stars_story_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_federations_3.11.2.0_(71724).exe
-|---> setup_stellaris_first_contact_story_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_galactic_paragons_3.11.2.0_(71724).exe
-|---> setup_stellaris_horizon_signal_3.11.2.0_(71724).exe
-|---> setup_stellaris_humanoids_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_infinite_frontiers_ebook_3.11.2.0_(71724).exe
-|---> setup_stellaris_leviathans_story_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_lithoids_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_megacorp_3.11.2.0_(71724).exe
-|---> setup_stellaris_necroids_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_nemesis_3.11.2.0_(71724).exe
-|---> setup_stellaris_overlord_3.11.2.0_(71724).exe
-|---> setup_stellaris_plantoids_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_synthetic_dawn_story_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_toxoids_species_pack_3.11.2.0_(71724).exe
-|---> setup_stellaris_utopia_3.11.2.0_(71724).exe
+|---> setup_stellaris_3.11.3.0_(72398)-1.bin
+|---> setup_stellaris_3.11.3.0_(72398)-2.bin
+|---> setup_stellaris_3.11.3.0_(72398)-3.bin
+|---> setup_stellaris_3.11.3.0_(72398).exe
+|---> setup_stellaris_ancient_relics_3.11.3.0_(72398).exe
+|---> setup_stellaris_anniversary_portraits_3.11.3.0_(72398).exe
+|---> setup_stellaris_apocalypse_3.11.3.0_(72398).exe
+|---> setup_stellaris_aquatics_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_arachnoid_portrait_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_astral_planes_3.11.3.0_(72398).exe
+|---> setup_stellaris_complete_soundtrack_3.11.3.0_(72398)-1.bin
+|---> setup_stellaris_complete_soundtrack_3.11.3.0_(72398).exe
+|---> setup_stellaris_distant_stars_story_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_federations_3.11.3.0_(72398).exe
+|---> setup_stellaris_first_contact_story_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_galactic_paragons_3.11.3.0_(72398).exe
+|---> setup_stellaris_horizon_signal_3.11.3.0_(72398).exe
+|---> setup_stellaris_humanoids_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_infinite_frontiers_ebook_3.11.3.0_(72398).exe
+|---> setup_stellaris_leviathans_story_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_lithoids_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_megacorp_3.11.3.0_(72398).exe
+|---> setup_stellaris_necroids_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_nemesis_3.11.3.0_(72398).exe
+|---> setup_stellaris_overlord_3.11.3.0_(72398).exe
+|---> setup_stellaris_plantoids_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_synthetic_dawn_story_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_toxoids_species_pack_3.11.3.0_(72398).exe
+|---> setup_stellaris_utopia_3.11.3.0_(72398).exe
 
 Goodies: 
 |---> stellaris_artbook.zip
@@ -44437,10 +44712,10 @@ Game + DLC:
 slug: stellar_tactics
 
 Game + DLC: 
-|---> setup_stellar_tactics_0.723_(64bit)_(69854)-1.bin
-|---> setup_stellar_tactics_0.723_(64bit)_(69854)-2.bin
-|---> setup_stellar_tactics_0.723_(64bit)_(69854)-3.bin
-|---> setup_stellar_tactics_0.723_(64bit)_(69854).exe
+|---> setup_stellar_tactics_0.725c_(64bit)_(71082)-1.bin
+|---> setup_stellar_tactics_0.725c_(64bit)_(71082)-2.bin
+|---> setup_stellar_tactics_0.725c_(64bit)_(71082)-3.bin
+|---> setup_stellar_tactics_0.725c_(64bit)_(71082).exe
 
 
 
@@ -44667,8 +44942,8 @@ Goodies:
 slug: strategic_command_american_civil_war
 
 Game + DLC: 
-|---> setup_strategic_command_american_civil_war_-_wars_in_the_americas_1.08.00_(64959).exe
-|---> setup_strategic_command_american_civil_war_1.08.00_(64959).exe
+|---> setup_strategic_command_american_civil_war_-_wars_in_the_americas_1.09.00_(69517).exe
+|---> setup_strategic_command_american_civil_war_1.09.00_(69517).exe
 
 
 
@@ -44778,9 +45053,9 @@ Game + DLC:
 slug: strayed_lights
 
 Game + DLC: 
-|---> setup_strayed_lights_1.3.4_(64bit)_(66127)-1.bin
-|---> setup_strayed_lights_1.3.4_(64bit)_(66127)-2.bin
-|---> setup_strayed_lights_1.3.4_(64bit)_(66127).exe
+|---> setup_strayed_lights_1.4.0_(64bit)_(72727)-1.bin
+|---> setup_strayed_lights_1.4.0_(64bit)_(72727)-2.bin
+|---> setup_strayed_lights_1.4.0_(64bit)_(72727).exe
 
 Goodies: 
 |---> strayed_lights_digital_art_book.zip
@@ -45123,21 +45398,22 @@ Game + DLC:
 slug: subverse
 
 Game + DLC: 
-|---> setup_subverse_0.8.4_(64bit)_(69665)-1.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-10.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-11.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-12.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-13.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-14.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-2.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-3.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-4.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-5.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-6.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-7.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-8.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665)-9.bin
-|---> setup_subverse_0.8.4_(64bit)_(69665).exe
+|---> setup_subverse_0.9.0_(64bit)_(72254)-1.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-10.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-11.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-12.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-13.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-14.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-15.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-2.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-3.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-4.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-5.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-6.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-7.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-8.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254)-9.bin
+|---> setup_subverse_0.9.0_(64bit)_(72254).exe
 
 
 
@@ -45874,10 +46150,10 @@ Game + DLC:
 slug: suzerain
 
 Game + DLC: 
-|---> setup_suzerain_kingdom_of_rizia_release_3.0.0_(64bit)_(72158).exe
-|---> setup_suzerain_release_3.0.0_(64bit)_(72158)-1.bin
-|---> setup_suzerain_release_3.0.0_(64bit)_(72158).exe
-|---> setup_suzerain_support_the_developers__vulpitzer_award_release_3.0.0_(64bit)_(72158).exe
+|---> setup_suzerain_kingdom_of_rizia_release_3.0.7_(64bit)_(72566).exe
+|---> setup_suzerain_release_3.0.7_(64bit)_(72566)-1.bin
+|---> setup_suzerain_release_3.0.7_(64bit)_(72566).exe
+|---> setup_suzerain_support_the_developers__vulpitzer_award_release_3.0.7_(64bit)_(72566).exe
 
 Goodies: 
 |---> Rizia_OST_FLACs.zip
@@ -45964,7 +46240,7 @@ Goodies:
 slug: swipepi
 
 Game + DLC: 
-|---> setup_swipepi_1.0.1_(67004).exe
+|---> setup_swipepi_1.2_(72713).exe
 
 
 
@@ -46261,8 +46537,8 @@ Game + DLC:
 slug: system_shock
 
 Game + DLC: 
-|---> setup_system_shock_1.2.18830_(64bit)_(72565)-1.bin
-|---> setup_system_shock_1.2.18830_(64bit)_(72565).exe
+|---> setup_system_shock_1.2.18887_(64bit)_(72902)-1.bin
+|---> setup_system_shock_1.2.18887_(64bit)_(72902).exe
 
 Goodies: 
 |---> high_res_images.zip
@@ -46549,8 +46825,8 @@ Game + DLC:
 slug: tamarak_trail
 
 Game + DLC: 
-|---> setup_tamarak_trail_1.0.gog_(64bit)_(71484)-1.bin
-|---> setup_tamarak_trail_1.0.gog_(64bit)_(71484).exe
+|---> setup_tamarak_trail_willow_1.0.3_(72184)-1.bin
+|---> setup_tamarak_trail_willow_1.0.3_(72184).exe
 
 Goodies: 
 |---> tamarak_trail_soundtrack_mp3.zip
@@ -46623,6 +46899,13 @@ Game + DLC:
 
 
 
+slug: tap_it_away
+
+Game + DLC: 
+|---> setup_tap_it_away_1.0.1_(72713).exe
+
+
+
 slug: tasomachi_behind_the_twilight
 
 Game + DLC: 
@@ -46653,7 +46936,7 @@ Game + DLC:
 slug: tavern_master
 
 Game + DLC: 
-|---> setup_tavern_master_1.6_(62963).exe
+|---> setup_tavern_master_2.0.2_(69418).exe
 
 
 
@@ -46727,8 +47010,8 @@ Goodies:
 slug: telepath_tactics_liberated
 
 Game + DLC: 
-|---> setup_telepath_tactics_liberated_1.0.51c_(68992)-1.bin
-|---> setup_telepath_tactics_liberated_1.0.51c_(68992).exe
+|---> setup_telepath_tactics_liberated_1.0.54a_(71994)-1.bin
+|---> setup_telepath_tactics_liberated_1.0.54a_(71994).exe
 
 
 
@@ -46797,6 +47080,13 @@ Game + DLC:
 
 
 
+slug: tents_and_trees
+
+Game + DLC: 
+|---> setup_tents_and_trees_2404041009_(72391).exe
+
+
+
 slug: terminal_velocity_boosted_edition_game
 
 Game + DLC: 
@@ -46818,11 +47108,11 @@ Goodies:
 slug: terminator_dark_fate_defiance
 
 Game + DLC: 
-|---> setup_terminator_dark_fate_-_defiance_1.00.950_(72157)-1.bin
-|---> setup_terminator_dark_fate_-_defiance_1.00.950_(72157)-2.bin
-|---> setup_terminator_dark_fate_-_defiance_1.00.950_(72157)-3.bin
-|---> setup_terminator_dark_fate_-_defiance_1.00.950_(72157)-4.bin
-|---> setup_terminator_dark_fate_-_defiance_1.00.950_(72157).exe
+|---> setup_terminator_dark_fate_-_defiance_1.00.950.1_(72492)-1.bin
+|---> setup_terminator_dark_fate_-_defiance_1.00.950.1_(72492)-2.bin
+|---> setup_terminator_dark_fate_-_defiance_1.00.950.1_(72492)-3.bin
+|---> setup_terminator_dark_fate_-_defiance_1.00.950.1_(72492)-4.bin
+|---> setup_terminator_dark_fate_-_defiance_1.00.950.1_(72492).exe
 
 
 
@@ -46872,10 +47162,10 @@ Goodies:
 slug: terraforming_mars
 
 Game + DLC: 
-|---> setup_terraforming_mars_-_hellas__elysium_2.4.1.130129_master_(64bit)_(69904).exe
-|---> setup_terraforming_mars_-_prelude_2.4.1.130129_master_(64bit)_(69904).exe
-|---> setup_terraforming_mars_-_venus_next_2.4.1.130129_master_(64bit)_(69904).exe
-|---> setup_terraforming_mars_2.4.1.130129_master_(64bit)_(69904).exe
+|---> setup_terraforming_mars_-_hellas__elysium_2.5.1.130143_master_(64bit)_(72493).exe
+|---> setup_terraforming_mars_-_prelude_2.5.1.130143_master_(64bit)_(72493).exe
+|---> setup_terraforming_mars_-_venus_next_2.5.1.130143_master_(64bit)_(72493).exe
+|---> setup_terraforming_mars_2.5.1.130143_master_(64bit)_(72493).exe
 
 
 
@@ -46903,7 +47193,7 @@ Goodies:
 slug: terrascape
 
 Game + DLC: 
-|---> setup_terrascape_0.13.0.18_(64bit)_(72421).exe
+|---> setup_terrascape_0.13.0.19_(64bit)_(72492).exe
 
 Goodies: 
 |---> terrascape_official_soundtrack_mp3.zip
@@ -46929,12 +47219,12 @@ Game + DLC:
 slug: terra_invicta
 
 Game + DLC: 
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661)-1.bin
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661)-2.bin
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661)-3.bin
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661)-4.bin
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661)-5.bin
-|---> setup_terra_invicta_0.3.134_(64bit)_(71661).exe
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663)-1.bin
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663)-2.bin
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663)-3.bin
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663)-4.bin
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663)-5.bin
+|---> setup_terra_invicta_0.4.18_(64bit)_(72663).exe
 
 
 
@@ -47624,11 +47914,11 @@ Game + DLC:
 slug: the_book_of_bondmaids_base
 
 Game + DLC: 
-|---> setup_the_book_of_bondmaids_-_cooks_thieves_wives_and_lovers_1.86_(72020).exe
-|---> setup_the_book_of_bondmaids_-_tales_1.86_(72020).exe
-|---> setup_the_book_of_bondmaids_-_unrated_dlc_1.86_(72020).exe
-|---> setup_the_book_of_bondmaids_1.86_(72020)-1.bin
-|---> setup_the_book_of_bondmaids_1.86_(72020).exe
+|---> setup_the_book_of_bondmaids_-_cooks_thieves_wives_and_lovers_1.88_(72921).exe
+|---> setup_the_book_of_bondmaids_-_tales_1.88_(72921).exe
+|---> setup_the_book_of_bondmaids_-_unrated_dlc_1.88_(72921).exe
+|---> setup_the_book_of_bondmaids_1.88_(72921)-1.bin
+|---> setup_the_book_of_bondmaids_1.88_(72921).exe
 
 Goodies: 
 |---> TheBookofBondmaids_soundtrack_mp3.zip
@@ -47783,6 +48073,10 @@ Game + DLC:
 |---> setup_the_chant_1.0_gog_(69489)-9.bin
 |---> setup_the_chant_1.0_gog_(69489).exe
 
+Goodies: 
+|---> the_chant_artbook_digital.zip
+|---> The_Chant_OST.zip
+
 
 
 slug: the_chaos_engine
@@ -47800,8 +48094,10 @@ Goodies:
 slug: the_chronicles_of_myrtana_archolos
 
 Game + DLC: 
-|---> setup_the_chronicles_of_myrtana_archolos_1.2.11_(69691)-1.bin
-|---> setup_the_chronicles_of_myrtana_archolos_1.2.11_(69691).exe
+|---> setup_the_chronicles_of_myrtana_archolos_-_polish_language_pack_1.2.11_(russian_voice-over)_(72643)-1.bin
+|---> setup_the_chronicles_of_myrtana_archolos_-_polish_language_pack_1.2.11_(russian_voice-over)_(72643).exe
+|---> setup_the_chronicles_of_myrtana_archolos_1.2.11_(russian_voice-over)_(72643)-1.bin
+|---> setup_the_chronicles_of_myrtana_archolos_1.2.11_(russian_voice-over)_(72643).exe
 
 Goodies: 
 |---> artworks_.zip
@@ -48472,8 +48768,8 @@ Goodies:
 slug: the_fermi_paradox
 
 Game + DLC: 
-|---> setup_the_fermi_paradox_0.70.x.1_(64bit)_(67792)-1.bin
-|---> setup_the_fermi_paradox_0.70.x.1_(64bit)_(67792).exe
+|---> setup_the_fermi_paradox_0.70.y.7_(64bit)_(69879)-1.bin
+|---> setup_the_fermi_paradox_0.70.y.7_(64bit)_(69879).exe
 
 Goodies: 
 |---> the_fermi_paradox_ost_mp3.zip
@@ -48641,7 +48937,7 @@ Game + DLC:
 slug: the_great_rebellion
 
 Game + DLC: 
-|---> setup_the_great_rebellion_1.04_(72450).exe
+|---> setup_the_great_rebellion_1.06_(72566).exe
 
 
 
@@ -49181,7 +49477,8 @@ Goodies:
 slug: the_last_spell
 
 Game + DLC: 
-|---> setup_the_last_spell_1.0.2.21_(66466).exe
+|---> setup_the_last_spell_-_dwarves_of_runenberg_1.1.0.4_(72850).exe
+|---> setup_the_last_spell_1.1.0.4_(72850).exe
 
 
 
@@ -49260,6 +49557,12 @@ Goodies:
 slug: the_legend_of_heroes_trails_into_reverie_base
 
 Game + DLC: 
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_advanced_set_1_1.1.4_(64bit)_(72089).exe
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_advanced_set_2_1.1.4_(64bit)_(72089).exe
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_premium_cosmetic_set_1.1.4_(64bit)_(72089).exe
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_sss_summer_splash_set_1.1.4_(64bit)_(72089).exe
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_standard_cosmetic_set_1.1.4_(64bit)_(72089).exe
+|---> setup_the_legend_of_heroes_trails_into_reverie_-_starter_set_1.1.4_(64bit)_(72089).exe
 |---> setup_the_legend_of_heroes_trails_into_reverie_1.1.4_(64bit)_(72089)-1.bin
 |---> setup_the_legend_of_heroes_trails_into_reverie_1.1.4_(64bit)_(72089)-2.bin
 |---> setup_the_legend_of_heroes_trails_into_reverie_1.1.4_(64bit)_(72089)-3.bin
@@ -49325,21 +49628,21 @@ Goodies:
 slug: the_legend_of_heroes_trails_of_cold_steel_iii
 
 Game + DLC: 
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_consumable_starter_set_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_consumable_value_set_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_faculty_swimsuit_set_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_free_sample_set_a_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_free_sample_set_b_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_junas_lloyd_bannings_costume_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_premium_cosmetic_set_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_reans__1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_standard_cosmetic_set_1.05_(37072).exe
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072)-1.bin
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072)-2.bin
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072)-3.bin
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072)-4.bin
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072)-5.bin
-|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.05_(37072).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_consumable_starter_set_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_consumable_value_set_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_faculty_swimsuit_set_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_free_sample_set_a_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_free_sample_set_b_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_junas_lloyd_bannings_costume_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_premium_cosmetic_set_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_reans_unspeakable_costume_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_-_standard_cosmetic_set_1.06_(69258).exe
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258)-1.bin
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258)-2.bin
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258)-3.bin
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258)-4.bin
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258)-5.bin
+|---> setup_the_legend_of_heroes_trails_of_cold_steel_iii_1.06_(69258).exe
 
 Goodies: 
 |---> anthems_of_the_thors_sampler_ost_flac.zip
@@ -49421,6 +49724,7 @@ Game + DLC:
 
 Goodies: 
 |---> The_Legend_of_Skye_ENG_Walkthrough.zip
+|---> The_Legend_of_Skye_OST.zip
 
 
 
@@ -49728,6 +50032,13 @@ Goodies:
 
 
 
+slug: the_mildew_children
+
+Game + DLC: 
+|---> setup_the_mildew_children_1.1.0_(64bit)_(72639).exe
+
+
+
 slug: the_moment_of_silence
 
 Game + DLC: 
@@ -49762,7 +50073,7 @@ Goodies:
 slug: the_mystery_of_woolley_mountain
 
 Game + DLC: 
-|---> setup_the_mystery_of_woolley_mountain_9.5c_(71194).exe
+|---> setup_the_mystery_of_woolley_mountain_10_(72486).exe
 
 
 
@@ -49879,7 +50190,7 @@ Goodies:
 slug: the_past_within
 
 Game + DLC: 
-|---> setup_the_past_within_2.00_(62630).exe
+|---> setup_the_past_within_2.2_(72777).exe
 
 Goodies: 
 |---> the_past_within_soundtrack_mp3.zip
@@ -49933,8 +50244,9 @@ Game + DLC:
 slug: the_planet_crafter
 
 Game + DLC: 
-|---> setup_the_planet_crafter_v0.9.026_(71342)-1.bin
-|---> setup_the_planet_crafter_v0.9.026_(71342).exe
+|---> setup_the_planet_crafter_v1.002_(72732)-1.bin
+|---> setup_the_planet_crafter_v1.002_(72732)-2.bin
+|---> setup_the_planet_crafter_v1.002_(72732).exe
 
 
 
@@ -50004,9 +50316,9 @@ Goodies:
 slug: the_repair_house
 
 Game + DLC: 
-|---> setup_the_repair_house_1.7_(64bit)_(67306)-1.bin
-|---> setup_the_repair_house_1.7_(64bit)_(67306)-2.bin
-|---> setup_the_repair_house_1.7_(64bit)_(67306).exe
+|---> setup_the_repair_house_1.9_(64bit)_(69827)-1.bin
+|---> setup_the_repair_house_1.9_(64bit)_(69827)-2.bin
+|---> setup_the_repair_house_1.9_(64bit)_(69827).exe
 
 
 
@@ -50174,6 +50486,24 @@ Game + DLC:
 
 
 
+slug: the_shell_part_ii_purgatorio
+
+Game + DLC: 
+|---> setup_the_shell_part_ii_purgatorio_1.0.0_(72585)-1.bin
+|---> setup_the_shell_part_ii_purgatorio_1.0.0_(72585).exe
+|---> setup_the_shell_part_ii_purgatorio_unrated_1.0.0_(72585)-1.bin
+|---> setup_the_shell_part_ii_purgatorio_unrated_1.0.0_(72585).exe
+
+
+
+slug: the_shell_part_i_inferno
+
+Game + DLC: 
+|---> setup_the_shell_part_i_inferno_1.0.1_(72513).exe
+|---> setup_the_shell_part_i_inferno_unrated_1.0.1_(72513).exe
+
+
+
 slug: the_shivah
 
 Game + DLC: 
@@ -50208,7 +50538,7 @@ Goodies:
 slug: the_signal_state
 
 Game + DLC: 
-|---> setup_the_signal_state_1.31c_(59474).exe
+|---> setup_the_signal_state_1.33b_(64bit)_(69818).exe
 
 
 
@@ -50279,7 +50609,7 @@ Goodies:
 slug: the_slormancer
 
 Game + DLC: 
-|---> setup_the_slormancer_in_dev_0.7.5j_(70882).exe
+|---> setup_the_slormancer_in_dev_0.8.0j_(72225).exe
 
 Goodies: 
 |---> slormancer_soundtrack.zip
@@ -50597,13 +50927,22 @@ Goodies:
 slug: the_thaumaturge
 
 Game + DLC: 
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-1.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-2.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-3.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-4.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-5.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018)-6.bin
-|---> setup_the_thaumaturge_0.0.70849_ship_20240319_185812_(64bit)_(72018).exe
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-1.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-2.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-3.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-4.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-5.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232)-6.bin
+|---> setup_the_thaumaturge_0.0.71136_ship_20240328_162638_(64bit)_(72232).exe
+|---> setup_the_thaumaturge_digital_deluxe_content_0.0.71136_ship_20240328_162638_(64bit)_(72232).exe
+
+Goodies: 
+|---> the_thaumaturge_digital_deluxe_content_artbook_v2.zip
+|---> the_thaumaturge_digital_deluxe_content_figurine.zip
+|---> the_thaumaturge_digital_deluxe_content_map.zip
+|---> the_thaumaturge_original_soundtrack_mp3.zip
+|---> the_thaumaturge_original_soundtrack_wav.zip
+|---> the_thaumaturge_wallpapers.zip
 
 
 
@@ -51232,10 +51571,10 @@ Goodies:
 slug: three_kingdoms_story_conussia
 
 Game + DLC: 
-|---> setup_three_kingdoms_story_conussia_-_complete_rework_gog_28042024_(72234).exe
-|---> setup_three_kingdoms_story_conussia_-_unrated_dlc_gog_28042024_(72234).exe
-|---> setup_three_kingdoms_story_conussia_gog_28042024_(72234)-1.bin
-|---> setup_three_kingdoms_story_conussia_gog_28042024_(72234).exe
+|---> setup_three_kingdoms_story_conussia_-_complete_rework_gog_27042024_(72921).exe
+|---> setup_three_kingdoms_story_conussia_-_unrated_dlc_gog_27042024_(72921).exe
+|---> setup_three_kingdoms_story_conussia_gog_27042024_(72921)-1.bin
+|---> setup_three_kingdoms_story_conussia_gog_27042024_(72921).exe
 
 
 
@@ -51290,8 +51629,8 @@ Goodies:
 slug: through_the_ages
 
 Game + DLC: 
-|---> setup_through_the_ages_-_new_leaders__wonders_2.19.973_(71320).exe
-|---> setup_through_the_ages_2.19.973_(71320).exe
+|---> setup_through_the_ages_-_new_leaders__wonders_2.19.993_(72709).exe
+|---> setup_through_the_ages_2.19.993_(72709).exe
 
 
 
@@ -51385,7 +51724,7 @@ Game + DLC:
 slug: tiger_heli
 
 Game + DLC: 
-|---> setup_tiger_heli_15_(64bit)_(71697).exe
+|---> setup_tiger_heli_18_(64bit)_(72706).exe
 
 
 
@@ -51857,8 +52196,8 @@ Game + DLC:
 slug: tomb_raider_i_to_iii_remastered
 
 Game + DLC: 
-|---> setup_tomb_raider_i-iii_remastered_1.01_patch_1_(71863)-1.bin
-|---> setup_tomb_raider_i-iii_remastered_1.01_patch_1_(71863).exe
+|---> setup_tomb_raider_i-iii_remastered_1.01_patch_2_(72583)-1.bin
+|---> setup_tomb_raider_i-iii_remastered_1.01_patch_2_(72583).exe
 
 
 
@@ -52333,15 +52672,15 @@ Goodies:
 slug: train_valley_2
 
 Game + DLC: 
-|---> setup_train_valley_2_-_editors_bulletin_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_-_passenger_flow_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_-_patent_pending_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_-_the_pandeia_project_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_myths__rails_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_workshop_gems_-_emerald_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_workshop_gems_-_ruby_1.6.9.6_(64bit)_(71870).exe
-|---> setup_train_valley_2_workshop_gems_-_sapphire_1.6.9.6_(64bit)_(71870).exe
+|---> setup_train_valley_2_-_editors_bulletin_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_-_passenger_flow_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_-_patent_pending_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_-_the_pandeia_project_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_myths__rails_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_workshop_gems_-_emerald_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_workshop_gems_-_ruby_1.7.0_(64bit)_(72687).exe
+|---> setup_train_valley_2_workshop_gems_-_sapphire_1.7.0_(64bit)_(72687).exe
 
 Goodies: 
 |---> train_valley_2_ost_mp3.zip
@@ -52586,7 +52925,7 @@ Goodies:
 slug: tribal_hunter
 
 Game + DLC: 
-|---> setup_tribal_hunter_1.0.1.91_(71857).exe
+|---> setup_tribal_hunter_1.0.2.1_(72459).exe
 
 Goodies: 
 |---> tribal_hunter_artbook.zip
@@ -52898,14 +53237,14 @@ Game + DLC:
 slug: truxton
 
 Game + DLC: 
-|---> setup_truxton_35_(64bit)_(72487).exe
+|---> setup_truxton_36_(64bit)_(72706).exe
 
 
 
 slug: truxton_2
 
 Game + DLC: 
-|---> setup_truxton_2_2_(64bit)_(72391).exe
+|---> setup_truxton_2_5_(64bit)_(72488).exe
 
 
 
@@ -52927,14 +53266,14 @@ Goodies:
 slug: tunguska_the_visitation
 
 Game + DLC: 
-|---> setup_tunguska_the_visitation_-_dead_zone_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_-_ghost_of_valentin_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_-_ravenwood_stories_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_-_shadow_master_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_-_slaughterhouse_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_-_way_of_the_hunter_1.81-2_1_(64bit)_(72494).exe
-|---> setup_tunguska_the_visitation_1.81-2_1_(64bit)_(72494)-1.bin
-|---> setup_tunguska_the_visitation_1.81-2_1_(64bit)_(72494).exe
+|---> setup_tunguska_the_visitation_-_dead_zone_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_-_ghost_of_valentin_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_-_ravenwood_stories_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_-_shadow_master_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_-_slaughterhouse_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_-_way_of_the_hunter_1.82-5_(64bit)_(72927).exe
+|---> setup_tunguska_the_visitation_1.82-5_(64bit)_(72927)-1.bin
+|---> setup_tunguska_the_visitation_1.82-5_(64bit)_(72927).exe
 
 
 
@@ -52969,9 +53308,9 @@ Game + DLC:
 slug: turbo_overkill
 
 Game + DLC: 
-|---> setup_turbo_overkill_1.20b_(64bit)_(69475)-1.bin
-|---> setup_turbo_overkill_1.20b_(64bit)_(69475)-2.bin
-|---> setup_turbo_overkill_1.20b_(64bit)_(69475).exe
+|---> setup_turbo_overkill_1.30_(72665)-1.bin
+|---> setup_turbo_overkill_1.30_(72665)-2.bin
+|---> setup_turbo_overkill_1.30_(72665).exe
 
 
 
@@ -53048,14 +53387,14 @@ Goodies:
 slug: twin_cobra
 
 Game + DLC: 
-|---> setup_twin_cobra_37_(64bit)_(72487).exe
+|---> setup_twin_cobra_38_(64bit)_(72706).exe
 
 
 
 slug: twin_hawk
 
 Game + DLC: 
-|---> setup_twin_hawk_2_(64bit)_(72391).exe
+|---> setup_twin_hawk_5_(64bit)_(72488).exe
 
 
 
@@ -53268,11 +53607,14 @@ Goodies:
 slug: ufo_robot_grendizer_the_feast_of_the_wolves
 
 Game + DLC: 
-|---> setup_goldorak__le_festin_des_loups_-_deluxe_upgrade_2023122201_grendizer_27.0.12007_(69897).exe
-|---> setup_goldorak__le_festin_des_loups_-_the_princely_outfit_2023122201_grendizer_27.0.12007_(69897).exe
-|---> setup_goldorak__le_festin_des_loups_2023122201_grendizer_27.0.12007_(69897)-1.bin
-|---> setup_goldorak__le_festin_des_loups_2023122201_grendizer_27.0.12007_(69897)-2.bin
-|---> setup_goldorak__le_festin_des_loups_2023122201_grendizer_27.0.12007_(69897).exe
+|---> setup_goldorak__le_festin_des_loups_-_deluxe_upgrade_2024032701_grendizer_27.0.12191_(72349).exe
+|---> setup_goldorak__le_festin_des_loups_-_the_princely_outfit_2024032701_grendizer_27.0.12191_(72349).exe
+|---> setup_goldorak__le_festin_des_loups_2024032701_grendizer_27.0.12191_(72349)-1.bin
+|---> setup_goldorak__le_festin_des_loups_2024032701_grendizer_27.0.12191_(72349)-2.bin
+|---> setup_goldorak__le_festin_des_loups_2024032701_grendizer_27.0.12191_(72349).exe
+
+Goodies: 
+|---> ufo_robot_grendizer_the_feast_of_the_wolves_soundtrack_mp3.zip
 
 
 
@@ -53651,7 +53993,7 @@ Game + DLC:
 slug: underground_blossom
 
 Game + DLC: 
-|---> setup_underground_blossom_1.1.9_(67976).exe
+|---> setup_underground_blossom_1.3_(72775).exe
 
 
 
@@ -53762,7 +54104,7 @@ Goodies:
 slug: unexplored_2_the_wayfarers_legacy
 
 Game + DLC: 
-|---> setup_unexplored_2_the_wayfarers_legacy_1.5.10_(68728).exe
+|---> setup_unexplored_2_the_wayfarers_legacy_1.6.14_(71753).exe
 
 Goodies: 
 |---> Unexplored2OST_mp3.zip
@@ -53847,8 +54189,7 @@ Goodies:
 slug: universe_sandbox
 
 Game + DLC: 
-|---> setup_universe_sandbox_34.0.4_(64bit)_(70988)-1.bin
-|---> setup_universe_sandbox_34.0.4_(64bit)_(70988).exe
+|---> setup_universe_sandbox_34.1.1_(64bit)_(71894).exe
 
 
 
@@ -53916,7 +54257,7 @@ Goodies:
 slug: unreal_lust_theory
 
 Game + DLC: 
-|---> setup_unreal_lust_theory_0.3.1_(72419).exe
+|---> setup_unreal_lust_theory_0.3.4_(64bit)_(72829).exe
 
 
 
@@ -54025,6 +54366,13 @@ Game + DLC:
 Goodies: 
 |---> unto_the_end_special_edition_art_book.zip
 |---> unto_the_end_special_edition_ost_mp3.zip
+
+
+
+slug: unveiling
+
+Game + DLC: 
+|---> setup_unveiling_v1.2.0_(64bit)_(71921).exe
 
 
 
@@ -54181,12 +54529,12 @@ Goodies:
 slug: vagrus_the_riven_realms
 
 Game + DLC: 
-|---> setup_vagrus_-_the_riven_realms_1.1600206j_(71002)-1.bin
-|---> setup_vagrus_-_the_riven_realms_1.1600206j_(71002).exe
-|---> setup_vagrus_-_the_riven_realms_patronage_pack_1.1600206j_(71002).exe
-|---> setup_vagrus_-_the_riven_realms_seekers_of_knowledge_1.1600206j_(71002).exe
-|---> setup_vagrus_-_the_riven_realms_sunfire_and_moonshadow_1.1600206j_(71002).exe
-|---> setup_vagrus_-_the_riven_realms_vorax_1.1600206j_(71002).exe
+|---> setup_vagrus_-_the_riven_realms_1.1600214k_(71218)-1.bin
+|---> setup_vagrus_-_the_riven_realms_1.1600214k_(71218).exe
+|---> setup_vagrus_-_the_riven_realms_patronage_pack_1.1600214k_(71218).exe
+|---> setup_vagrus_-_the_riven_realms_seekers_of_knowledge_1.1600214k_(71218).exe
+|---> setup_vagrus_-_the_riven_realms_sunfire_and_moonshadow_1.1600214k_(71218).exe
+|---> setup_vagrus_-_the_riven_realms_vorax_1.1600214k_(71218).exe
 
 Goodies: 
 |---> Digital_Art_Booklet.zip
@@ -54626,7 +54974,7 @@ Goodies:
 slug: vimana
 
 Game + DLC: 
-|---> setup_vimana_15_(64bit)_(71697).exe
+|---> setup_vimana_18_(64bit)_(72706).exe
 
 
 
@@ -54780,6 +55128,9 @@ slug: volley_pals
 
 Game + DLC: 
 |---> setup_volley_pals_1.0_(64bit)_(69559).exe
+
+Goodies: 
+|---> Volley_Pals_Soundtrack.zip
 
 
 
@@ -55067,17 +55418,17 @@ Goodies:
 slug: warhammer_40000_battlesector
 
 Game + DLC: 
-|---> setup_warhammer_40000_battlesector_-_blood_angels_elites_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_daemons_of_khorne_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_necrons_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_orks_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_sisters_of_battle_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_tau_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_-_tyranid_elites_1.04.72_(64bit)_(71149).exe
-|---> setup_warhammer_40000_battlesector_1.04.72_(64bit)_(71149)-1.bin
-|---> setup_warhammer_40000_battlesector_1.04.72_(64bit)_(71149)-2.bin
-|---> setup_warhammer_40000_battlesector_1.04.72_(64bit)_(71149)-3.bin
-|---> setup_warhammer_40000_battlesector_1.04.72_(64bit)_(71149).exe
+|---> setup_warhammer_40000_battlesector_-_blood_angels_elites_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_daemons_of_khorne_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_necrons_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_orks_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_sisters_of_battle_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_tau_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_-_tyranid_elites_1.04.76_(64bit)_(71657).exe
+|---> setup_warhammer_40000_battlesector_1.04.76_(64bit)_(71657)-1.bin
+|---> setup_warhammer_40000_battlesector_1.04.76_(64bit)_(71657)-2.bin
+|---> setup_warhammer_40000_battlesector_1.04.76_(64bit)_(71657)-3.bin
+|---> setup_warhammer_40000_battlesector_1.04.76_(64bit)_(71657).exe
 
 Goodies: 
 |---> warhammer_40k_battlesector_soundtrack_mp3.zip
@@ -55174,22 +55525,22 @@ Goodies:
 slug: warhammer_40000_gladius_relics_of_war
 
 Game + DLC: 
-|---> setup_warhammer_40000_gladius_-_adepta_sororitas_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_adeptus_mechanicus_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_assault_pack_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_craftworld_aeldari_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_drukhari_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_firepower_pack_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_fortification_pack_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_relics_of_war_1.13.02_(69633)-1.bin
-|---> setup_warhammer_40000_gladius_-_relics_of_war_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_relics_of_war_lord_of_skulls_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_tau_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_-_tyranids_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius_specialist_pack_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius__chaos_space_marines_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius__escalation_pack_1.13.02_(69633).exe
-|---> setup_warhammer_40000_gladius__reinforcement_pack_1.13.02_(69633).exe
+|---> setup_warhammer_40000_gladius_-_adepta_sororitas_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_adeptus_mechanicus_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_assault_pack_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_craftworld_aeldari_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_drukhari_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_firepower_pack_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_fortification_pack_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_relics_of_war_1.13.04_(72204)-1.bin
+|---> setup_warhammer_40000_gladius_-_relics_of_war_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_relics_of_war_lord_of_skulls_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_tau_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_-_tyranids_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius_specialist_pack_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius__chaos_space_marines_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius__escalation_pack_1.13.04_(72204).exe
+|---> setup_warhammer_40000_gladius__reinforcement_pack_1.13.04_(72204).exe
 
 Goodies: 
 |---> gladius_relics_of_war_soundtrack_flac.zip
@@ -55234,34 +55585,35 @@ Goodies:
 slug: warhammer_40000_rogue_trader
 
 Game + DLC: 
-|---> setup_warhammer_40000_rogue_trader_-_deluxe_pack_windows_1.1.31.465_release_(71369).exe
-|---> setup_warhammer_40000_rogue_trader_-_limited_outfit_windows_1.1.31.465_release_(71369).exe
-|---> setup_warhammer_40000_rogue_trader_-_voidfarer_pack_windows_1.1.31.465_release_(71369).exe
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-1.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-2.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-3.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-4.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-5.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-6.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-7.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369)-8.bin
-|---> setup_warhammer_40000_rogue_trader_windows_1.1.31.465_release_(71369).exe
+|---> setup_warhammer_40000_rogue_trader_-_deluxe_pack_windows_1.1.58.505_release_(72681).exe
+|---> setup_warhammer_40000_rogue_trader_-_limited_outfit_windows_1.1.58.505_release_(72681).exe
+|---> setup_warhammer_40000_rogue_trader_-_voidfarer_pack_windows_1.1.58.505_release_(72681).exe
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-1.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-2.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-3.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-4.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-5.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-6.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-7.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681)-8.bin
+|---> setup_warhammer_40000_rogue_trader_windows_1.1.58.505_release_(72681).exe
 
 Goodies: 
 |---> warhammer_40000_rogue_trader_artbook.zip
-|---> warhammer_40000_rogue_trader_ost_flac.zip
-|---> warhammer_40000_rogue_trader_ost_mp3.zip
 |---> warhammer_40000_rogue_trader_wallpapers.zip
+|---> warhammer_40000_rt_ost_flac.zip
+|---> warhammer_40000_rt_ost_mp3.zip
 
 
 
 slug: warhammer_40000_sanctus_reach
 
 Game + DLC: 
-|---> setup_warhammer_40000_sanctus_reach_-_horrors_of_the_warp_1.3.1b_(39760).exe
-|---> setup_warhammer_40000_sanctus_reach_-_legacy_of_the_weirdboy_1.3.1b_(39760).exe
-|---> setup_warhammer_40000_sanctus_reach_-_sons_of_cadia_1.3.1b_(39760).exe
-|---> setup_warhammer_40000_sanctus_reach_1.3.1b_(39760).exe
+|---> setup_warhammer_40000_sanctus_reach_-_horrors_of_the_warp_1.5.0a_(71871).exe
+|---> setup_warhammer_40000_sanctus_reach_-_legacy_of_the_weirdboy_1.5.0a_(71871).exe
+|---> setup_warhammer_40000_sanctus_reach_-_sons_of_cadia_1.5.0a_(71871).exe
+|---> setup_warhammer_40000_sanctus_reach_1.5.0a_(71871)-1.bin
+|---> setup_warhammer_40000_sanctus_reach_1.5.0a_(71871).exe
 
 Goodies: 
 |---> sanctus_reach_manuals.zip
@@ -55533,7 +55885,7 @@ Game + DLC:
 slug: warsim_the_realm_of_aslona
 
 Game + DLC: 
-|---> setup_warsim_the_realm_of_aslona_warsim_1.1.5_(vassalisation_war_update)_(72421).exe
+|---> setup_warsim_the_realm_of_aslona_warsim_1.1.6_(new_start_update)_(72758).exe
 
 
 
@@ -55550,12 +55902,13 @@ Goodies:
 slug: wartales
 
 Game + DLC: 
-|---> setup_wartales_1.0.33020_(64bit)_(71893)-1.bin
-|---> setup_wartales_1.0.33020_(64bit)_(71893)-2.bin
-|---> setup_wartales_1.0.33020_(64bit)_(71893)-3.bin
-|---> setup_wartales_1.0.33020_(64bit)_(71893)-4.bin
-|---> setup_wartales_1.0.33020_(64bit)_(71893).exe
-|---> setup_wartales_pirates_of_belerion_1.0.33020_(64bit)_(71893).exe
+|---> setup_wartales_-_the_tavern_opens_1.0.34519_(64bit)_(72923).exe
+|---> setup_wartales_1.0.34519_(64bit)_(72923)-1.bin
+|---> setup_wartales_1.0.34519_(64bit)_(72923)-2.bin
+|---> setup_wartales_1.0.34519_(64bit)_(72923)-3.bin
+|---> setup_wartales_1.0.34519_(64bit)_(72923)-4.bin
+|---> setup_wartales_1.0.34519_(64bit)_(72923).exe
+|---> setup_wartales_pirates_of_belerion_1.0.34519_(64bit)_(72923).exe
 
 
 
@@ -55595,10 +55948,10 @@ Goodies:
 slug: war_hospital
 
 Game + DLC: 
-|---> setup_war_hospital_1.9_(72159)-1.bin
-|---> setup_war_hospital_1.9_(72159)-2.bin
-|---> setup_war_hospital_1.9_(72159).exe
-|---> setup_war_hospital__x-ray_1.9_(72159).exe
+|---> setup_war_hospital_1.10_(72542)-1.bin
+|---> setup_war_hospital_1.10_(72542)-2.bin
+|---> setup_war_hospital_1.10_(72542).exe
+|---> setup_war_hospital__x-ray_1.10_(72542).exe
 
 Goodies: 
 |---> war_hospital_digital_artbook.zip
@@ -55756,10 +56109,10 @@ Game + DLC:
 slug: wavecade
 
 Game + DLC: 
-|---> setup_wavecade_-_designs_pack_1.6.3_(1)_(64bit)_(68211).exe
-|---> setup_wavecade_-_propulsions_pack_1.6.3_(1)_(64bit)_(68211).exe
-|---> setup_wavecade_-_ships_pack_1.6.3_(1)_(64bit)_(68211).exe
-|---> setup_wavecade_1.6.3_(1)_(64bit)_(68211).exe
+|---> setup_wavecade_-_effect_color_pack_1.8.4_(3)_(64bit)_(72460).exe
+|---> setup_wavecade_-_ships_pack_1.8.4_(3)_(64bit)_(72460).exe
+|---> setup_wavecade_-_skins_pack_1.8.4_(3)_(64bit)_(72460).exe
+|---> setup_wavecade_1.8.4_(3)_(64bit)_(72460).exe
 
 
 
@@ -55983,17 +56336,17 @@ Goodies:
 slug: we_are_football_2024
 
 Game + DLC: 
-|---> setup_we_are_football_2024_1.1.0.13856072_(64bit)_(72183)-1.bin
-|---> setup_we_are_football_2024_1.1.0.13856072_(64bit)_(72183).exe
+|---> setup_we_are_football_2024_1.1.1.13996273_(64bit)_(72535)-1.bin
+|---> setup_we_are_football_2024_1.1.1.13996273_(64bit)_(72535).exe
 
 
 
 slug: we_are_not_alone
 
 Game + DLC: 
-|---> setup_we_are_not_alone_v1.5.2.gw_(72438)-1.bin
-|---> setup_we_are_not_alone_v1.5.2.gw_(72438)-2.bin
-|---> setup_we_are_not_alone_v1.5.2.gw_(72438).exe
+|---> setup_we_are_not_alone_v1.6gw_(72824)-1.bin
+|---> setup_we_are_not_alone_v1.6gw_(72824)-2.bin
+|---> setup_we_are_not_alone_v1.6gw_(72824).exe
 
 
 
@@ -56185,9 +56538,9 @@ Goodies:
 slug: wildermyth
 
 Game + DLC: 
-|---> setup_wildermyth_-_armors_and_skins_1.15505_orien_marten_(64bit)_(68180).exe
-|---> setup_wildermyth_1.15505_orien_marten_(64bit)_(68180)-1.bin
-|---> setup_wildermyth_1.15505_orien_marten_(64bit)_(68180).exe
+|---> setup_wildermyth_-_armors_and_skins_1.15511_orien_marten_hotfix_(64bit)_(69671).exe
+|---> setup_wildermyth_1.15511_orien_marten_hotfix_(64bit)_(69671)-1.bin
+|---> setup_wildermyth_1.15511_orien_marten_hotfix_(64bit)_(69671).exe
 
 
 
@@ -56252,11 +56605,11 @@ Game + DLC:
 slug: wingspan
 
 Game + DLC: 
-|---> setup_wingspan_-_european_expansion_196_(72346).exe
-|---> setup_wingspan_-_oceania_expansion_196_(72346).exe
-|---> setup_wingspan_-_seasonal_decorative_pack_196_(72346).exe
-|---> setup_wingspan_196_(72346)-1.bin
-|---> setup_wingspan_196_(72346).exe
+|---> setup_wingspan_-_european_expansion_201_(72731).exe
+|---> setup_wingspan_-_oceania_expansion_201_(72731).exe
+|---> setup_wingspan_-_seasonal_decorative_pack_201_(72731).exe
+|---> setup_wingspan_201_(72731)-1.bin
+|---> setup_wingspan_201_(72731).exe
 
 Goodies: 
 |---> wingspan_soundtrack_mp3.zip
@@ -56533,8 +56886,8 @@ Goodies:
 slug: withering_rooms
 
 Game + DLC: 
-|---> setup_withering_rooms_1.22_(72229)-1.bin
-|---> setup_withering_rooms_1.22_(72229).exe
+|---> setup_withering_rooms_v1.23_(72536)-1.bin
+|---> setup_withering_rooms_v1.23_(72536).exe
 
 
 
@@ -56601,7 +56954,7 @@ Game + DLC:
 slug: wizardry_proving_grounds_of_the_mad_overlord
 
 Game + DLC: 
-|---> setup_wizardry_proving_grounds_of_the_mad_overlord_0.4_(64bit)_(72053).exe
+|---> setup_wizardry_proving_grounds_of_the_mad_overlord_0.4.1_(64bit)_(72574).exe
 
 
 
@@ -56784,8 +57137,12 @@ Game + DLC:
 slug: worldless
 
 Game + DLC: 
-|---> setup_worldless_1.2.0_(68819)-1.bin
-|---> setup_worldless_1.2.0_(68819).exe
+|---> setup_worldless_1.3.3_(71505)-1.bin
+|---> setup_worldless_1.3.3_(71505).exe
+
+Goodies: 
+|---> worldless_soundtrack_mp3.zip
+|---> worldless_soundtrack_wav.zip
 
 
 
@@ -56909,7 +57266,8 @@ Goodies:
 slug: world_turtles
 
 Game + DLC: 
-|---> setup_world_turtles_0.1_(64bit)_(64194).exe
+|---> setup_world_turtles_0.2_(64bit)_(69253)-1.bin
+|---> setup_world_turtles_0.2_(64bit)_(69253).exe
 
 
 
@@ -57034,8 +57392,8 @@ Game + DLC:
 slug: wrestlequest
 
 Game + DLC: 
-|---> setup_wrestlequest_0.2.1.94.3b_(67633)-1.bin
-|---> setup_wrestlequest_0.2.1.94.3b_(67633).exe
+|---> setup_wrestlequest_1.1.2_(70537)-1.bin
+|---> setup_wrestlequest_1.1.2_(70537).exe
 
 
 
@@ -57632,7 +57990,7 @@ Game + DLC:
 slug: yes_your_grace
 
 Game + DLC: 
-|---> setup_yes_your_grace_v1.0.19_(47557).exe
+|---> setup_yes_your_grace_v1.0.20_(72848).exe
 
 Goodies: 
 |---> yes_your_grace_soundtrack_mp3.zip
@@ -57643,9 +58001,8 @@ Goodies:
 slug: yet_another_fantasy_title
 
 Game + DLC: 
-|---> setup_yet_another_fantasy_title_(yaft)_1.1_(72563)-1.bin
-|---> setup_yet_another_fantasy_title_(yaft)_1.1_(72563)-2.bin
-|---> setup_yet_another_fantasy_title_(yaft)_1.1_(72563).exe
+|---> setup_yet_another_fantasy_title_(yaft)_1.2_(72857)-1.bin
+|---> setup_yet_another_fantasy_title_(yaft)_1.2_(72857).exe
 
 
 
@@ -57943,7 +58300,7 @@ Game + DLC:
 slug: zero_wing
 
 Game + DLC: 
-|---> setup_zero_wing_36_(64bit)_(72487).exe
+|---> setup_zero_wing_37_(64bit)_(72706).exe
 
 
 
@@ -58107,10 +58464,14 @@ Game + DLC:
 slug: zoria_age_of_shattering
 
 Game + DLC: 
-|---> setup_zoria_age_of_shattering_1.0.5_(72419)-1.bin
-|---> setup_zoria_age_of_shattering_1.0.5_(72419)-2.bin
-|---> setup_zoria_age_of_shattering_1.0.5_(72419)-3.bin
-|---> setup_zoria_age_of_shattering_1.0.5_(72419).exe
+|---> setup_zoria_age_of_shattering_1.0.6_(72573)-1.bin
+|---> setup_zoria_age_of_shattering_1.0.6_(72573)-2.bin
+|---> setup_zoria_age_of_shattering_1.0.6_(72573)-3.bin
+|---> setup_zoria_age_of_shattering_1.0.6_(72573).exe
+
+Goodies: 
+|---> zoria_age_of_shattering_digital_bestiary.zip
+|---> zoria_age_of_shattering_soundtrack_wav.zip
 
 
 
