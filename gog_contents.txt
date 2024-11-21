@@ -6481,16 +6481,6 @@ Game + DLC:
 |---> setup_brigand_panama_14.8_(77718).exe
 
 
-slug: brigand_oaxacaen
-
-Game + DLC:
-|---> setup_brigand_battles_12.6_(68128).exe
-|---> setup_brigand_extras_12.6_(68128).exe
-|---> setup_brigand_nightmare_12.6_(68128).exe
-|---> setup_brigand_oaxaca_12.6_(68128).exe
-|---> setup_brigand_panama_12.6_(68128).exe
-
-
 slug: bright_memory
 
 Game + DLC:
